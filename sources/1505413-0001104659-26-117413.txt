@@ -1,0 +1,47 @@
+Company: VOC Energy Trust (CIK 1505413)
+Accession: 0001104659-26-117413
+Results released: 2026-10-20
+Press release: https://www.sec.gov/Archives/edgar/data/1505413/000110465926117413/tm2627983d1_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1505413/000110465926117413/0001104659-26-117413-index.htm
+Saved: 2026-10-25T21:58:56+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tm2627983d1_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+VOC Energy Trust Announces Trust Quarterly Distribution
+VOC ENERGY TRUST
+The Bank of New York Mellon Trust Company, N.A., Trustee
+NEWS RELEASE
+FOR IMMEDIATE RELEASE
+Houston, Texas, October 20, 2026 — VOC Energy Trust (NYSE Symbol — VOC) announced the Trust distribution of net profits for the quarterly payment period ended September 30, 2026.
+Unitholders of record on October 30, 2026 will receive a distribution amounting to $3,230,000 or $0.19 per unit, payable November 13, 2026.
+Volumes, average sales prices and net profits for the payment period were:
+Sales volumes:
+Oil (Bbl) | 102,393
+Natural gas (Mcf) | 67,181
+Total (BOE) | 113,590
+Average sales prices:
+Oil (per Bbl) | $ | 79.42
+Natural gas (per Mcf) | $ | 3.95
+Gross proceeds:
+Oil sales | $ | 8,132,063
+Natural gas sales | 265,110
+Total gross proceeds | $ | 8,397,173
+Costs:
+Lease operating expenses | $ | 3,593,735
+Production and property taxes | 219,202
+Development expenses | 424,491
+Total costs | $ | 4,237,428
+Net proceeds | $ | 4,159,745
+Percentage applicable to Trust’s Net Profits Interest | 80 | %
+Net profits interest | $ | 3,327,796
+Increase in cash reserve held by VOC Brazos Energy Partners, L.P. | 0
+Total cash proceeds available for the Trust | $ | 3,327,796
+Provision for current estimated Trust expenses | (97,796 | )
+Net cash proceeds available for distribution | $ | 3,230,000
+This press release contains forward-looking statements. Although VOC Brazos has advised the Trust that VOC Brazos believes that the expectations contained in this press release are reasonable, no assurances can be given that such expectations will prove to be correct. The announced distributable amount is based on the amount of cash received or expected to be received by the Trustee from the underlying properties on or prior to the record date with respect to the quarter ended September 30, 2026. Any differences in actual cash receipts by the Trust could affect this distributable amount. Other important factors that could cause these statements to differ materially include the actual results of drilling operations, risks inherent in drilling and production of oil and gas properties, the ability of commodity purchasers to make payment, actions by the members of the Organization of Petroleum Exporting Countries, and other risk factors described in the Trust’s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities and Exchange Commission. Statements made in this press release are qualified by the cautionary statements made in these risk factors. The Trust does not intend, and assumes no obligations, to update any of the statements included in this press release.
+Contact: | VOC Energy Trust
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+Elaina Rodgers
+(713) 483-6020
+811 Main Street, Floor 15, Houston, TX 77002
