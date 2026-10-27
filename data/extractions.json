@@ -228,5 +228,107 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1505413/000110465926117413/tm2627983d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1505413/000110465926117413/0001104659-26-117413-index.htm",
     "saved_at": "2026-10-25T21:58:56+08:00"
+  },
+  {
+    "cik": "721994",
+    "company": "LAKELAND FINANCIAL CORP",
+    "accession": "0000721994-26-000074",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 73.0,
+        "unit": "USD millions",
+        "quote": "Total revenue was $73.0 million for the third quarter of 2026"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 28.857,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 28,857 | $ | 26,404"
+      },
+      "diluted_eps": {
+        "value": 1.14,
+        "unit": "USD per share",
+        "quote": "DILUTED EARNINGS PER COMMON SHARE | $ | 1.14 | $ | 1.03"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says loan growth and margin expansion produced record net income.",
+        "quote": "Strong loan growth and healthy net interest margin expansion were reflected in the quality of our earnings performance in the quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO is proud of the rise in net interest margin, year on year and on a linked quarter basis.",
+        "quote": "We're particularly proud of the net interest margin expansion on a year-over-year basis as well as on a quarter-linked basis."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO says commercial loan growth is in double digits, with originations above paydowns.",
+        "quote": "The strength of loan growth during 2026 has been highlighted by double digit growth in commercial and industrial loans."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management calls the quarter a record and is optimistic about loan growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/721994-0000721994-26-000074.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/lkfn-20261026exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/0000721994-26-000074-index.htm",
+    "saved_at": "2026-10-27T21:45:17+08:00"
+  },
+  {
+    "cik": "842717",
+    "company": "BLUE RIDGE BANKSHARES, INC.",
+    "accession": "0001193125-26-432133",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": -4.164,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (4,164 | ) | $ | (1,295"
+      },
+      "diluted_eps": {
+        "value": -0.05,
+        "unit": "USD per share",
+        "quote": "Basic and diluted (loss) earnings per common share | $ | (0.05 | ) | $ | (0.01"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The interim CEO points to improvement in loans, deposits and expense control, and a large charge-off.",
+        "quote": "Our third quarter results reflect continued quarterly improvements in loan growth, loan yields, deposit mix, and noninterest"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The company says the credit issues behind the charge-off are unique to one borrower.",
+        "quote": "The Company believes the credit issues affecting this borrower are unique and not systemic to the Company's overall loan portfolio."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management reports improvement in margin and costs but also a net loss and a large charge-off."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/842717-0001193125-26-432133.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/brbs-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/0001193125-26-432133-index.htm",
+    "saved_at": "2026-10-27T21:45:17+08:00"
   }
 ]

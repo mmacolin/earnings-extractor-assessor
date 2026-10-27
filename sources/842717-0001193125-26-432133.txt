@@ -1,0 +1,403 @@
+Company: BLUE RIDGE BANKSHARES, INC. (CIK 842717)
+Accession: 0001193125-26-432133
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/brbs-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/0001193125-26-432133-index.htm
+Saved: 2026-10-27T21:45:17+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 brbs-ex99_1.htm EX-99.1
+Exhibit 99.1
+Blue Ridge Bankshares, Inc. Announces 2026 Third Quarter Results
+Expanded Net Interest Margin and Lower Operating Expenses Drove Improved Operating Performance
+RICHMOND, VA, October 26, 2026 /PRNewswire/ -- Blue Ridge Bankshares, Inc. (the “Company”) (NYSE American: BRBS), the holding company of Blue Ridge Bank, National Association (“Blue Ridge Bank” or the “Bank”) and BRB Financial Group, Inc., today announced financial results for the quarter ended September 30, 2026.
+For the quarter ended September 30, 2026, the Company reported a net loss of $4.2 million, or ($0.05) per diluted common share, compared to a net loss of $1.3 million, or ($0.01) per diluted common share, for the quarter ended June 30, 2026, and net income of $5.6 million, or $0.06 per diluted common share, for the quarter ended September 30, 2025. Net loss for the third and second quarters of 2026 included an after-tax provision for credit losses of $6.6 million and $3.2 million, respectively, while the quarter ended September 30, 2025 included an after-tax recovery of credit losses of $1.4 million. Provision for credit losses in the 2026 periods was primarily due to loans associated with a single out-of-market relationship originated prior to 2024. Net loss for the third quarter of 2026 also included after-tax merger-related expenses of $0.9 million.
+Excluding merger-related and severance expenses, pre-tax, pre-provision income ("Adjusted Pre-tax Earnings") for the third quarter of 2026 improved to $5.3 million1 compared to $2.9 million1 for the second quarter of 2026.
+On August 17, 2026, the Company and HomeTrust Bancshares, Inc. ("HomeTrust") jointly announced that the companies had entered into a definitive merger agreement, whereby the Company and the Bank would merge with and into HomeTrust and HomeTrust Bank, respectively (the "HomeTrust Merger"). Pending required approvals, including approvals by the shareholders of both companies, the HomeTrust Merger is anticipated to close in the first quarter of 2027. Merger-related expenses for the third quarter of 2026 were $1.2 million ($0.9 million after-tax).
+For the nine months ended September 30, 2026, the Company reported a net loss of $4.6 million, or ($0.05) per diluted common share, compared to net income of $6.5 million, or $0.07 per diluted common share, for the same period of 2025. Net loss for the nine months ended September 30, 2026 included an after-tax provision for (recovery of) credit losses, severance expenses, and merger-related expenses of $9.3 million, $1.7 million, and $0.9 million, respectively, compared to ($2.0) million, $0.9 million, and $0, respectively, for the same period of 2025. Adjusted Pre-tax Earnings for the nine months ended September 30, 2026 and September 30, 2025 were $10.3 million1 and $7.0 million1, respectively.
+''With the regulatory consent order lifted in late 2025, our focus this year turned to soundness, profitability, and growth in our core community bank markets. Our third quarter results reflect continued quarterly improvements in loan growth, loan yields, deposit mix, and noninterest
+1
+expense discipline. In addition, we further de-risked the balance sheet with a substantial charge-off on a legacy out-of-footprint relationship operating in the hydroponic farming business," commented Harry Golliday, interim president and chief executive officer.
+Q3 2026 Highlights
+(Comparisons for Third Quarter 2026 are relative to Second Quarter 2026 unless otherwise noted.)
+Net Income / Loss:
+•
+Net loss for the quarter was $4.2 million, or ($0.05) per diluted common share, compared to a net loss of $1.3 million, or ($0.01) per diluted common share, for the prior quarter.
+•
+For the quarter, pre-tax provision for credit losses, merger-related expenses, and severance expenses were $8.5 million, $1.2 million, and $0, respectively, compared to $4.1 million, $0, and $0.4 million, respectively, for the prior quarter.
+•
+Adjusted Pre-tax Earnings were $5.3 million1 and $2.9 million1 for the sequential quarters, an improvement of approximately 85%.
+Net Interest Income / Net Interest Margin ("NIM"):
+•
+Net interest income totaled $17.4 million and $16.5 million for the third and second quarters, respectively, an increase of $0.9 million. Interest income increased by $0.5 million in the quarter, primarily due to higher yields on and higher average balances of loans held for investment. Average balances of loans held for investment increased $44.8 million in the current quarter. Interest expense declined by $0.3 million from the prior quarter, primarily due to the reduction of higher cost time deposits, including brokered deposits.
+•
+Yields on loans held for investment were 5.64% and 5.54% for the third and second quarters, respectively, of which accretion of discounts on acquired loans contributed a positive 6 and 3 basis points, respectively.
+•
+Cost of deposits declined 3 basis points to 2.22% for the quarter from 2.25% for the prior quarter, while cost of funds declined 6 basis points to 2.35% from 2.41%. The third quarter recognition of an unamortized purchase accounting adjustment upon the early redemption of the Company's subordinated notes maturing October 15, 2029 (the "2029 Notes") decreased cost of funds by 4 basis points.
+•
+Net interest margin for the quarter was 3.08%, an improvement of 17 basis points from the prior quarter.
+2
+Capital:
+•
+The ratio of tangible common equity to tangible total assets was 11.4%1 at the third quarter end compared to 11.8%1 at the prior quarter end, while tangible book value per common share was $3.001 and $3.091 at the same respective dates.
+•
+At September 30, 2026, the Bank’s tier 1 leverage ratio, tier 1 risk-based capital ratio, common equity tier 1 capital ratio, and total risk-based capital ratio were 11.25%, 14.76%, 14.76%, and 15.96%, respectively, compared to 11.23%, 15.10%, 15.10%, and 16.36% respectively, at the prior quarter end.
+Noninterest Income / Noninterest Expense:
+•
+Noninterest income for the quarter was $2.6 million compared to $1.8 million for the prior quarter. Prior quarter other noninterest income included a $0.6 million loss recognized upon the liquidation of an equity method investment.
+•
+Noninterest expense was $15.9 million for both the third and second quarters. Compared to the second quarter, lower salaries and benefits expense of $1.1 million in the third quarter were offset by merger-related expenses of $1.2 million in the third quarter.
+•
+Headcount as of September 30, 2026 was 255 compared to 269 as of June 30, 2026.
+Income Tax:
+•
+Income tax benefit for the third and second quarters was $0.2 million and $0.3 million, respectively, with effective income tax rates for the same respective periods of 3.7% and 20.5%. The decline in the effective income tax rate for the third quarter was primarily attributable to limitations on the tax deductibility of compensation and certain merger-related expenses.
+Balance Sheet:
+•
+Total assets increased to $2.34 billion at quarter end from $2.33 billion at the prior quarter end, an increase of $15.8 million. Asset growth was driven primarily by a $33.1 million increase in loans held for investment, partially offset by a $18.4 million decrease in securities available for sale.
+•
+Total deposits, when excluding brokered deposits, decreased $19.2 million in the third quarter. Deposit declines, excluding brokered deposits, were primarily time deposits, which declined $29.9 million, while money market accounts increased $20.3 million. Brokered deposits of $28.9 million were paid off upon maturity in the quarter. The ratio of noninterest-bearing demand deposits to total deposits was 21.4% and 21.3% as of September 30, 2026 and June 30, 2026, respectively.
+3
+•
+On July 15, 2026, the Company redeemed the remainder of its 2029 Notes totaling $14.7 million, and upon the completion of the redemption, the Company had no outstanding subordinated notes. Borrowings from the Federal Home Loan Bank of Atlanta increased $86.0 million in the quarter to $236.0 million as of September 30, 2026.
+•
+Total stockholders' equity declined $7.8 million in the quarter to $267.6 million at quarter end. The after-tax change in the market value of the Company's available-for-sale securities portfolio, driven by increased market interest rates, contributed $3.8 million of this decline.
+Asset Quality:
+•
+Nonperforming loans, which include nonaccrual loans and loans past due 90 days or more and accruing interest, were $24.9 million, or 1.07% of total assets, at September 30, 2026, compared to $31.2 million, or 1.34% of total assets, at June 30, 2026. The decrease in nonperforming loans includes a $9.9 million charge-off in the quarter of the previously-mentioned out-of-market loans to a single borrower. The loans were originated prior to 2024 by the Company's former government guaranteed lending team. The Company believes the credit issues affecting this borrower are unique and not systemic to the Company's overall loan portfolio. Following the third quarter charge-off, the remaining outstanding loan balances associated with this borrower totaled approximately $1.5 million as of September 30, 2026. Nonperforming assets, which include other real estate owned, were $26.7 million, or 1.14% of total assets, at September 30, 2026, compared to $32.8 million, or 1.41% of total assets, at June 30, 2026.
+•
+Provision for credit losses on loans of $8.0 million and $3.5 million for the third and second quarters, respectively, reflects provision needs associated with the previously-mentioned out-of-market loans. Provision for credit losses on unfunded commitments of $0.5 million and $0.6 million for the current and prior quarters, respectively, was due to an increase in committed but unfunded loans to commercial construction borrowers.
+•
+Allowance for credit losses as a percentage of total loans held for investment was 1.05% at September 30, 2026, compared to 1.19% at June 30, 2026. Net loan charge-offs were $10.3 million in the third quarter of 2026, of which $9.9 million was attributable to the previously-mentioned out-of-market loans. The ratio of net loan charge-offs to average loans outstanding (quarter-to-date annualized) was 2.20% and 0.14% for the third and second quarters, respectively.
+Income Statement:
+Net interest income was $17.4 million for the third quarter of 2026, compared to $16.5 million and $21.9 million for the second quarter of 2026 and the third quarter of 2025, respectively. Relative to the prior quarter, the increase reflected higher yields on and average balances of loans held for investment in combination with lower interest expense on deposits and subordinated notes, while relative to the year-ago period, the decrease reflected lower average balances of loans held for investment and loans held for sale.
+4
+Average balances of interest-earning assets were $2.26 billion for the third quarter of 2026, a decrease of $21.0 million from the prior quarter, and $177.6 million from the third quarter of 2025. Average balances of loans held for investment were $1.88 billion for the third quarter of 2026, an increase of $44.8 million from the prior quarter and a decrease of $55.8 million from the third quarter of 2025. Yields on loans held for investment were 5.64% for the third quarter of 2026, compared to 5.54% and 6.40% for the second quarter of 2026 and third quarter of 2025, respectively. Loan yields in the third quarter of 2025 benefited by 62 basis points from $3.0 million of fee income recognized upon the payoff of an out-of-market loan. Accretion of discounts on acquired loans had a 6, 3, and 7 basis point positive effect on loans held for investment yields in the third quarter of 2026, second quarter of 2026, and third quarter of 2025, respectively.
+Average balances of interest-bearing liabilities were $1.65 billion for both the third and second quarters of 2026, and $1.74 billion for the third quarter of 2025, a decline of $91.3 million from the 2025 period. The decline in average balances of interest-bearing liabilities relative to the third quarter of 2025 was primarily due to reductions of interest-bearing deposits ($121.4 million) and borrowings ($13.3 million of subordinated notes), partially offset by an increase in average balances of FHLB borrowings ($43.4 million). Interest expense declined by $0.3 million to $12.0 million in the third quarter of 2026 from the second quarter of 2026 and by $2.3 million from the third quarter of 2025, primarily driven by lower average balances of higher cost brokered deposits and subordinated notes.
+Cost of funds was 2.35% for the third quarter of 2026, compared to 2.41% for the second quarter of 2026, and 2.65% for the third quarter of 2025, while cost of deposits was 2.22%, 2.25%, and 2.51%, for the same respective periods. These declines reflect lower average balances of higher-cost brokered deposits. Cost of deposits, excluding brokered deposits, was 1.98% and 1.97% for the third and second quarters, respectively, compared to 2.13% for the year-ago quarter period.
+NIM was 3.08% for the third quarter of 2026, compared to 2.91% in the prior quarter, and 3.60% for the third quarter of 2025. Improvement in NIM in the third quarter of 2026 relative to the second quarter of 2026 was primarily a result of an increase in yields on loans held for investment and lower cost of funds.
+Provision for (recovery of) credit losses on loans of $8.0 million, $3.5 million, and ($1.8 million) was reported in the third quarter of 2026, second quarter of 2026, and third quarter of 2025, respectively. Provision for credit losses on loans in both the third and second quarters of 2026 was primarily driven by provision needs for the previously-mentioned out-of-market loans. Provision for credit losses for unfunded commitments of $0.5 million, $0.6 million, and $0 was reported in the third quarter of 2026, second quarter of 2026, and third quarter of 2025, respectively. Provision for credit losses for unfunded commitments in the third and second quarters of 2026 reflected an increase in committed but unfunded loans to commercial construction borrowers.
+Noninterest income was $2.6 million for the third quarter of 2026, compared to $1.8 million for the second quarter of 2026, and $3.8 million for the third quarter of 2025. Noninterest income for the second quarter of 2026 included a $0.6 million loss recognized upon the liquidation of an
+5
+equity method investment, while noninterest income in the third quarter of 2025 included $0.7 million related to the 2024 sale of mortgage servicing rights.
+Noninterest expense was $15.9 million for both the third and second quarters of 2026, and $20.0 million for the third quarter of 2025. Noninterest expense declines from the second quarter of 2026 associated with salaries and employee benefits were offset by merger-related expenses. The $4.2 million decrease from the year-ago period was primarily driven by a decline in salaries and employee benefits ($3.5 million) and legal and regulatory filings ($0.8 million), partially offset by $1.2 million of merger-related expenses in the third quarter of 2026. The number of employees decreased from 311 at September 30, 2025 to 255 at September 30, 2026.
+Balance Sheet:
+Loans held for investment were $1.89 billion at September 30, 2026, compared to $1.85 billion at June 30, 2026, and $1.91 billion at September 30, 2025. The $33.1 million increase compared to the prior quarter was primarily driven by growth in residential mortgages arising from the Company's agreement with a third-party residential mortgage originator, whereby the Company purchases adjustable-rate mortgage loans originated generally within its market area. This program provides a primary mortgage product to the Company's consumer customers. Loans held for investment declined $26.1 million from the third quarter of 2025. Loans held for sale at both September 30, 2026 and June 30, 2026 were $0, compared to $12.8 million as of September 30, 2025, reflecting the exit of indirect fintech lending.
+Total deposits were $1.81 billion at September 30, 2026, a decrease of $48.2 million and $136.9 million from June 30, 2026 and September 30, 2025, respectively. Brokered deposit balances were $156.9 million, $185.8 million, and $267.9 million at the end of the third quarter of 2026, second quarter of 2026, and third quarter of 2025, respectively. Brokered deposits as a percentage of total deposits declined to 8.6% at September 30, 2026, from 10.0% at June 30, 2026, and 13.7% at September 30, 2025. Excluding brokered deposits, total deposits decreased $19.2 million from June 30, 2026 and $25.9 million from September 30, 2025. Time deposit, excluding brokered, declines in the quarter of $29.9 million were partially offset by an increase of $19.2 million in interest-bearing and money market accounts.
+Noninterest-bearing deposits represented 21.4%, 21.3%, and 21.1% of total deposits at September 30, 2026, June 30, 2026, and September 30, 2025, respectively. Excluding brokered deposits, noninterest-bearing deposits represented 23.4%, 23.6%, and 24.4% of total deposits as of the same respective dates.
+Subordinated notes were $0 at September 30, 2026 compared to $14.7 million at both June 30, 2026 and September 30, 2025, reflective of the redemption of the remaining 2029 Notes in the third quarter of 2026. Upon the completion of this redemption, the Company had no outstanding subordinated notes. FHLB borrowings increased $86.0 million from balances at both June 30, 2026 and September 30, 2025.
+6
+About Blue Ridge Bankshares, Inc.:
+Blue Ridge Bankshares, Inc. is the holding company for Blue Ridge Bank and BRB Financial Group, Inc. The Company, through its subsidiaries and affiliates, provides a wide range of financial services including retail and commercial banking, and retail mortgage lending. The Company also provides investment and wealth management services and management services for personal and corporate trusts, including estate planning and trust administration. Visit www.mybrb.com for more information.
+Reclassifications:
+Certain amounts presented in the consolidated financial statements of prior periods have been reclassified to conform to current period presentations. The reclassifications had no effect on net income (loss), net income (loss) per share, or stockholders’ equity, as previously reported.
+Non-GAAP Financial Measures:
+The accounting and reporting policies of the Company conform to U.S. generally accepted accounting principles (“GAAP”) and prevailing practices in the banking industry. However, management uses certain non-GAAP measures, including tangible assets, tangible common equity, tangible book value per common share, and tangible common equity to tangible total assets to supplement the evaluation of the Company’s financial condition and performance. Management believes presentations of these non-GAAP financial measures provide useful supplemental information that is essential to a proper understanding of the financial condition and capital position of the Company’s business. In addition, management uses pre-tax, pre-provision income excluding merger-related and severance expenses to supplement the evaluation of the Company's statement of operations. These non-GAAP disclosures should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Reconciliations of GAAP to non-GAAP measures are included at the end of this release.
+Forward-Looking Statements:
+This release of the Company contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent plans, estimates, objectives, goals, guidelines, expectations, intentions, projections, and statements of management’s beliefs concerning future events, business plans, objectives, expected operating results, and the assumptions upon which those statements are based. Forward-looking statements include without limitation, any statement that may predict, forecast, indicate, or imply future results, performance or achievements, and are typically identified with words such as “may,” “could,” “should,” “will,” “would,” “believe,” “anticipate,” “estimate,” “expect,” “aim,” “intend,” “plan,” or words of similar meaning. The Company cautions that the forward-looking statements are based largely on management’s expectations and are subject to a number of known and unknown risks and uncertainties that may change based on factors which are, in many instances, beyond its control. Actual results, performance, or achievements could
+7
+differ materially from those contemplated, expressed, or implied by the forward-looking statements.
+The following factors, among others, could cause the Company’s financial performance to differ materially from that expressed in such forward-looking statements:
+•
+the strength of the United States economy in general and the strength of the local economies in which the Company conducts operations;
+•
+the effects of, and changes in, the macroeconomic environment and financial market conditions, including monetary and fiscal policies, interest rates and inflation;
+•
+reputational risk and potential adverse reactions of the Company’s customers, suppliers, employees, or other business partners;
+•
+the quality and composition of the Company’s loan and investment portfolios, including changes in the level of the Company’s nonperforming assets and charge-offs;
+•
+the Company’s management of risks inherent in its loan portfolio, the credit quality of its borrowers, and the risk of a prolonged downturn in the real estate market, which could impair the value of the Company’s collateral and its ability to sell collateral upon any foreclosure;
+•
+the timing and completion of the HomeTrust Merger is dependent on the satisfaction of customary closing conditions, and various other factors that cannot be predicted with precision at this point;
+•
+the occurrence of any event, change or other circumstance that could give rise to the right of HomeTrust, the Company or both to terminate the merger agreement;
+•
+completion of the HomeTrust Merger is subject to bank regulatory approvals and such approvals may not be obtained in a timely manner or at all or may be subject to conditions which may cause additional significant expense or delay the consummation of the HomeTrust Merger;
+•
+potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement or completion of the HomeTrust Merger;
+•
+the diversion of attention and time by the management team of the Company from ongoing business operations and opportunities on merger-related matters;
+•
+the outcome of any legal proceedings related to the HomeTrust Merger which may be instituted against the Company;
+•
+the ability to maintain adequate liquidity by growing and retaining deposits and secondary funding sources, especially if the Company's or its industry's reputation becomes damaged;
+•
+the emergence of digital assets and payment stablecoins, and evolving legislative or regulatory frameworks, which could alter deposit flows, competition, and credit intermediation and in turn, adversely affect the Company’s funding, liquidity, or overall financial performance;
+•
+the ability to maintain capital levels adequate to support the Company's business;
+•
+the ability of the Company to implement cost-saving initiatives and efficiency measures, as well as increase earning assets, in order to yield acceptable levels of profitability;
+•
+the ability to generate sufficient future taxable income for the Company to realize its deferred tax assets, including the net operating loss carryforward;
+8
+•
+the usage of advances and changes in technological and social media to develop timely and competitive products and services, and the acceptance of these products and services by new and existing customers;
+•
+the willingness of users to substitute competitors’ products and services for the Company’s products and services;
+•
+the impact of unanticipated outflows of deposits;
+•
+potential exposure to fraud, negligence, computer theft, and cyber-crime;
+•
+adverse developments in the financial industry generally, such as bank failures, responsive measures to mitigate and manage such developments, supervisory and regulatory actions and costs, and related impacts on customer and client behavior;
+•
+changing bank regulatory conditions, policies or programs, whether arising as new legislation or regulatory initiatives, that could lead to restrictions on activities of banks generally, or the Bank in particular, more restrictive regulatory capital requirements, increased costs, including deposit insurance premiums, regulation or prohibition of certain income producing activities or changes in the secondary market for loans and other products;
+•
+political developments, including government shutdowns and other significant disruptions and changes in the funding, size, scope and effectiveness of the federal government, its agencies and services;
+•
+the impact of changes in financial services policies, laws, and regulations, including laws, regulations, and policies concerning taxes, banking, securities, real estate and insurance, and the application thereof by bank regulatory bodies, and the three branches of the federal government;
+•
+the effect of changes in accounting standards, policies, and practices as may be adopted from time to time;
+•
+estimates of the fair value and other accounting values, subject to impairment assessments, of certain of the Company’s assets and liabilities;
+•
+geopolitical conditions, including acts or threats of terrorism and/or military conflicts, or actions taken by the United States or other governments in response to acts or threats of terrorism and/or military conflicts, which could impact business and economic conditions in the United States and abroad;
+•
+the economic impact of duties, tariffs, or other barriers or restrictions on trade, any retaliatory countermeasures, and the volatility and uncertainty arising therefrom;
+•
+the occurrence or continuation of widespread health emergencies or pandemics, significant natural disasters, severe weather conditions, ﬂoods and other catastrophic events;
+•
+the Company’s involvement in, and the outcome of, any litigation, legal proceedings or enforcement actions that may be instituted against the Company; and
+•
+other risks and factors identified in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” sections and elsewhere in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 and in ﬁlings the Company makes from time to time with the U.S. Securities and Exchange Commission (“SEC”).
+The foregoing factors should not be considered exhaustive and should be read together with other cautionary statements that are included in filings the Company makes from time to time
+9
+with the SEC. Any one of these risks or factors could have a material adverse impact on the Company’s results of operations or financial condition, or cause the Company’s actual results, performance or achievements to differ materially from those expressed in, or implied by, forward-looking information and statements contained in this release. Moreover, new risks and uncertainties emerge from time to time, and it is not possible for the Company to predict all risks and uncertainties that could have an impact on its forward-looking statements. Therefore, the Company cautions not to place undue reliance on its forward-looking information and statements, which speak only as of the date of this release. The Company does not undertake to, and will not, update or revise these forward-looking statements after the date hereof, whether as a result of new information, future events, or otherwise.
+No Offer or Solicitation
+This press release and related communications are not intended to and shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus that meets the requirements of Section 10 of the Securities Act of 1933, as amended.
+Important Information and Where You Can Find It
+In connection with the HomeTrust Merger, HomeTrust has filed with the SEC a Registration Statement on Form S-4 (the “Registration Statement”) that includes a preliminary joint proxy statement of the Company and HomeTrust and a preliminary prospectus of HomeTrust (the “Joint Proxy Statement/Prospectus”), as well as other relevant documents concerning the proposed transaction. After the Registration Statement is declared effective, the Company and HomeTrust will mail a definitive Joint Proxy Statement/Prospectus to their shareholders and stockholders, respectively. This communication is not a substitute for the Joint Proxy Statement/Prospectus or Registration Statement or for any other document that the Company or HomeTrust may file with the SEC and send to their respective shareholders or stockholders in connection with the HomeTrust Merger. Shareholders of the Company and stockholders of HomeTrust are urged to read carefully the Registration Statement and the Joint Proxy Statement/Prospectus regarding the HomeTrust Merger when they become available and any other relevant documents filed with the SEC, as well as any amendments or supplements to those documents, because they will contain important information.
+Free copies of the Joint Proxy Statement/Prospectus included in the Registration Statement, as well as other filings containing information about the Company, HomeTrust, and the proposed transaction, may be obtained at the SEC’s website (www.sec.gov). You will also be able to obtain these documents, free of charge, in the “Investor Relations” section of the Company’s website, www.mybrb.bank, under “SEC Filings” in the “Financials” heading, and in the “Investor Relations” section of HomeTrust’s website, www.htb.com, under “SEC Filings” in the “Financials & Filings” heading, or by requesting them in writing or by telephone from the Company at: Blue Ridge Bankshares, Inc., 1801 Bayberry Court, Suite 101, Richmond, Virginia 23226, Attn: Judy C. Gavant; Telephone (804) 518-2606 or by requesting them in writing or by
+10
+telephone from HomeTrust at: HomeTrust Bancshares, Inc., 10 Woodfin Street, Asheville, North Carolina 28801, Attn: Tony J. VunCannon; Telephone (828) 350-3049.
+Participants in Solicitation
+The Company and HomeTrust and certain of their respective directors and executive officers may be deemed to be participants in the solicitation of proxies from the shareholders of the Company and the stockholders of HomeTrust in respect of the HomeTrust Merger. Information regarding the Company’s directors and executive officers is contained in Blue Ridge’s definitive proxy statement on Schedule 14A filed with the SEC on April 30, 2026. Information regarding HomeTrust’s directors and executive officers is contained in HomeTrust’s definitive proxy statement on Schedule 14A filed with the SEC on April 7, 2026. Additional information regarding the interests of those participants and other persons who may be deemed participants in the transaction may be obtained by reading the Joint Proxy Statement/Prospectus regarding the HomeTrust Merger when it becomes available. Free copies of this document may be obtained as described above.
+1 Non-GAAP financial measure. Further information can be found at the end of this press release.
+11
+Blue Ridge Bankshares, Inc.
+Consolidated Balance Sheets
+(Dollars in thousands, except share data) | (unaudited) September 30, 2026 | December 31, 2025 (1)
+Assets
+Cash and due from banks | $ | 59,995 | $ | 115,949
+Federal funds sold | 502 | 1,851
+Securities available for sale, at fair value | 298,643 | 332,928
+Restricted equity investments | 20,820 | 19,016
+Other equity investments | 5,018 | 4,910
+Other investments | 14,859 | 20,781
+Loans held for sale | — | 14,769
+Loans held for investment, net of deferred fees and costs | 1,886,596 | 1,865,717
+Less: allowance for credit losses | (19,723 | ) | (19,444 | )
+Loans held for investment, net | 1,866,873 | 1,846,273
+Accrued interest receivable | 10,597 | 10,787
+Other real estate owned | 1,704 | 1,683
+Premises and equipment, net | 21,195 | 21,549
+Right-of-use lease asset | 5,782 | 6,637
+Other intangible assets | 1,949 | 2,642
+Deferred tax asset, net | 23,998 | 22,721
+Other assets | 11,150 | 10,093
+Total assets | $ | 2,343,085 | $ | 2,432,589
+Liabilities and Stockholders’ Equity
+Deposits:
+Noninterest-bearing demand | $ | 388,158 | $ | 398,541
+Interest-bearing demand and money market deposits | 611,683 | 612,648
+Savings | 101,240 | 100,346
+Time deposits | 713,102 | 799,627
+Total deposits | 1,814,183 | 1,911,162
+FHLB borrowings | 236,000 | 150,000
+Subordinated notes, net | — | 14,716
+Lease liability | 6,296 | 7,233
+Other liabilities | 19,014 | 25,787
+Total liabilities | 2,075,493 | 2,108,898
+Commitments and contingencies
+Stockholders’ Equity:
+Common stock, no par value; 150,000,000 shares authorized at September 30, 2026 and December 31, 2025, respectively; and 89,687,067 and 91,475,278 shares issued and outstanding at September 30, 2026 and December 31, 2025, respectively | 332,599 | 331,917
+Additional paid-in capital | 23,552 | 23,552
+Accumulated deficit | (52,899 | ) | (659 | )
+Accumulated other comprehensive loss, net of tax | (35,660 | ) | (31,119 | )
+Total stockholders’ equity | 267,592 | 323,691
+Total liabilities and stockholders’ equity | $ | 2,343,085 | $ | 2,432,589
+(1) Derived from audited December 31, 2025 Consolidated Financial Statements.
+12
+Blue Ridge Bankshares, Inc.
+Consolidated Statements of Income (unaudited)
+For the Three Months Ended
+(Dollars in thousands, except per common share data) | September 30, 2026 | June 30, 2026 | September 30, 2025
+Interest income:
+Interest and fees on loans | $ | 26,470 | $ | 25,381 | $ | 32,000
+Interest on securities, deposit accounts, and federal funds sold | 2,894 | 3,465 | 4,213
+Total interest income | 29,364 | 28,846 | 36,213
+Interest expense:
+Interest on deposits | 10,202 | 10,583 | 12,501
+Interest on subordinated notes | (143 | ) | 273 | 338
+Interest on FHLB borrowings | 1,899 | 1,447 | 1,463
+Total interest expense | 11,958 | 12,303 | 14,302
+Net interest income | 17,406 | 16,543 | 21,911
+Provision for (recovery of) credit losses - loans | 8,000 | 3,500 | (1,800 | )
+Provision for credit losses - unfunded commitments | 450 | 550 | —
+Total provision for (recovery of) credit losses | 8,450 | 4,050 | (1,800 | )
+Net interest income after provision for (recovery of) credit losses | 8,956 | 12,493 | 23,711
+Noninterest income:
+Service charges on deposit accounts | 673 | 642 | 725
+Bank and purchase card interchange income, net | 679 | 620 | 567
+Wealth and trust management fees | 524 | 520 | 458
+Income on sale of MSRs | 87 | — | 737
+Other | 632 | (12 | ) | 1,346
+Total noninterest income | 2,595 | 1,770 | 3,833
+Noninterest expense:
+Salaries and employee benefits | 7,882 | 9,028 | 11,388
+Occupancy and equipment | 1,065 | 1,062 | 1,190
+Technology and communications | 1,923 | 1,916 | 2,314
+Legal and regulatory filings | 222 | 477 | 1,008
+Advertising and marketing | 451 | 423 | 267
+Audit fees | 121 | 226 | 161
+FDIC insurance | 236 | 318 | 239
+Intangible amortization | 181 | 191 | 223
+Other contractual services | 317 | 344 | 645
+Other taxes and assessments | 805 | 842 | 895
+Merger-related expenses | 1,155 | — | —
+Other | 1,517 | 1,064 | 1,711
+Total noninterest expense | 15,875 | 15,891 | 20,041
+(Loss) income before income taxes | (4,324 | ) | (1,628 | ) | 7,503
+Income tax (benefit) expense | (160 | ) | (333 | ) | 1,900
+Net (loss) income | $ | (4,164 | ) | $ | (1,295 | ) | $ | 5,603
+Basic and diluted (loss) earnings per common share | $ | (0.05 | ) | $ | (0.01 | ) | $ | 0.06
+13
+Blue Ridge Bankshares, Inc.
+Consolidated Statements of Income (unaudited)
+For the Nine Months Ended
+(Dollars in thousands, except per common share data) | September 30, 2026 | September 30, 2025
+Interest income:
+Interest and fees on loans | $ | 77,560 | $ | 93,884
+Interest on securities, deposit accounts, and federal funds sold | 10,039 | 12,415
+Total interest income | 87,599 | 106,299
+Interest expense:
+Interest on deposits | 31,545 | 39,495
+Interest on subordinated notes | 421 | 1,720
+Interest on FHLB borrowings | 4,778 | 4,342
+Total interest expense | 36,744 | 45,557
+Net interest income | 50,855 | 60,742
+Provision for (recovery of) credit losses - loans | 10,900 | (2,500 | )
+Provision for credit losses - unfunded commitments | 1,000 | —
+Total provision for (recovery of) credit losses | 11,900 | (2,500 | )
+Net interest income after provision for (recovery of) credit losses | 38,955 | 63,242
+Noninterest income:
+Service charges on deposit accounts | 1,947 | 1,903
+Bank and purchase card interchange income, net | 1,844 | 1,760
+Wealth and trust management fees | 1,508 | 1,321
+Income on sale of MSRs | 87 | 1,026
+Other | 1,327 | 4,139
+Total noninterest income | 6,713 | 10,149
+Noninterest expense:
+Salaries and employee benefits | 27,967 | 36,998
+Occupancy and equipment | 3,366 | 3,700
+Technology and communications | 5,826 | 7,663
+Legal and regulatory filings | 1,281 | 1,842
+Advertising and marketing | 1,639 | 586
+Audit fees | 602 | 1,198
+FDIC insurance | 974 | 2,363
+Intangible amortization | 574 | 701
+Other contractual services | 863 | 1,673
+Other taxes and assessments | 2,475 | 2,771
+Merger-related expenses | 1,155 | —
+Other | 3,785 | 5,506
+Total noninterest expense | 50,507 | 65,001
+(Loss) income before income taxes | (4,839 | ) | 8,390
+Income tax (benefit) expense | (216 | ) | 1,925
+Net (loss) income | $ | (4,623 | ) | $ | 6,465
+Basic and diluted (loss) earnings per common share | $ | (0.05 | ) | $ | 0.07
+14
+Blue Ridge Bankshares, Inc.
+Quarter Summary of Selected Financial Data (unaudited)
+As of and for the Three Months Ended
+(Dollars and shares in thousands, except per common share data) | September 30, | June 30, | March 31, | December 31, | September 30,
+Income Statement Data: | 2026 | 2026 | 2026 | 2025 | 2025
+Interest income | $ | 29,364 | $ | 28,846 | $ | 29,389 | $ | 31,474 | $ | 36,213
+Interest expense | 11,958 | 12,303 | 12,483 | 13,355 | 14,302
+Net interest income | 17,406 | 16,543 | 16,906 | 18,119 | 21,911
+Provision for (recovery of) credit losses | 8,450 | 4,050 | (600 | ) | (1,500 | ) | (1,800 | )
+Net interest income after provision for (recovery of) credit losses | 8,956 | 12,493 | 17,506 | 19,619 | 23,711
+Noninterest income | 2,595 | 1,770 | 2,348 | 2,687 | 3,833
+Noninterest expense | 15,875 | 15,891 | 18,741 | 16,921 | 20,041
+(Loss) income before income taxes | (4,324 | ) | (1,628 | ) | 1,113 | 5,385 | 7,503
+Income tax (benefit) expense | (160 | ) | (333 | ) | 277 | 1,141 | 1,900
+Net (loss) income | (4,164 | ) | (1,295 | ) | 836 | 4,244 | 5,603
+Per Common Share Data:
+(Loss) earnings per common share - basic | $ | (0.05 | ) | $ | (0.01 | ) | $ | 0.01 | $ | 0.05 | $ | 0.06
+(Loss) earnings per common share - diluted | (0.05 | ) | (0.01 | ) | 0.01 | 0.04 | 0.06
+Cash dividends per common share | — | — | 0.60 | 0.25 | —
+Book value per common share | 3.02 | 3.11 | 3.13 | 3.68 | 4.03
+Tangible book value per common share - Non-GAAP | 3.00 | 3.09 | 3.11 | 3.65 | 4.01
+Balance Sheet Data:
+Total assets | $ | 2,343,085 | $ | 2,327,317 | $ | 2,414,046 | $ | 2,432,589 | $ | 2,496,949
+Average assets | 2,338,158 | 2,367,772 | 2,423,491 | 2,473,241 | 2,535,853
+Average interest-earning assets | 2,259,900 | 2,280,890 | 2,334,674 | 2,383,573 | 2,437,542
+Loans held for investment ("LHFI") | 1,886,596 | 1,853,461 | 1,833,899 | 1,865,717 | 1,912,726
+Allowance for credit losses | 19,723 | 22,039 | 19,184 | 19,444 | 20,503
+Purchase accounting adjustments (discounts) on acquired loans | 2,046 | 2,350 | 2,473 | 2,608 | 2,984
+Loans held for sale | — | — | — | 14,769 | 12,819
+Securities available for sale, at fair value | 298,643 | 317,016 | 331,914 | 332,928 | 341,354
+Noninterest-bearing demand deposits | 388,158 | 396,284 | 392,067 | 398,541 | 411,100
+Total deposits | 1,814,183 | 1,862,333 | 1,893,074 | 1,911,162 | 1,951,079
+Subordinated notes, net | — | 14,688 | 14,702 | 14,716 | 14,731
+FHLB advances | 236,000 | 150,000 | 150,000 | 150,000 | 150,000
+Average interest-bearing liabilities | 1,647,760 | 1,649,332 | 1,673,077 | 1,697,083 | 1,739,014
+Total stockholders' equity | 267,592 | 275,397 | 276,964 | 323,691 | 355,505
+Average stockholders' equity | 275,687 | 277,936 | 324,390 | 331,888 | 345,358
+Weighted average common shares outstanding - basic | 88,621 | 88,494 | 88,343 | 88,037 | 88,548
+Weighted average common shares outstanding - diluted | 88,621 | 88,494 | 99,758 | 99,207 | 99,384
+Outstanding warrants to purchase common stock | 24,116 | 24,116 | 24,320 | 24,320 | 27,549
+Financial Ratios:
+Return on average assets (2) | -0.71 | % | -0.22 | % | 0.14 | % | 0.69 | % | 0.88 | %
+Return on average equity (2) | -6.04 | % | -1.86 | % | 1.03 | % | 5.11 | % | 6.49 | %
+Total loan to deposit ratio | 104.0 | % | 99.5 | % | 96.9 | % | 98.4 | % | 98.7 | %
+Held for investment loan-to-deposit ratio | 104.0 | % | 99.5 | % | 96.9 | % | 97.6 | % | 98.0 | %
+Net interest margin (2) | 3.08 | % | 2.91 | % | 2.90 | % | 3.04 | % | 3.60 | %
+Yield of LHFI (2) | 5.64 | % | 5.54 | % | 5.50 | % | 5.66 | % | 6.40 | %
+Cost of deposits (2) | 2.22 | % | 2.25 | % | 2.27 | % | 2.40 | % | 2.51 | %
+Cost of funds (2) | 2.35 | % | 2.41 | % | 2.42 | % | 2.54 | % | 2.65 | %
+Efficiency ratio | 79.4 | % | 86.8 | % | 97.3 | % | 81.3 | % | 77.8 | %
+Noninterest expense to total assets (2) | 2.71 | % | 2.73 | % | 3.11 | % | 2.78 | % | 3.21 | %
+Capital and Asset Quality Ratios:
+Average stockholders' equity to average assets | 11.8 | % | 11.7 | % | 13.4 | % | 13.4 | % | 13.6 | %
+Allowance for credit losses to LHFI | 1.05 | % | 1.19 | % | 1.05 | % | 1.04 | % | 1.07 | %
+Ratio of net charge-offs (recoveries) to average loans outstanding (2) | 2.20 | % | 0.14 | % | -0.07 | % | -0.07 | % | -0.07 | %
+Nonperforming loans to total assets | 1.07 | % | 1.34 | % | 0.87 | % | 0.98 | % | 1.14 | %
+Nonperforming assets to total assets | 1.14 | % | 1.41 | % | 0.94 | % | 1.05 | % | 1.15 | %
+Nonperforming loans to total loans | 1.32 | % | 1.68 | % | 1.15 | % | 1.26 | % | 1.48 | %
+15
+Reconciliation of Non-GAAP Financial Measures (unaudited):
+As of and for the Three Months Ended
+(Dollars and shares in thousands, except per common share data) | September 30, | June 30, | March 31, | December 31, | September 30,
+Tangible Common Equity and Tangible Book Value Per Common Share: | 2026 | 2026 | 2026 | 2025 | 2025
+Common stockholders' equity | $ | 267,592 | $ | 275,397 | $ | 276,964 | $ | 323,691 | $ | 355,505
+Less: other intangibles, net of deferred tax liability (3) | (1,521 | ) | (1,690 | ) | (1,868 | ) | (2,052 | ) | (2,285 | )
+Tangible common equity (Non-GAAP) | $ | 266,071 | $ | 273,707 | $ | 275,096 | $ | 321,639 | $ | 353,220
+Total common shares outstanding | 89,687 | 89,655 | 89,797 | 91,475 | 91,637
+Less: unvested performance-based restricted stock awards | (1,067 | ) | (1,092 | ) | (1,412 | ) | (3,453 | ) | (3,460 | )
+Total common shares outstanding, adjusted | 88,620 | 88,563 | 88,385 | 88,022 | 88,177
+Book value per common share | $ | 3.02 | $ | 3.11 | $ | 3.13 | $ | 3.68 | $ | 4.03
+Tangible book value per common share (Non-GAAP) | 3.00 | 3.09 | 3.11 | 3.65 | 4.01
+Tangible Common Equity to Tangible Total Assets:
+Total assets | $ | 2,343,085 | $ | 2,327,317 | $ | 2,414,046 | $ | 2,432,589 | $ | 2,496,949
+Less: other intangibles, net of deferred tax liability (3) | (1,521 | ) | (1,690 | ) | (1,868 | ) | (2,052 | ) | (2,285 | )
+Tangible total assets (Non-GAAP) | $ | 2,341,564 | $ | 2,325,627 | $ | 2,412,178 | $ | 2,430,537 | $ | 2,494,664
+Tangible common equity (Non-GAAP) | $ | 266,071 | $ | 273,707 | $ | 275,096 | $ | 321,639 | $ | 353,220
+Tangible common equity to tangible total assets (Non-GAAP) | 11.4 | % | 11.8 | % | 11.4 | % | 13.2 | % | 14.2 | %
+Adjusted Pre-tax Earnings:
+(Loss) income before income taxes | $ | (4,324 | ) | $ | (1,628 | ) | $ | 1,113 | $ | 5,385 | $ | 7,503
+Add: Provision for (recovery of) credit losses | 8,450 | 4,050 | (600 | ) | (1,500 | ) | (1,800 | )
+Add : Severance expense | — | 436 | 1,682 | 45 | 131
+Add: Merger-related expenses | 1,155 | — | — | — | —
+Adjusted Pre-tax Earnings (Non-GAAP) | $ | 5,281 | $ | 2,858 | $ | 2,195 | $ | 3,930 | $ | 5,834
+As of and for the Nine Months Ended
+(Dollars and shares in thousands, except per common share data) | September 30, | September 30,
+Adjusted Pre-tax Earnings: | 2026 | 2025
+(Loss) income before income taxes | $ | (4,839 | ) | $ | 8,390
+Add: Provision for (recovery of) credit losses | 11,900 | (2,500 | )
+Add : Severance expense | 2,118 | 1,115
+Add: Merger-related expenses | 1,155 | —
+Adjusted Pre-tax Earnings (Non-GAAP) | $ | 10,334 | $ | 7,005
+(2) Annualized.
+(3) Excludes mortgage servicing rights.
+16
