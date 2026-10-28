@@ -330,5 +330,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/brbs-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/0001193125-26-432133-index.htm",
     "saved_at": "2026-10-27T21:45:17+08:00"
+  },
+  {
+    "cik": "1297989",
+    "company": "ExlService Holdings, Inc.",
+    "accession": "0001297989-26-000028",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 633.959,
+        "unit": "USD millions",
+        "quote": "Revenues, net | $ | 633,959 | $ | 529,585"
+      },
+      "operating_income": {
+        "value": 88.856,
+        "unit": "USD millions",
+        "quote": "Income from operations | 88,856 | 76,174"
+      },
+      "net_income": {
+        "value": 68.771,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 68,771 | $ | 58,161"
+      },
+      "diluted_eps": {
+        "value": 0.45,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.45 | $ | 0.36"
+      }
+    },
+    "guidance": {
+      "text": "Full-year 2026 revenue of $2.430 billion to $2.440 billion, up 16% to 17% on a reported basis.",
+      "quote": "Revenue of $2.430 billion to $2.440 billion, representing an increase of 16% to 17% on a reported basis"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third quarter revenue grew 20% year on year.",
+        "quote": "delivering third quarter revenue growth of 20% year-on-year and adjusted diluted EPS growth of 29% year-on-year"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says the full-year revenue outlook is raised again.",
+        "quote": "gives us the confidence to raise our full-year outlook once again"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release states the quarter's operating income margin was 14.0%, down from 14.4% a year earlier.",
+        "quote": "Operating income margin for the quarter ended September 30, 2026 was 14.0%, compared to 14.4% for the third quarter of 2025"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong momentum and the CFO raises the full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1297989-0001297989-26-000028.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1297989/000129798926000028/exlq326pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1297989/000129798926000028/0001297989-26-000028-index.htm",
+    "saved_at": "2026-10-28T14:36:11+08:00"
+  },
+  {
+    "cik": "1031316",
+    "company": "FRANKLIN STREET PROPERTIES CORP /MA/",
+    "accession": "0001104659-26-119169",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 24.934,
+        "unit": "USD millions",
+        "quote": "Total revenue | 24,934 | 27,300"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -9.103,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (9,103) | $ | (8,326)"
+      },
+      "diluted_eps": {
+        "value": -0.09,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.09) | $ | (0.08)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management reports a GAAP net loss of $9.1 million for the quarter.",
+        "quote": "GAAP net loss was $9.1 million and $35.2 million, or $0.09 and $0.34 per basic and diluted share for the three and nine months ended September 30, 2026, respectively."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says general and administrative expenses were reduced for the nine months.",
+        "quote": "we were successful in reducing general and administrative expenses for the nine months ended September 30, 2026 by $2.6 million compared to the nine months ended September 30, 2025 primarily as a result of lower personnel costs"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company intends to pursue asset and subportfolio sales in the fourth quarter.",
+        "quote": "the Company has identified a number of individual asset and subportfolio sale opportunities that it intends to actively pursue in the fourth quarter"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO says office investment demand and liquidity remain uneven and challenged in several markets."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1031316-0001104659-26-119169.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/fsp-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/0001104659-26-119169-index.htm",
+    "saved_at": "2026-10-28T14:36:11+08:00"
   }
 ]

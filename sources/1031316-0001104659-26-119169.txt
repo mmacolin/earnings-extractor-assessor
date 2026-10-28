@@ -1,0 +1,365 @@
+Company: FRANKLIN STREET PROPERTIES CORP /MA/ (CIK 1031316)
+Accession: 0001104659-26-119169
+Results released: 2026-10-27
+Press release: https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/fsp-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/0001104659-26-119169-index.htm
+Saved: 2026-10-28T14:36:11+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 fsp-ex99d1.htm EX-99.1
+Exhibit 99.1
+PRESS RELEASE | Franklin Street Properties Corp.
+401 Edgewater Place ● Suite 200 ● Wakefield, Massachusetts 01880 ● (781) 557-1300 ● www.fspreit.com
+Contact: Georgia Touma (877) 686-9496 | For Immediate Release
+Franklin Street Properties Corp. Announces
+Third Quarter 2026 Results
+Wakefield, MA— October 27, 2026—Franklin Street Properties Corp. (the “Company”, “FSP”, “we” or “our”) (NYSE American: FSP), a real estate investment trust (REIT), announced its results for the third quarter ended September 30, 2026.
+George J. Carter, Chairman and Chief Executive Officer, commented as follows:
+“As we continue to move through 2026, our focus remains squarely on trying to maximize shareholder value through our expanded evaluation of strategic alternatives, proactive asset management, expense management, and efforts to improve leasing and occupancy.
+During the quarter, we endeavored to make progress on several important strategic initiatives, while maintaining financial and strategic flexibility.
+Importantly, our recent refinancing of our outstanding debt has provided the Company with increased flexibility, allowing us to pursue strategic initiatives in a disciplined and thoughtful manner. This position allows us to act more opportunistically as market conditions evolve and as opportunities emerge.
+On July 8, 2026, we sold our Greenwood Plaza property located in Englewood, Colorado to University of Colorado Health for a gross selling price of approximately $19.4 million. In addition, on July 8, 2026, we used approximately $8.5 million of the net proceeds from the disposition for the repayment of debt, including interest and fees. We believe that this disposition reflects disciplined execution, targeted owner-user marketing, and continued progress on our broader strategic objectives.
+During the third quarter and into October, the Company continued its expanded strategic review process with BofA Securities and JLL Securities serving as our co-advisors. The process has included extensive market outreach, multiple rounds of price discovery and evaluation of potential Company, portfolio, subportfolio and individual asset transactions. However, office investment demand and liquidity remain uneven nationally and are challenged in several of our markets.
+Based on the recommendations of our co-advisors and the results of the process to date, the Company has identified a number of individual asset and subportfolio sale opportunities that it intends to actively pursue in the fourth quarter. The Company will continue working with its co-advisors and prospective purchasers regarding these potential opportunities and any other potential transactions that may arise. Completion of any such sales or transactions will depend on reaching acceptable final pricing terms and counterparties completing due diligence processes and finalizing financing arrangements.
+Operationally, we remain focused on improving occupancy, extending lease duration, prudently managing operating expenses, and allocating capital where we believe it can generate the greatest long-term value for our shareholders. Notably, we were successful in reducing general and administrative expenses for the nine months ended September 30, 2026 by $2.6 million compared to the nine months ended September 30, 2025 primarily as a result of lower personnel costs.
+We also continue to prioritize leasing and asset management initiatives across the portfolio. These efforts remain important because changes in occupancy, lease duration, capital requirements and tenant quality can materially affect the value and marketability of individual assets.”
+-2-
+Financial Highlights
+● | GAAP net loss was $9.1 million and $35.2 million, or $0.09 and $0.34 per basic and diluted share for the three and nine months ended September 30, 2026, respectively.
+● | Funds From Operations (FFO) was $1.4 million and $4.2 million, or $0.01 and $0.04 per basic and diluted share, for the three and nine months ended September 30, 2026, respectively.
+● | General and administrative expenses for the nine months ended September 30, 2026, were $2.6 million lower compared to the nine months ended September 30, 2025 as a result of lower personnel costs.
+● | On July 8, 2026, we sold our property Greenwood Plaza property located in Englewood, Colorado for a gross selling price of approximately $19.4 million and used proceeds to repay debt of approximately $8.5 million, including interest and fees. We retained cash from the sale of approximately $8.9 million.
+Leasing Highlights
+● | During the nine months ended September 30, 2026, we leased approximately 226,000 square feet of space of which approximately 163,000 were from renewals and expansions of existing tenants.
+● | Our directly-owned real estate portfolio of 13 properties, totaling approximately 4.6 million square feet, was approximately 66.2% leased as of September 30, 2026, compared to approximately 68.9% leased as of December 31, 2025. The decrease in the leased percentage is due to lease expirations exceeding new executed leases during the nine months ended September 30, 2026.
+● | The weighted average GAAP base rent per square foot achieved on leasing activity during the nine months ended September 30, 2026, was $33.57, or 11.5% higher than average rents in the respective properties for the year ended December 31, 2025. The average lease term on leases signed during the nine months ended September 30, 2026, was 6.8 years compared to 5.7 years during the year ended December 31, 2025. Overall, the portfolio weighted average rent per occupied square foot was $30.42 as of September 30, 2026, compared to $30.86 as of December 31, 2025.
+● | We believe that our continuing portfolio of real estate is well located within their respective markets, primarily in the southwest and mountain west geographic regions, and consists of high-quality assets with long-term upside leasing potential.
+Dividend
+On March 9, 2026, the Company announced that the Board of Directors had determined to suspend the payment of quarterly dividends. The Board did so in part to redeploy that capital into leasing efforts intended to enhance the value of our portfolio.
+The Company estimates that suspension of the dividend will preserve approximately $4.1 million in cash on an annualized basis. The Board and the Company will reassess, on a quarterly basis, when and if quarterly dividend payments can be reinstated and will announce any change to the dividend policy.
+Consolidation of Sponsored REIT
+As of January 1, 2023, we consolidated the operations of our Monument Circle sponsored REIT into our financial statements and on June 6, 2025, the property held by Monument Circle was sold and Monument Circle and the corporation that had been its sole member were dissolved on December 9, 2025. Additional information about the consolidation of Monument Circle can be found in Note 2, “Significant Accounting Policies - Variable Interest Entities (VIEs)”, Note 3, “Related Party Transactions and Investments in Non-Consolidated Entities - Management fees and interest income from loans” and Note 10, “Disposition of Properties and Assets Held for Sale”, in the Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for year ended December 31, 2025.
+-3-
+Non-GAAP Financial Information
+A reconciliation of Net loss to FFO, Adjusted Funds From Operations (AFFO) and Sequential Same Store NOI and our definitions of FFO, AFFO and Sequential Same Store NOI can be found on Supplementary Schedules H and I.
+Real Estate Update
+Supplementary schedules provide property information for the Company’s owned and consolidated properties as of September 30, 2026. The Company will also be filing an updated supplemental information package that will provide stockholders and the financial community with additional operating and financial data. The Company will file this supplemental information package with the SEC and make it available on its website at www.fspreit.com.
+Today’s news release, along with other news about Franklin Street Properties Corp., is available on the Internet at www.fspreit.com. We routinely post information that may be important to investors in the Investor Relations section of our website. We encourage investors to consult that section of our website regularly for important information about us and, if they are interested in automatically receiving news and information as soon as it is posted, to sign up for E-mail Alerts.
+About Franklin Street Properties Corp.
+Franklin Street Properties Corp., based in Wakefield, Massachusetts, is focused on infill and central business district (CBD) office properties in the U.S. Southwest and Mountain West, as well as select opportunistic markets. FSP is focused on long-term growth and appreciation. FSP is a Maryland corporation that operates in a manner intended to qualify as a real estate investment trust (REIT) for federal income tax purposes. To learn more about FSP please visit our website at www.fspreit.com.
+-4-
+Forward-Looking Statements
+Statements made in this press release that state FSP’s or management’s intentions, beliefs, expectations, or predictions for the future may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. This press release may also contain forward-looking statements, such as those relating to our review of strategic alternatives, expectations for future potential leasing activity, expectations for property dispositions, which we may be unable to effect at acceptable terms and conditions, and if we are able to engage in such transactions, the timing thereof, value creation/enhancement in future periods and expectations for growth and leasing activities in future periods, which are based on current judgments and current knowledge of management and are subject to certain risks, trends and uncertainties that could cause actual results to differ materially from those indicated in such forward-looking statements. Accordingly, readers are cautioned not to place undue reliance on forward-looking statements. Investors are cautioned that our forward-looking statements involve risks and uncertainty, including without limitation, adverse changes in general economic or local market conditions, including as a result of the long-term effects of the COVID-19 pandemic, wars, terrorist attacks or other acts of violence, which may negatively affect the markets in which we and our tenants operate, impacts of changes in tariffs that the United States and other countries have announced or implemented, as well as any additional new tariffs, trade restrictions or export regulations that may be implemented or reversed in the future, inflation rates, interest rates, disruptions in the debt markets, economic conditions in the markets in which we own properties, risks of a lessening of demand for the types of real estate owned by us, adverse changes in energy prices, which if sustained, could negatively impact occupancy and rental rates in the markets in which we own properties, including energy-influenced markets such as Dallas, Denver and Houston, changes in government regulations and regulatory uncertainty, uncertainty about governmental fiscal policy, geopolitical events and expenditures that cannot be anticipated, such as utility rate and usage increases, increases in the level of general and administrative costs as a percentage of revenues as revenues decrease as a result of property dispositions, unanticipated repairs, additional staffing, insurance increases and real estate tax valuation reassessments. See the “Risk Factors” set forth in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2025, which may be further updated from time to time in subsequent filings with the United States Securities and Exchange Commission. Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, acquisitions, dispositions, performance or achievements. We will not update any of the forward-looking statements after the date of this press release to conform them to actual results or to changes in our expectations that occur after such date, other than as required by law.
+-5-
+Franklin Street Properties Corp.
+Earnings Release
+Supplementary Information
+Table of Contents
+Franklin Street Properties Corp. Financial Results | A-C
+Real Estate Portfolio Summary Information | D
+Portfolio and Other Supplementary Information | E
+Percentage of Leased Space | F
+Largest 20 Tenants – FSP Owned Portfolio | G
+Reconciliation and Definitions of Funds From Operations (FFO) and Adjusted
+Funds From Operations (AFFO) | H
+Reconciliation and Definition of Sequential Same Store results to Property Net
+Operating Income (NOI) and Net Loss | I
+-6-
+Franklin Street Properties Corp. Financial Results
+Supplementary Schedule A
+Condensed Consolidated Statements of Operations
+(Unaudited)
+For the | For the
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(in thousands, except per share amounts) | 2026 | 2025 | 2026 | 2025
+Revenue:
+Rental | $ | 24,934 | $ | 27,300 | $ | 77,514 | $ | 81,122
+Total revenue | 24,934 | 27,300 | 77,514 | 81,122
+Expenses:
+Real estate operating expenses | 10,600 | 10,671 | 30,896 | 31,467
+Real estate taxes and insurance | 2,133 | 5,262 | 10,926 | 14,822
+Depreciation and amortization | 10,500 | 10,550 | 31,512 | 32,000
+General and administrative | 2,160 | 3,034 | 7,230 | 9,799
+Interest | 7,819 | 6,348 | 22,618 | 18,378
+Total expenses | 33,212 | 35,865 | 103,182 | 106,466
+Loss on extinguishment of debt | (1,015) | (7) | (2,282) | (12)
+Gain (loss) on sale of properties and impairment of assets held for sale, net | 3 | — | (7,688) | (12,900)
+Interest income | 244 | 249 | 564 | 756
+Loss before taxes | (9,046) | (8,323) | (35,074) | (37,500)
+Tax expense | 57 | 3 | 161 | 137
+Net loss | $ | (9,103) | $ | (8,326) | $ | (35,235) | $ | (37,637)
+Weighted average number of shares outstanding, basic and diluted | 104,012 | 103,690 | 103,839 | 103,623
+Loss per share, basic and diluted:
+Net loss per share, basic and diluted | $ | (0.09) | $ | (0.08) | $ | (0.34) | $ | (0.36)
+-7-
+Franklin Street Properties Corp. Financial Results
+Supplementary Schedule B
+Condensed Consolidated Balance Sheets
+(Unaudited)
+September 30, | December 31,
+(in thousands, except share and par value amounts) | 2026 | 2025
+Assets:
+Real estate assets:
+Land | $ | 95,783 | $ | 98,883
+Buildings and improvements | 1,056,178 | 1,091,728
+Fixtures and equipment | 11,255 | 11,572
+1,163,216 | 1,202,183
+Less accumulated depreciation | 408,937 | 408,461
+Real estate assets, net | 754,279 | 793,722
+Acquired real estate leases, less accumulated amortization of $15,648 and $14,648, respectively | 1,263 | 2,490
+Cash, cash equivalents and restricted cash | 34,851 | 30,571
+Tenant rent receivables | 1,493 | 471
+Straight-line rent receivable | 36,330 | 38,744
+Prepaid expenses and other assets | 4,096 | 4,080
+Office computers and furniture, net of accumulated depreciation of $1,003 and $1,047, respectively | 119 | 136
+Deferred leasing commissions, net of accumulated amortization of $14,260 and $14,571, respectively | 21,023 | 22,670
+Total assets | $ | 853,454 | $ | 892,884
+Liabilities and Stockholders’ Equity:
+Liabilities:
+Initial Term Loans, less unamortized financing costs and OID of $19,554 | $ | 247,298 | $ | —
+Term loans payable, less unamortized financing costs of $441 | — | 125,555
+Series A & Series B Senior Notes, less unamortized financing costs of $236 | — | 122,686
+Accounts payable and accrued expenses | 28,097 | 28,724
+Accrued compensation | 247 | 2,394
+Tenant security deposits | 6,056 | 6,198
+Lease liability | 842 | 316
+Acquired unfavorable real estate leases, less accumulated amortization of $61 and $56, respectively | 29 | 34
+Total liabilities | 282,569 | 285,907
+Commitments and contingencies
+Stockholders’ Equity:
+Preferred stock, $.0001 par value, 20,000,000 shares authorized, none issued or outstanding | — | —
+Common stock, $.0001 par value, 180,000,000 shares authorized, 104,011,708 and 103,690,340 shares issued and outstanding, respectively | 10 | 10
+Additional paid-in capital | 1,335,766 | 1,335,586
+Accumulated distributions in excess of accumulated earnings | (764,891) | (728,619)
+Total stockholders’ equity | 570,885 | 606,977
+Total liabilities and stockholders’ equity | $ | 853,454 | $ | 892,884
+-8-
+Franklin Street Properties Corp. Financial Results
+Supplementary Schedule C
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+For the
+Nine Months Ended
+September 30,
+(in thousands) | 2026 | 2025
+Cash flows from operating activities:
+Net loss | $ | (35,235) | $ | (37,637)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization expense | 35,930 | 34,045
+Amortization of above and below market leases | (1) | —
+Shares issued as compensation | 180 | 225
+Loss on extinguishment of debt | 2,282 | 12
+Loss on sale of properties and impairment of assets held for sale, net | 7,688 | 12,900
+Changes in operating assets and liabilities:
+Tenant rent receivables | (1,022) | (97)
+Straight-line rents | 2,036 | (41)
+Lease acquisition costs | (275) | (1,096)
+Prepaid expenses and other assets | 501 | (498)
+Accounts payable and accrued expenses | (2,621) | (4,274)
+Accrued compensation | (2,147) | (462)
+Tenant security deposits | (142) | 21
+Payment of deferred leasing commissions | (2,453) | (3,176)
+Net cash provided by (used in) operating activities | 4,721 | (78)
+Cash flows from investing activities:
+Property improvements, fixtures and equipment | (9,755) | (12,608)
+Proceeds received from sales of properties | 17,993 | 6,100
+Net cash provided by (used in) investing activities | 8,238 | (6,508)
+Cash flows from financing activities:
+Distributions to stockholders | (1,037) | (3,108)
+Cost of extinguished debt | (1,388) | —
+Proceeds received from Initial Term Loans | 258,500 | —
+Repayments of Initial Term Loans | (8,148) | —
+Repayments of Term loans payable | (125,995) | (716)
+Repayments of Series A&B Senior Notes | (122,922) | (698)
+Deferred financing costs | (7,689) | —
+Net cash used in financing activities | (8,679) | (4,522)
+Net increase (decrease) in cash, cash equivalents and restricted cash | 4,280 | (11,108)
+Cash, cash equivalents and restricted cash, beginning of year | 30,571 | 42,683
+Cash, cash equivalents and restricted cash, end of period | $ | 34,851 | $ | 31,575
+-9-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule D
+Real Estate Portfolio Summary Information
+(Unaudited & Approximated)
+Commercial portfolio lease expirations (1)
+Total | % of
+Year | Square Feet | Portfolio
+2026 | 63,114 | 1.4%
+2027 | 547,333 | 11.9%
+2028 | 217,436 | 4.7%
+2029 | 384,322 | 8.3%
+2030 | 274,286 | 5.9%
+Thereafter (2) | 3,126,760 | 67.8%
+4,613,251 | 100.0%
+(1) | Percentages are determined based upon total square footage.
+(2) | Includes 1,558,389 square feet of vacancies at our owned properties as of September 30, 2026.
+(dollars & square feet in 000's) | As of September 30, 2026
+% of | Square | % of
+State | Properties | Investment | Portfolio | Feet | Portfolio
+Colorado | 3 | $ | 394,938 | 52.4% | 1,947 | 42.2%
+Texas | 7 | 252,218 | 33.4% | 1,908 | 41.4%
+Minnesota | 3 | 107,123 | 14.2% | 758 | 16.4%
+Total | 13 | $ | 754,279 | 100.0% | 4,613 | 100.0%
+-10-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule E
+Portfolio and Other Supplementary Information
+(Unaudited & Approximated)
+Recurring Capital Expenditures
+For the Nine
+(in thousands) | For the Three Months Ended | Months Ended
+31-Mar-26 | 30-Jun-26 | 30-Sep-26 | 30-Sep-26
+Tenant improvements | $ | 3,386 | $ | 1,838 | $ | 4,115 | $ | 9,339
+Deferred leasing costs | 1,386 | 248 | 819 | 2,453
+Non-investment capex | 489 | 729 | 1,145 | 2,363
+$ | 5,261 | $ | 2,815 | $ | 6,079 | $ | 14,155
+(in thousands) | For the Three Months Ended | Year Ended
+31-Mar-25 | 30-Jun-25 | 30-Sep-25 | 31-Dec-25 | 31-Dec-25
+Tenant improvements | $ | 2,374 | $ | 1,415 | $ | 4,469 | $ | 2,023 | $ | 10,281
+Deferred leasing costs | 545 | 1,702 | 929 | 1,050 | 4,226
+Non-investment capex | 1,258 | 750 | 753 | 1,154 | 3,915
+$ | 4,177 | $ | 3,867 | $ | 6,151 | $ | 4,227 | $ | 18,422
+Square foot & leased percentages | September 30, | December 31,
+2026 | 2025
+Owned Properties:
+Number of properties | 13 | 14
+Square feet | 4,613,251 | 4,807,663
+Leased percentage | 66.2% | 68.9%
+-11-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule F
+Percentage of Leased Space
+(Unaudited & Estimated)
+Second | Third
+% Leased (1) | Quarter | % Leased (1) | Quarter
+as of | Average % | as of | Average %
+Property Name | Location | Square Feet | 30-Jun-26 | Leased (2) | 30-Sep-26 | Leased (2)
+Jan-00 | Jan-00
+1 | PARK TEN | Houston, TX | 157,609 | 86.8% | 86.8% | 86.8% | 86.8%
+2 | PARK TEN PHASE II | Houston, TX | 156,746 | 78.3% | 77.6% | 78.3% | 78.3%
+GREENWOOD PLAZA (3) | Englewood, CO | — | 65.0% | 65.0% | (3) | (3)
+3 | ADDISON | Addison, TX | 289,333 | 64.3% | 64.3% | 61.8% | 61.8%
+4 | LIBERTY PLAZA | Addison, TX | 217,841 | 64.3% | 66.0% | 64.3% | 64.3%
+5 | ELDRIDGE GREEN | Houston, TX | 248,399 | 100.0% | 100.0% | 100.0% | 100.0%
+6 | 121 SOUTH EIGHTH ST | Minneapolis, MN | 297,744 | 75.5% | 74.8% | 77.4% | 76.1%
+7 | 801 MARQUETTE AVE | Minneapolis, MN | 129,691 | 91.8% | 91.8% | 91.8% | 91.8%
+8 | LEGACY TENNYSON CTR | Plano, TX | 209,562 | 60.9% | 60.9% | 60.9% | 60.9%
+9 | WESTCHASE I & II | Houston, TX | 629,025 | 67.0% | 67.2% | 65.5% | 66.3%
+10 | 1999 BROADWAY | Denver, CO | 682,639 | 47.5% | 48.6% | 47.1% | 47.1%
+11 | 1001 17TH STREET | Denver, CO | 652,423 | 74.5% | 76.4% | 73.1% | 73.1%
+12 | PLAZA SEVEN | Minneapolis, MN | 330,096 | 45.3% | 46.5% | 43.0% | 44.6%
+13 | 600 17TH STREET | Denver, CO | 612,143 | 69.7% | 69.7% | 65.0% | 65.8%
+OWNED PORTFOLIO | 4,613,251 | 67.4% | 67.9% | 66.2% | 66.5%
+(1) | % Leased as of month's end includes all leases that expire on the last day of the quarter.
+(2) | Average quarterly percentage is the average of the end of the month leased percentage for each of the three months during the quarter.
+(3) | This property was sold on July 8, 2026.
+-12-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule G
+Largest 20 Tenants – FSP Owned Portfolio
+(Unaudited & Estimated)
+The following table includes the largest 20 tenants in FSP’s owned portfolio based on total square feet:
+As of September 30, 2026
+% of
+Tenant | Sq Ft | Portfolio
+1 | CITGO Petroleum Corporation | 248,399 | 5.4%
+2 | EOG Resources, Inc. | 169,167 | 3.7%
+3 | US Government | 168,573 | 3.6%
+4 | Deluxe Corporation | 98,922 | 2.1%
+5 | Olin Corporation | 81,480 | 1.8%
+6 | Permian Resources Operating, LLC | 67,856 | 1.5%
+7 | Hall and Evans LLC | 65,878 | 1.4%
+8 | Cyxtera Management, Inc. | 61,826 | 1.3%
+9 | Precision Drilling (US) Corporation | 59,569 | 1.3%
+10 | Ping Identity Corp. | 54,964 | 1.2%
+11 | PwC US Group | 54,334 | 1.2%
+12 | Coresite, LLC | 49,518 | 1.1%
+13 | Schwegman, Lundberg & Woessner, P.A. | 46,269 | 1.0%
+14 | Ark-La-Tex Financial Services, LLC. | 41,011 | 0.9%
+15 | Invenergy, LLC. | 35,088 | 0.8%
+16 | Chevron U.S.A., Inc. | 35,088 | 0.8%
+17 | Moss, Luse & Womble, LLC | 34,071 | 0.7%
+18 | QB Energy Operating, LLC. | 34,063 | 0.7%
+19 | WDT Acquisition Corporation | 30,913 | 0.7%
+20 | CarOffer, LC | 30,913 | 0.6%
+Total | 1,467,902 | 31.8%
+-13-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule H
+Reconciliation and Definitions of Funds From Operations (“FFO”) and
+Adjusted Funds From Operations (“AFFO”)
+A reconciliation of Net loss to FFO and AFFO is shown below and a definition of FFO and AFFO is provided on Supplementary Schedule I. Management believes FFO and AFFO are used broadly throughout the real estate investment trust (REIT) industry as measurements of performance. The Company has included the National Association of Real Estate Investment Trusts (NAREIT) FFO definition as of May 17, 2016 in the table and notes that other REITs may not define FFO in accordance with the current NAREIT definition or may interpret the current NAREIT definition differently. The Company’s computation of FFO and AFFO may not be comparable to FFO or AFFO reported by other REITs or real estate companies that define FFO or AFFO differently.
+Reconciliation of Net loss to FFO and AFFO: | Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(In thousands, except per share amounts) | 2026 | 2025 | 2026 | 2025
+Net loss | $ | (9,103) | $ | (8,326) | $ | (35,235) | $ | (37,637)
+Loss (gain) on sale of properties and impairment of asset held for sale, net | (3) | — | 7,688 | 12,900
+Amortization of favorable leases | — | — | (1) | —
+Depreciation & amortization | 10,500 | 10,550 | 31,512 | 32,000
+NAREIT FFO | 1,394 | 2,224 | 3,964 | 7,263
+Lease Acquisition costs | 41 | 99 | 188 | 303
+Funds From Operations (FFO) | $ | 1,435 | $ | 2,323 | $ | 4,152 | $ | 7,566
+Funds From Operations (FFO) | $ | 1,435 | $ | 2,323 | $ | 4,152 | $ | 7,566
+Loss on extinguishment of debt | 1,015 | 7 | 2,282 | 12
+Amortization of deferred financing costs and OID | 1,666 | 677 | 4,418 | 2,045
+Shares issued as compensation | — | — | 180 | 225
+Straight-line rent | 1,085 | (37) | 2,036 | (41)
+Tenant improvements | (4,115) | (4,469) | (9,339) | (8,258)
+Leasing commissions | (819) | (929) | (2,453) | (3,176)
+Non-investment capex | (1,145) | (753) | (2,363) | (2,761)
+Adjusted Funds From Operations (AFFO) | $ | (878) | $ | (3,181) | $ | (1,087) | $ | (4,388)
+Per Share Data
+EPS | $ | (0.09) | $ | (0.08) | $ | (0.34) | $ | (0.36)
+FFO | $ | 0.01 | $ | 0.02 | $ | 0.04 | $ | 0.07
+AFFO | $ | (0.01) | $ | (0.03) | $ | (0.01) | $ | (0.04)
+Weighted average shares (basic and diluted) | 104,012 | 103,690 | 103,839 | 103,623
+-14-
+Funds From Operations (“FFO”)
+The Company evaluates performance based on Funds From Operations, which we refer to as FFO, as management believes that FFO represents the most accurate measure of activity and is the basis for distributions paid to equity holders. The Company defines FFO as net income or loss (computed in accordance with GAAP), excluding gains (or losses) from sales of property, hedge ineffectiveness, acquisition costs of newly acquired properties that are not capitalized and lease acquisition costs that are not capitalized plus depreciation and amortization, including amortization of acquired above and below market lease intangibles and impairment charges on mortgage loans, properties or investments in non-consolidated REITs, and after adjustments to exclude equity in income or losses from, and, to include the proportionate share of FFO from, non-consolidated REITs.
+FFO should not be considered as an alternative to net income or loss (determined in accordance with GAAP), nor as an indicator of the Company’s financial performance, nor as an alternative to cash flows from operating activities (determined in accordance with GAAP), nor as a measure of the Company’s liquidity, nor is it necessarily indicative of sufficient cash flow to fund all of the Company’s needs.
+Other real estate companies and the National Association of Real Estate Investment Trusts, or NAREIT, may define this term in a different manner. We have included the NAREIT FFO as of May 17, 2016 in the table and note that other REITs may not define FFO in accordance with the current NAREIT definition or may interpret the current NAREIT definition differently than we do.
+We believe that in order to facilitate a clear understanding of the results of the Company, FFO should be examined in connection with net income or loss and cash flows from operating, investing and financing activities in the consolidated financial statements.
+Adjusted Funds From Operations (“AFFO”)
+The Company also evaluates performance based on Adjusted Funds From Operations, which we refer to as AFFO. The Company defines AFFO as (1) FFO, (2) excluding loss on extinguishment of debt that is non-cash, (3) excluding our proportionate share of FFO and including distributions received, from non-consolidated REITs, (4) excluding the effect of straight-line rent, (5) plus the amortization of deferred financing costs and original issue discounts, (6) plus the value of shares issued as compensation and (7) less recurring capital expenditures that are generally for maintenance of properties, which we call non-investment capex or are second generation capital expenditures. Second generation costs include re-tenanting space after a tenant vacates, which include tenant improvements and leasing commissions.
+We exclude development/redevelopment activities, capital expenditures planned at acquisition and costs to reposition a property. We also exclude first generation leasing costs, which are generally to fill vacant space in properties we acquire or were planned for at acquisition.
+AFFO should not be considered as an alternative to net income or loss (determined in accordance with GAAP), nor as an indicator of the Company’s financial performance, nor as an alternative to cash flows from operating activities (determined in accordance with GAAP), nor as a measure of the Company’s liquidity, nor is it necessarily indicative of sufficient cash flow to fund all of the Company’s needs. Other real estate companies may define this term in a different manner. We believe that in order to facilitate a clear understanding of the results of the Company, AFFO should be examined in connection with net income or loss and cash flows from operating, investing and financing activities in the consolidated financial statements.
+-15-
+Franklin Street Properties Corp. Earnings Release
+Supplementary Schedule I
+Reconciliation and Definition of Sequential Same Store results to property Net Operating Income (NOI) and Net Income
+Net Operating Income (“NOI”)
+The Company provides property performance based on Net Operating Income, which we refer to as NOI. Management believes that investors are interested in this information. NOI is a non-GAAP financial measure that the Company defines as net income or loss (the most directly comparable GAAP financial measure) plus general and administrative expenses, depreciation and amortization, including amortization of acquired above and below market lease intangibles and impairment charges, interest expense, less equity in earnings of nonconsolidated REITs, interest income, management fee income, hedge ineffectiveness, gains or losses on extinguishment of debt, gains or losses on the sale of assets and excludes non-property specific income and expenses. The information presented includes footnotes and the data is shown by region with properties owned in the periods presented, which we call Sequential Same Store. The comparative Sequential Same Store results include properties held for all periods presented. We exclude properties that have been placed in service, but that do not have operating activity for all periods presented, dispositions and significant nonrecurring income such as bankruptcy settlements and lease termination fees. NOI, as defined by the Company, may not be comparable to NOI reported by other REITs that define NOI differently. NOI should not be considered an alternative to net income or loss as an indication of our performance or to cash flows as a measure of the Company’s liquidity or its ability to make distributions. The calculations of NOI and Sequential Same Store are shown in the following table:
+Rentable
+Square Feet | Three Months Ended | Three Months Ended | Inc | %
+(in thousands) | or RSF | 30-Sep-26 | 30-Jun-26 | (Dec) | Change
+Region
+MidWest | 758 | $ | 1,228 | $ | 1,466 | $ | (238) | (16.2) | %
+South | 1,908 | 4,155 | 4,479 | (324) | (7.2) | %
+West | 1,947 | 6,508 | 4,966 | 1,542 | 31.1 | %
+Property NOI* from Owned Properties | 4,613 | 11,891 | 10,911 | 980 | 9.0 | %
+Disposition and Acquisition Properties (a) | - | 57 | 641 | (584) | (5.6) | %
+NOI* | 4,613 | $ | 11,948 | $ | 11,552 | $ | 396 | 3.4 | %
+Sequential Same Store | $ | 11,891 | $ | 10,911 | $ | 980 | 9.0 | %
+Less Nonrecurring
+Items in NOI* (b) | 860 | 347 | 513 | (4.6) | %
+Comparative
+Sequential Same Store | $ | 11,031 | $ | 10,564 | $ | 467 | 4.4 | %
+-16-
+Reconciliation to | Three Months Ended | Three Months Ended
+Net loss | 30-Sep-26 | 30-Jun-26
+Net loss | $ | (9,103) | $ | (16,605)
+Add (deduct):
+Loss on extinguishment of debt | 1,015 | —
+(Gain) loss on sale of properties and impairment of assets held for sale, net | (3) | 7,691
+Management fee income | (341) | (311)
+Depreciation and amortization | 10,500 | 10,432
+Amortization of above/below market leases | — | (1)
+General and administrative | 2,160 | 2,401
+Interest expense | 7,819 | 7,987
+Interest income | (244) | (157)
+Non-property specific items, net | 145 | 115
+NOI* | $ | 11,948 | $ | 11,552
+(a) | We define Disposition and Acquisition Properties as properties that were sold acquired or consolidated and do not have operating activity for all periods presented.
+(b) | Nonrecurring Items in NOI include proceeds from bankruptcies, lease termination fees or other significant nonrecurring income or expenses, which may affect comparability.
+*Excludes NOI from investments in and interest income from secured loans to non-consolidated REITs.

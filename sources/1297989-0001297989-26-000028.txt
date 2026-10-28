@@ -1,0 +1,184 @@
+Company: ExlService Holdings, Inc. (CIK 1297989)
+Accession: 0001297989-26-000028
+Results released: 2026-10-27
+Press release: https://www.sec.gov/Archives/edgar/data/1297989/000129798926000028/exlq326pressrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1297989/000129798926000028/0001297989-26-000028-index.htm
+Saved: 2026-10-28T14:36:11+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exlq326pressrelease.htm EX-99.1
+Exhibit 99.1
+EXL REPORTS 2026 THIRD QUARTER RESULTS
+2026 Third Quarter Revenue of $634.0 Million, up 19.7% year-over-year
+Q3 Diluted EPS (GAAP) of $0.45, up 25.3% from $0.36 in Q3 of 2025
+Q3 Adjusted Diluted EPS (Non-GAAP) (1) of $0.62, up 28.5% from $0.48 in Q3 of 2025
+New York – October 27, 2026 (GLOBE NEWSWIRE) - ExlService Holdings, Inc. (NASDAQ: EXLS), a global data and AI company, today announced its financial results for the quarter ended September 30, 2026.
+Chairman and Chief Executive Officer Rohit Kapoor said, “We entered 2026 with strong momentum that has accelerated through the year, delivering third quarter revenue growth of 20% year-on-year and adjusted diluted EPS growth of 29% year-on-year. Every segment of our business grew more than 15% organically. Data and AI-led revenue, almost two-thirds of our business, grew 36% on a reported basis and 31% organically. These results reflect the strength of our data and AI strategy and our differentiated market position: deep domain expertise combined with data and AI capabilities that help clients make AI work effectively across the enterprise. Our business model affords us very good visibility into the balance of the year, and we look forward to a solid finish to 2026.”
+Chief Financial Officer Maurizio Nicolelli said, “Our strong third quarter performance gives us the confidence to raise our full-year outlook once again. We now expect full-year 2026 total revenue to be in the range of $2.430 billion to $2.440 billion, up from our prior guidance of $2.390 billion to $2.415 billion, reflecting 16% to 17% year-over-year growth on a reported basis and 15% on an organic constant currency basis. We now expect adjusted diluted earnings per share of $2.34 to $2.36, a 20% to 21% increase over 2025, up from our prior guidance of $2.25 to $2.29.”
+__________________________________________________________
+(1)Reconciliations of adjusted (non-GAAP) financial measures to the most directly comparable GAAP measures, where applicable, are included at the end of this release under “Reconciliation of Adjusted Financial Measures to GAAP Measures.” These non-GAAP measures, including adjusted diluted EPS and constant currency measures, are not measures of financial performance prepared in accordance with GAAP.
+Financial Highlights: Third Quarter 2026
+•Revenue for the quarter ended September 30, 2026, increased to $634.0 million compared to $529.6 million for the third quarter of 2025, an increase of 19.7% on a reported basis and 19.9% on a constant currency basis. Revenue increased by 6.6% sequentially, both on a reported basis and on a constant currency basis, from the second quarter of 2026.
+Revenue | Gross Margin
+Three months ended | Three months ended
+Reportable Segments | September 30, 2026 | September 30, 2025 | June 30, 2026 | September 30, 2026 | September 30, 2025 | June 30, 2026
+(dollars in millions)
+Insurance | $ | 208.5 | $ | 180.5 | $ | 197.8 | 36.2 | % | 36.6 | % | 34.6 | %
+Healthcare and Life Sciences | 160.4 | 135.3 | 158.0 | 45.2 | % | 43.0 | % | 46.9 | %
+Banking, Capital Markets and Diversified Industries | 153.5 | 121.0 | 133.9 | 34.4 | % | 38.3 | % | 34.8 | %
+International Growth Markets | 111.6 | 92.8 | 105.1 | 36.2 | % | 35.8 | % | 35.1 | %
+Total | $ | 634.0 | $ | 529.6 | $ | 594.8 | 38.0 | % | 38.5 | % | 38.0 | %
+•Operating income margin for the quarter ended September 30, 2026 was 14.0%, compared to 14.4% for the third quarter of 2025 and 14.7% for the second quarter of 2026. Adjusted operating income margin for the quarter ended September 30, 2026 was 19.3%, compared to 19.4% for the third quarter of 2025 and 19.7% for the second quarter of 2026.
+•Diluted earnings per share for the quarter ended September 30, 2026 was $0.45, compared to $0.36 for the third quarter of 2025 and $0.42 for the second quarter of 2026. Adjusted diluted earnings per share for the quarter ended September 30, 2026 was $0.62, compared to $0.48 for the third quarter of 2025 and $0.59 for the second quarter of 2026.
+Business Highlights: Third Quarter 2026
+•Completed the acquisition of iMerit, establishing a Model Training Solutions practice.
+•Won 14 new clients in the third quarter of 2026.
+•Marked EXL’s 20th year as a publicly listed company by launching its new “Go Beyond” brand.
+•Earned multiple Leader recognitions from ISG in Healthcare AI and Insurance Services.
+•Earned 2026 Great Place To Work Certification™ in the U.S. and Colombia.
+•EXL closed new $1 billion senior secured credit facility.
+2026 Guidance
+Based on current visibility, and a U.S. dollar to Indian rupee exchange rate of 95, U.K. pound sterling to U.S. dollar exchange rate of 1.33, U.S. dollar to the Philippine peso exchange rate of 63 and all other currencies at current exchange rates, we are providing the following guidance for the full year 2026:
+•Revenue of $2.430 billion to $2.440 billion, representing an increase of 16% to 17% on a reported basis, and 15% on an organic constant currency basis from 2025.
+•Adjusted diluted earnings per share of $2.34 to $2.36, representing an increase of 20% to 21% from 2025.
+Conference Call
+ExlService Holdings, Inc. will host a conference call on Wednesday, October 28, 2026, at 10:00 A.M. ET to discuss the Company’s third quarter operating and financial results. The conference call will be available live via the internet by accessing the investor relations section of EXL’s website at ir.exlservice.com, where an accompanying investor-friendly spreadsheet of historical operating and financial data can also be accessed. Please access the website at least fifteen minutes prior to the call to register, download and install any necessary audio software.
+To join the live call, please register here. A dial-in and unique PIN will be provided to join the call. For those who cannot access the live broadcast, a replay will be available on the EXL website ir.exlservice.com for a period of twelve months.
+About ExlService Holdings, Inc.
+EXL (NASDAQ: EXLS) is a global data and artificial intelligence ("AI") company that offers services and solutions to reinvent client business models, drive better outcomes and unlock growth with speed. EXL harnesses the power of data, AI, and deep industry knowledge to transform businesses, including the world’s leading corporations in industries including insurance, healthcare and life sciences, banking and capital markets, retail, communications and media, and energy and infrastructure, among others. EXL was founded in 1999 with the core values of innovation, collaboration, excellence, integrity and respect. We are headquartered in New York and have over 74,000 employees spanning six continents. For more information, visit www.exlservice.com.
+Cautionary Statement Regarding Forward-Looking Statements This press release contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995. You should not place undue reliance on those statements because they are subject to numerous uncertainties and factors relating to EXL's operations and business environment, all of which are difficult to predict and many of which are beyond EXL’s control. Forward-looking statements include information concerning EXL’s possible or assumed future results of operations, including descriptions of its business strategy. These statements may include words such as “may,” “will,” “should,” “believe,” “expect,” “anticipate,” “intend,” “plan,” “estimate” or similar expressions. These statements are based on assumptions that we have made in light of management's experience in the industry as well as its perceptions of historical trends, current conditions, expected future developments and other factors it believes are appropriate under the circumstances. You should understand that these statements are not guarantees of performance or results. They involve known and unknown risks, uncertainties and assumptions. Although EXL believes that these forward-looking statements are based on reasonable assumptions, you should be aware that many factors could affect EXL’s actual financial results or results of operations and could cause actual results to differ materially from those in the forward-looking statements. These factors, which include our ability to successfully integrate the iMerit acquisition or future strategic acquisitions or achieve anticipated synergies, our ability to maintain and grow client demand, risks related to the use of AI technology, impact on client demands by our selling cycles, our ability to hire and retain sufficiently trained employees, and our ability to accurately estimate and/or manage costs, and risks related to the international nature of our business and other factors are discussed in more detail in EXL’s filings with the Securities and Exchange Commission, including EXL’s Annual Report on Form 10-K. You should keep in mind that any forward-looking statement made herein, or elsewhere, speaks only as of the date on which it is made. New risks and uncertainties come up from time to time, and it is impossible to predict these events or how they may affect EXL. EXL has no obligation to update any forward-looking statements after the date hereof, except as required by applicable law.
+EXLSERVICE HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED)
+(In thousands, except per share amount and share count)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues, net | $ | 633,959 | $ | 529,585 | $ | 1,799,073 | $ | 1,545,064
+Cost of revenues(1) | 392,824 | 325,649 | 1,109,894 | 953,626
+Gross profit(1) | 241,135 | 203,936 | 689,179 | 591,438
+Operating expenses:
+General and administrative expenses | 79,872 | 66,251 | 223,359 | 185,217
+Selling and marketing expenses | 53,542 | 46,383 | 150,371 | 127,754
+Depreciation and amortization expense | 18,865 | 15,128 | 47,472 | 42,740
+Total operating expenses | 152,279 | 127,762 | 421,202 | 355,711
+Income from operations | 88,856 | 76,174 | 267,977 | 235,727
+Foreign exchange gain/(loss), net | 1,502 | (1,013) | 4,246 | 2,390
+Interest expense | (6,336) | (4,923) | (15,355) | (13,349)
+Other income, net | 2,639 | 4,459 | 5,160 | 14,833
+Income before income tax expense and earnings from equity affiliates | 86,661 | 74,697 | 262,028 | 239,601
+Income tax expense | 17,939 | 16,456 | 61,683 | 48,498
+Income before earnings from equity affiliates | 68,722 | 58,241 | 200,345 | 191,103
+Gain/ (loss) from equity-method investment | 49 | (80) | 18 | (330)
+Net income | $ | 68,771 | $ | 58,161 | $ | 200,363 | $ | 190,773
+Earnings per share:
+Basic | $ | 0.45 | $ | 0.36 | $ | 1.30 | $ | 1.18
+Diluted | $ | 0.45 | $ | 0.36 | $ | 1.30 | $ | 1.17
+Weighted average number of shares used in computing earnings per share:
+Basic | 151,784,913 | 160,495,712 | 153,447,201 | 161,963,152
+Diluted | 152,570,075 | 161,714,486 | 154,086,471 | 163,481,053
+(1) Exclusive of depreciation and amortization expense.
+EXLSERVICE HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(In thousands, except per share amount and share count)
+As of
+September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 154,066 | $ | 146,326
+Short-term investments | 178,612 | 182,041
+Restricted cash | 13,916 | 12,392
+Accounts receivable, net | 457,287 | 343,105
+Other current assets | 155,262 | 146,093
+Total current assets | 959,143 | 829,957
+Property and equipment, net | 122,884 | 111,821
+Operating lease right-of-use assets | 94,517 | 97,411
+Restricted cash | 7,092 | 7,251
+Deferred tax assets, net | 129,734 | 129,968
+Goodwill | 581,595 | 419,654
+Other intangible assets, net | 99,523 | 36,204
+Long-term investments | 6,450 | 8,198
+Other assets | 72,471 | 61,771
+Total assets | $ | 2,073,409 | $ | 1,702,235
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable | $ | 6,505 | $ | 4,753
+Current portion of long-term borrowings | 9,703 | 4,886
+Deferred revenue | 20,257 | 15,356
+Accrued employee costs | 155,231 | 146,775
+Accrued expenses and other current liabilities | 232,400 | 135,498
+Current portion of operating lease liabilities | 20,093 | 16,857
+Total current liabilities | 444,189 | 324,125
+Long-term borrowings, less current portion | 501,346 | 293,712
+Operating lease liabilities, less current portion | 84,205 | 88,167
+Deferred tax liabilities, net | 2,591 | 2,125
+Other non-current liabilities | 112,990 | 81,401
+Total liabilities | 1,145,321 | 789,530
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock, $0.001 par value; 15,000,000 shares authorized, none issued | — | —
+Common stock, $0.001 par value; 400,000,000 shares authorized, 210,148,341 shares issued and 151,027,513 shares outstanding as of September 30, 2026 and 208,855,566 shares issued and 156,430,028 shares outstanding as of December 31, 2025 | 210 | 209
+Additional paid-in capital | 750,312 | 677,562
+Retained earnings | 1,733,342 | 1,532,979
+Accumulated other comprehensive loss | (230,031) | (180,727)
+Total including shares held in treasury | 2,253,833 | 2,030,023
+Less: 59,120,828 shares as of September 30, 2026 and 52,425,538 shares as of December 31, 2025, held in treasury, at cost | (1,325,745) | (1,117,318)
+Total stockholders’ equity | 928,088 | 912,705
+Total liabilities and stockholders’ equity | $ | 2,073,409 | $ | 1,702,235
+EXLSERVICE HOLDINGS, INC.
+Reconciliation of Adjusted Financial Measures to GAAP Measures
+In addition to its reported operating results in accordance with U.S. generally accepted accounting principles (GAAP), EXL has included in this release certain financial measures that are considered non-GAAP financial measures, including the following:
+(i)Adjusted operating income and adjusted operating income margin;
+(ii)Adjusted EBITDA and adjusted EBITDA margin;
+(iii)Adjusted net income and adjusted diluted earnings per share; and
+(iv)Revenue growth on a constant currency basis.
+These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles, should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. Accordingly, the financial results calculated in accordance with GAAP and reconciliations from those financial statements should be carefully evaluated. EXL believes that providing these non-GAAP financial measures may help investors better understand EXL’s underlying financial performance. Management also believes that these non-GAAP financial measures, when read in conjunction with EXL’s reported results, can provide useful supplemental information for investors analyzing period-to-period comparisons of the Company’s results and comparisons of the Company’s results with the results of other companies. Additionally, management considers some of these non-GAAP financial measures to determine variable compensation of its employees. The Company believes that it is unreasonably difficult to provide its earnings per share financial guidance in accordance with GAAP, or a qualitative reconciliation thereof, for a number of reasons, including, without limitation, the Company’s inability to predict its future stock-based compensation expense under ASC Topic 718, the amortization of intangibles associated with future acquisitions and the currency fluctuations and associated tax effects. As such, the Company presents guidance with respect to adjusted diluted earnings per share. The Company also incurs significant non-cash charges for depreciation that may not be indicative of the Company’s ability to generate cash flow.
+EXL non-GAAP financial measures exclude, where applicable, stock-based compensation expense, amortization of acquisition-related intangible assets, amortization of prior service cost arising from implementation of new Labor Codes in India, certain defined social security contributions, other acquisition-related expenses or benefits and effect of any non-recurring tax adjustments. Acquisition-related expenses or benefits include changes in the fair value of contingent consideration, external deal costs, integration expenses, direct and incremental travel costs and non-recurring benefits or losses. Our adjusted net income and adjusted diluted EPS also excludes the effects of income tax on the above pre-tax items, as applicable. The effects of income tax of each item is calculated by applying the statutory rate of the local tax regulations in the jurisdiction in which the item was incurred.
+EXL provides information about revenues on a constant currency basis so that the revenues may be viewed without the impact of foreign currency exchange rate fluctuations compared to prior fiscal periods, thereby facilitating period-to-period comparisons of the Company's underlying business performance. Revenue growth on a constant currency basis is calculated by restating current-period activity using the prior fiscal period's foreign currency exchange rates adjusted for hedging gains/losses in such period. Foreign currency translation impacted revenue growth, primarily driven by movements in the U.S. dollar against the Indian rupee (INR), the U.K. pound sterling (GBP), and Australian dollar (AUD).
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and exclude costs that are recurring, namely stock-based compensation and amortization of acquisition-related intangible assets. EXL compensates for these limitations by providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such non-GAAP financial measures.
+The following table shows the reconciliation of these non-GAAP financial measures for the three months ended September 30, 2026 and September 30, 2025, and the three months ended June 30, 2026:
+Reconciliation of Adjusted Operating Income and Adjusted EBITDA
+(Amounts in thousands)
+Three months ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Net income (GAAP) | $ | 68,771 | $ | 58,161 | $ | 64,511
+add: Income tax expense | 17,939 | 16,456 | 19,426
+add: Foreign exchange gain/(loss), net, interest expense, gain/(loss) from equity-method investment and other income, net | 2,146 | 1,557 | 3,358
+Income from operations (GAAP) | $ | 88,856 | $ | 76,174 | $ | 87,295
+add: Stock-based compensation expense | 25,542 | 23,139 | 24,631
+add: Amortization of acquisition-related intangibles | 6,297 | 3,310 | 3,258
+add: Acquisition-related expenses | 1,785 | — | 1,894
+Adjusted operating income (Non-GAAP) | $ | 122,480 | $ | 102,623 | $ | 117,078
+Adjusted operating income margin as a % of revenue (Non-GAAP) | 19.3 | % | 19.4 | % | 19.7 | %
+add: Depreciation on long-lived assets | 12,568 | 11,818 | 11,346
+Adjusted EBITDA (Non-GAAP) | $ | 135,048 | $ | 114,441 | $ | 128,424
+Adjusted EBITDA margin as a % of revenue (Non-GAAP) | 21.3 | % | 21.6 | % | 21.6 | %
+Reconciliation of Adjusted Net Income and Adjusted Diluted Earnings Per Share
+(Amounts in thousands, except per share amount)
+Three months ended
+September 30, | June 30,
+2026 | 2025 | 2026
+Net income (GAAP) | $ | 68,771 | $ | 58,161 | $ | 64,511
+add: Stock-based compensation expense | 25,542 | 23,139 | 24,631
+add: Amortization of acquisition-related intangibles | 6,297 | 3,310 | 3,258
+add: Changes in fair value of contingent consideration | — | — | 3,000
+add: Acquisition-related expenses | 1,785 | — | 1,894
+add: Amortization of prior service cost (a) | 575 | — | 566
+subtract: Tax impact on stock-based compensation expense (b) | (6,445) | (5,786) | (6,097)
+subtract: Tax impact on amortization of acquisition-related intangibles | (1,605) | (814) | (821)
+subtract: Tax impact on amortization of prior service cost | (147) | — | (144)
+subtract: Tax impact on acquisition related expense | (187) | — | —
+Adjusted net income (Non-GAAP) | $ | 94,586 | $ | 78,010 | $ | 90,798
+Adjusted diluted earnings per share (Non-GAAP) | $ | 0.62 | $ | 0.48 | $ | 0.59
+(a) To exclude amortization of prior service cost arising from the implementation of the new Labor Codes in India.
+(b) Tax impact includes $(55) and $64 during the three months ended September 30, 2026 and 2025 respectively, and $(17) during the three months ended June 30, 2026, related to discrete benefits recognized in income tax expense in accordance with ASU No. 2016-09, Compensation - Stock Compensation.
+Contacts:
+Investor Relations
+Andrew Thut
+Senior Vice President, Investor Relations
++1 617 413 0069
+ir@exlservice.com
+Media - US
+Keith Little
+Assistant Vice President, Media Relations
++1 703 598 0980
+media.relations@exlservice.com
