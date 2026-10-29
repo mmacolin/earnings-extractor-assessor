@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T08:53:00+08:00",
+  "fetched_at": "2026-10-29T09:12:51+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,127 +16,127 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 733 ms"
+      "detail": "HTTP 200, 60 KB in 89 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 542 ms"
+      "detail": "HTTP 200, 59 KB in 16 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1828 ms"
+      "detail": "HTTP 200, 60 KB in 17 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 481 ms"
+      "detail": "HTTP 200, 61 KB in 17 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=400",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 436 ms"
+      "detail": "HTTP 200, 15 KB in 20 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 95 ms"
+      "detail": "HTTP 200, 149 KB in 40 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 93 ms"
+      "detail": "HTTP 200, 1 KB in 152 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 72 ms"
+      "detail": "HTTP 200, 361 KB in 301 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 37 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 38 ms"
+      "detail": "HTTP 200, 156 KB in 25 ms"
     },
     {
       "name": "BEL FUSE INC /NJ filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/729580/000143774926033795/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 64 ms"
+      "detail": "HTTP 200, 1 KB in 86 ms"
     },
     {
       "name": "BEL FUSE INC /NJ filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/729580/000143774926033795/0001437749-26-033795-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 54 ms"
+      "detail": "HTTP 200, 10 KB in 85 ms"
     },
     {
       "name": "BEL FUSE INC /NJ press release",
       "url": "https://www.sec.gov/Archives/edgar/data/729580/000143774926033795/ex_1007041.htm",
       "ok": true,
-      "detail": "HTTP 200, 556 KB in 63 ms"
+      "detail": "HTTP 200, 556 KB in 133 ms"
     },
     {
       "name": "MONARCH CASINO & RESORT INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 68 ms"
+      "detail": "HTTP 200, 1 KB in 564 ms"
     },
     {
       "name": "MONARCH CASINO & RESORT INC filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/0001171843-26-006863-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 71 ms"
+      "detail": "HTTP 200, 10 KB in 185 ms"
     },
     {
       "name": "MONARCH CASINO & RESORT INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/exh_991.htm",
       "ok": true,
-      "detail": "HTTP 200, 150 KB in 85 ms"
+      "detail": "HTTP 200, 150 KB in 169 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 69 ms"
+      "detail": "HTTP 200, 3,090 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 99 ms"
+      "detail": "HTTP 200, 4,373 KB in 21 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 57 ms"
+      "detail": "HTTP 200, 2,737 KB in 30 ms"
     },
     {
       "name": "BEL FUSE INC /NJ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000729580.json",
       "ok": true,
-      "detail": "HTTP 200, 2,926 KB in 280 ms"
+      "detail": "HTTP 200, 2,926 KB in 61 ms"
     },
     {
       "name": "MONARCH CASINO & RESORT INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000907242.json",
       "ok": true,
-      "detail": "HTTP 200, 2,247 KB in 145 ms"
+      "detail": "HTTP 200, 2,247 KB in 76 ms"
     },
     {
       "name": "SAN JUAN BASIN ROYALTY TRUST company facts",
@@ -154,25 +154,25 @@
       "name": "LAKELAND FINANCIAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000721994.json",
       "ok": true,
-      "detail": "HTTP 200, 4,745 KB in 143 ms"
+      "detail": "HTTP 200, 4,745 KB in 86 ms"
     },
     {
       "name": "BLUE RIDGE BANKSHARES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000842717.json",
       "ok": true,
-      "detail": "HTTP 200, 2,100 KB in 140 ms"
+      "detail": "HTTP 200, 2,100 KB in 195 ms"
     },
     {
       "name": "ExlService Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001297989.json",
       "ok": true,
-      "detail": "HTTP 200, 4,712 KB in 298 ms"
+      "detail": "HTTP 200, 4,712 KB in 53 ms"
     },
     {
       "name": "FRANKLIN STREET PROPERTIES CORP /MA/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001031316.json",
       "ok": true,
-      "detail": "HTTP 200, 2,547 KB in 253 ms"
+      "detail": "HTTP 200, 2,547 KB in 49 ms"
     }
   ],
   "files": [
