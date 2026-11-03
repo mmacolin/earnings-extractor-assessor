@@ -449,5 +449,242 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/fsp-ex99d1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1031316/000110465926119169/0001104659-26-119169-index.htm",
     "saved_at": "2026-10-28T14:36:11+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Alphabet revenues growing 25% year-over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues more than doubled, driven by AI demand.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Operating income increased 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:53+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 12% to $201.9 billion.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin was 13.9%, which the release calls its highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income decreased, mainly because of gains on Anthropic investments in the 2025 quarter.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and projects growth above 40% in 2027 and 2028."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:53+08:00"
+  },
+  {
+    "cik": "1601548",
+    "company": "V2X, Inc.",
+    "accession": "0001601548-26-000050",
+    "release_date": "2026-11-02",
+    "period_end": "2026-10-02",
+    "period_label": "quarter ended 2 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1271.463,
+        "unit": "USD millions",
+        "quote": "Revenue $ 1,271,463 $ 1,167,137"
+      },
+      "operating_income": {
+        "value": 59.481,
+        "unit": "USD millions",
+        "quote": "Operating income 59,481 55,669"
+      },
+      "net_income": {
+        "value": 31.993,
+        "unit": "USD millions",
+        "quote": "Net income $ 31,993 $ 24,605"
+      },
+      "diluted_eps": {
+        "value": 1.01,
+        "unit": "USD per share",
+        "quote": "Diluted $ 1.01 $ 0.77"
+      }
+    },
+    "guidance": {
+      "text": "V2X raised its 2026 revenue guidance to $4,950 million to $5,100 million, from $4,875 million to $5,025 million.",
+      "quote": "Revenue $4,875 $5,025 $4,950 $5,100"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew and net income and diluted EPS rose by double digits.",
+        "quote": "We delivered another strong quarter, with revenue growth and double-digit increases in net income and diluted EPS."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says full-year 2026 guidance is increased on year-to-date results, backlog and demand.",
+        "quote": "Based on our year-to-date performance, current backlog position and existing demand signals, we are increasing our full-year 2026 guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and raises full-year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1601548-0001601548-26-000050.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1601548/000160154826000050/v2xq32026pressreleasefin.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1601548/000160154826000050/0001601548-26-000050-index.htm",
+    "saved_at": "2026-11-04T06:08:53+08:00"
+  },
+  {
+    "cik": "1058290",
+    "company": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+    "accession": "0001058290-26-000039",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5664,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 5,664 | $ | 5,415"
+      },
+      "operating_income": {
+        "value": 872,
+        "unit": "USD millions",
+        "quote": "Income from operations | 872 | 866"
+      },
+      "net_income": {
+        "value": 627,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 627 | $ | 274"
+      },
+      "diluted_eps": {
+        "value": 1.39,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.39 | $ | 0.56"
+      }
+    },
+    "guidance": {
+      "text": "Cognizant expects fourth quarter 2026 revenue of $5.49 billion to $5.57 billion.",
+      "quote": "Fourth quarter revenue is expected to be $5.49 to $5.57 billion, growth of 3.0% to 4.5%, or 3.2% to 4.7% in constant currency."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue was above the midpoint of guidance, with double-digit growth in Financial Services.",
+        "quote": "We delivered third-quarter revenue above the midpoint of our guidance range, including another quarter of double-digit growth in Financial Services"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CFO says adjusted EPS grew 7%, faster than revenue.",
+        "quote": "Adjusted EPS grew 7%, exceeding revenue growth both in the quarter and year-to-date."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe solid results and margin expansion."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1058290-0001058290-26-000039.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/exhibit9919302026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/0001058290-26-000039-index.htm",
+    "saved_at": "2026-11-04T06:08:53+08:00"
   }
 ]
