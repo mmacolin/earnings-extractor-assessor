@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:19:05+08:00",
+  "fetched_at": "2026-11-04T09:38:25+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,97 +16,97 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 179 ms"
+      "detail": "HTTP 200, 60 KB in 592 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 316 ms"
+      "detail": "HTTP 200, 59 KB in 1534 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 208 ms"
+      "detail": "HTTP 200, 60 KB in 510 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=300",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 969 ms"
+      "detail": "HTTP 200, 44 KB in 2040 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 40 ms"
+      "detail": "HTTP 200, 148 KB in 136 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 37 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 26 ms"
+      "detail": "HTTP 200, 154 KB in 80 ms"
     },
     {
       "name": "Ceribell, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1861107/000119312526445487/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 119 ms"
+      "detail": "HTTP 200, 1 KB in 116 ms"
     },
     {
       "name": "Ceribell, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1861107/000119312526445487/cbll-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 420 KB in 34 ms"
+      "detail": "HTTP 200, 420 KB in 63 ms"
     },
     {
-      "name": "PFIZER INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/index.json",
+      "name": "Phoenix Education Partners, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1600222/000119312526445352/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 208 ms"
+      "detail": "HTTP 200, 1 KB in 58 ms"
     },
     {
-      "name": "PFIZER INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm",
+      "name": "Phoenix Education Partners, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1600222/000119312526445352/pxed-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 896 KB in 68 ms"
+      "detail": "HTTP 200, 729 KB in 123 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 48 ms"
+      "detail": "HTTP 200, 3,173 KB in 86 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 83 ms"
+      "detail": "HTTP 200, 4,447 KB in 39 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 53 ms"
+      "detail": "HTTP 200, 2,743 KB in 41 ms"
     },
     {
       "name": "Ceribell, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001861107.json",
       "ok": true,
-      "detail": "HTTP 200, 494 KB in 221 ms"
+      "detail": "HTTP 200, 494 KB in 341 ms"
     },
     {
-      "name": "PFIZER INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000078003.json",
+      "name": "Phoenix Education Partners, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001600222.json",
       "ok": true,
-      "detail": "HTTP 200, 4,987 KB in 62 ms"
+      "detail": "HTTP 200, 298 KB in 321 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
@@ -118,14 +118,14 @@
       "name": "BLUE RIDGE BANKSHARES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000842717.json",
       "ok": true,
-      "detail": "HTTP 200, 2,100 KB in 213 ms"
+      "detail": "HTTP 200, 2,100 KB in 389 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000078003.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000842717.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001600222.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001861107.json",
     "data.sec.gov_submissions_CIK0001018724.json",
@@ -135,9 +135,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
+    "www.sec.gov_Archives_edgar_data_1600222_000119312526445352_index.json",
+    "www.sec.gov_Archives_edgar_data_1600222_000119312526445352_pxed-ex99_1.htm",
     "www.sec.gov_Archives_edgar_data_1861107_000119312526445487_cbll-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1861107_000119312526445487_index.json",
-    "www.sec.gov_Archives_edgar_data_78003_000007800326000125_index.json",
-    "www.sec.gov_Archives_edgar_data_78003_000007800326000125_pfe-9272026xex99.htm"
+    "www.sec.gov_Archives_edgar_data_1861107_000119312526445487_index.json"
   ]
 }
