@@ -3446,5 +3446,108 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:38:01+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 4,
+      "failures": [
+        {
+          "name": "VOC Energy Trust company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 9,
+      "mismatch": 0,
+      "cannot_check": 7
+    },
+    "companies": [
+      {
+        "cik": "1505413",
+        "company": "VOC Energy Trust",
+        "accession": "0001104659-26-117413",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "842717",
+        "company": "BLUE RIDGE BANKSHARES, INC.",
+        "accession": "0001193125-26-432133",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "4977",
+        "company": "AFLAC INC",
+        "accession": "0001628280-26-070181",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1439222",
+        "company": "AGIOS PHARMACEUTICALS, INC.",
+        "accession": "0001439222-26-000129",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 9 figures confirmed, 0 mismatches, 7 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:39+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1376,
+      "saved_for_run": 1376,
+      "match": true
+    },
+    "offline": false
   }
 ]
