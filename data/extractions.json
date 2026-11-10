@@ -686,5 +686,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/exhibit9919302026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/0001058290-26-000039-index.htm",
     "saved_at": "2026-11-04T06:08:53+08:00"
+  },
+  {
+    "cik": "4977",
+    "company": "AFLAC INC",
+    "accession": "0001628280-26-070181",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3271,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 3,271 | $ | 4,740 | (31.0) | %"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 303,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 303 | $ | 1,639 | (81.5) | %"
+      },
+      "diluted_eps": {
+        "value": 0.61,
+        "unit": "USD per share",
+        "quote": "Net earnings per share – diluted | 0.61 | 3.08 | (80.2)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says adjusted earnings were solid for the quarter and for the first nine months.",
+        "quote": "Aflac delivered solid adjusted earnings for the quarter and for the first nine months."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company remains focused on more profitable growth and on deploying capital tactically and opportunistically.",
+        "quote": "We remain focused on more profitable growth and the tactical, opportunistic deployment of capital."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO highlights 44 consecutive years of dividend increases.",
+        "quote": "We treasure our 2026 milestone of 44 consecutive years of dividend increases."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls adjusted earnings solid and stresses the dividend record; he does not comment on the fall in net earnings."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/4977-0001628280-26-070181.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026070181/aflex991-q32026new.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026070181/0001628280-26-070181-index.htm",
+    "saved_at": "2026-11-11T06:15:39+08:00"
+  },
+  {
+    "cik": "1439222",
+    "company": "AGIOS PHARMACEUTICALS, INC.",
+    "accession": "0001439222-26-000129",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 55.385,
+        "unit": "USD millions",
+        "quote": "Total revenue | 55,385 | 12,880 | 120,876 | 34,061"
+      },
+      "operating_income": {
+        "value": -77.16,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (77,160) | (116,869) | (297,737) | (350,554)"
+      },
+      "net_income": {
+        "value": -65.045,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (65,045) | $ | (103,433)"
+      },
+      "diluted_eps": {
+        "value": -1.09,
+        "unit": "USD per share",
+        "quote": "Net loss per share - basic and diluted | $ | (1.09)"
+      }
+    },
+    "guidance": {
+      "text": "Agios aims to reach non-GAAP profitability in 2028.",
+      "quote": "Agios’ goal is to achieve non-Generally Accepted Accounting Principles (GAAP) profitability in 2028."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter product revenue was a record and exceeded the whole of 2025.",
+        "quote": "The third quarter was a record for our product revenue, outperforming our entire 2025 total in just three months."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The company will have cut more than 100 R&D roles by year-end, with the savings expected in 2027.",
+        "quote": "will have reduced its R&D headcount by over 100 roles by year-end, representing a more than 35% decrease compared with 2025. The company expects the associated cost savings of these reductions to be realized in 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is ready to launch mitapivat in sickle cell disease ahead of the 1 February 2027 FDA date.",
+        "quote": "we are launch-ready ahead of our PDUFA goal date of February 1, 2027"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a record revenue quarter, broadening demand and a company well positioned for sustained growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1439222-0001439222-26-000129.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000129/agio-110526xfyxex991earnin.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000129/0001439222-26-000129-index.htm",
+    "saved_at": "2026-11-11T06:15:39+08:00"
   }
 ]
