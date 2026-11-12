@@ -805,5 +805,134 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000129/agio-110526xfyxex991earnin.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000129/0001439222-26-000129-index.htm",
     "saved_at": "2026-11-11T06:15:39+08:00"
+  },
+  {
+    "cik": "1041657",
+    "company": "URBAN ONE, INC.",
+    "accession": "0001628280-26-072780",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 88.005,
+        "unit": "USD millions",
+        "quote": "NET REVENUE | $ | 88,005"
+      },
+      "operating_income": {
+        "value": -126.559,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (126,559)"
+      },
+      "net_income": {
+        "value": -119.218,
+        "unit": "USD millions",
+        "quote": "NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS | $ | (119,218)"
+      },
+      "diluted_eps": {
+        "value": -26.39,
+        "unit": "USD per share",
+        "quote": "Net loss attributable to common stockholders (diluted)(a) | $ | (26.39)"
+      }
+    },
+    "guidance": {
+      "text": "Urban One has revised its Adjusted EBITDA guidance for 2026 to $40.0 million.",
+      "quote": "Revised Adjusted EBITDA(2) guide for 2026 is now $40.0 million given the realities of the current advertising marketplace."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says market conditions in radio continued to hurt revenue in the third quarter.",
+        "quote": "Market conditions in radio continued to adversely impact revenue in the third quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says local digital revenue rose, but client losses and lower national rates caused large declines in the digital segment.",
+        "quote": "We saw an increase in local digital revenue in our radio markets, but large client attrition and suppressed rates in national direct digital revenue meant significant revenue declines in the overall digital segment."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says Adjusted EBITDA guidance for 2026 is cut to $40.0 million because of the advertising market.",
+        "quote": "Revised Adjusted EBITDA(2) guide for 2026 is now $40.0 million given the realities of the current advertising marketplace."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The CEO says management is focused on cost cuts and has found at least $20.0 million of annual savings.",
+        "quote": "Management is hyper-focused on cost reductions heading into next year and has identified at least $20.0 million of annualized savings."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO says radio market conditions hurt revenue, digital revenue fell significantly and the 2026 guide was revised given the advertising market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1041657-0001628280-26-072780.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1041657/000162828026072780/uone-20261110xexx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1041657/000162828026072780/0001628280-26-072780-index.htm",
+    "saved_at": "2026-11-13T06:08:42+08:00"
+  },
+  {
+    "cik": "1038074",
+    "company": "SILICON LABORATORIES INC.",
+    "accession": "0001038074-26-000033",
+    "release_date": "2026-11-10",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 250.892,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 250,892"
+      },
+      "operating_income": {
+        "value": 7.951,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 7,951"
+      },
+      "net_income": {
+        "value": 8.851,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 8,851"
+      },
+      "diluted_eps": {
+        "value": 0.26,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.26"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue rose 10% from the previous quarter, with broad growth and a record quarter for medical revenue.",
+        "quote": "We delivered strong third-quarter results, with revenue up 10% sequentially, underpinned by broad-based growth across many end applications and another record quarter for medical revenue as known customer ramps continued"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says earnings grew much faster than revenue thanks to strong operational execution.",
+        "quote": "Earnings significantly outpaced revenue growth, a result of strong operational execution by the team."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says backlog and design-win ramps position the company for further revenue growth and earnings expansion.",
+        "quote": "Looking ahead, our current backlog and design-win ramps position us for continued revenue growth and meaningful earnings expansion."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results strong, cites broad growth and a record medical quarter, and expects continued revenue growth and earnings expansion."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1038074-0001038074-26-000033.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1038074/000103807426000033/slab-2026113earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1038074/000103807426000033/0001038074-26-000033-index.htm",
+    "saved_at": "2026-11-13T06:08:42+08:00"
   }
 ]
