@@ -1,118 +1,124 @@
 {
-  "fetched_at": "2026-11-11T09:27:59+08:00",
+  "fetched_at": "2026-11-12T10:14:26+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-09",
-    "end": "2026-11-10",
+    "end": "2026-11-11",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 18,
-  "answered": 17,
+  "requests": 19,
+  "answered": 18,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 100 ms"
+      "detail": "HTTP 200, 60 KB in 234 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 50 ms"
+      "detail": "HTTP 200, 60 KB in 101 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 56 ms"
+      "detail": "HTTP 200, 60 KB in 63 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 49 ms"
+      "detail": "HTTP 200, 53 KB in 102 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 65 ms"
+      "detail": "HTTP 200, 148 KB in 208 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 75 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 19 ms"
+      "detail": "HTTP 200, 153 KB in 360 ms"
     },
     {
-      "name": "National CineMedia, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1377630/000119312526455440/index.json",
+      "name": "URBAN ONE, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1041657/000162828026072780/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 67 ms"
+      "detail": "HTTP 200, 1 KB in 319 ms"
     },
     {
-      "name": "National CineMedia, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1377630/000119312526455440/ncmi-ex99_1.htm",
+      "name": "URBAN ONE, INC. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1041657/000162828026072780/0001628280-26-072780-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 639 KB in 95 ms"
+      "detail": "HTTP 200, 10 KB in 191 ms"
     },
     {
-      "name": "Sunrise Realty Trust, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/index.json",
+      "name": "URBAN ONE, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1041657/000162828026072780/uone-20261110xexx991.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 69 ms"
+      "detail": "HTTP 200, 523 KB in 173 ms"
     },
     {
-      "name": "Sunrise Realty Trust, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/0001628280-26-072851-index.htm",
+      "name": "SenesTech, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1680378/000162828026072725/index.json",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 57 ms"
+      "detail": "HTTP 200, 1 KB in 178 ms"
     },
     {
-      "name": "Sunrise Realty Trust, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/sunsearningsreleaseq32026e.htm",
+      "name": "SenesTech, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1680378/000162828026072725/0001628280-26-072725-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 53 KB in 87 ms"
+      "detail": "HTTP 200, 10 KB in 148 ms"
+    },
+    {
+      "name": "SenesTech, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1680378/000162828026072725/snes-20261110xexx991.htm",
+      "ok": true,
+      "detail": "HTTP 200, 157 KB in 151 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 58 ms"
+      "detail": "HTTP 200, 3,174 KB in 102 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 63 ms"
+      "detail": "HTTP 200, 4,447 KB in 101 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 53 ms"
+      "detail": "HTTP 200, 2,745 KB in 78 ms"
     },
     {
-      "name": "National CineMedia, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001377630.json",
+      "name": "URBAN ONE, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041657.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 326 ms"
+      "detail": "HTTP 200, 3,409 KB in 266 ms"
     },
     {
-      "name": "Sunrise Realty Trust, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002012706.json",
+      "name": "SenesTech, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001680378.json",
       "ok": true,
-      "detail": "HTTP 200, 321 KB in 151 ms"
+      "detail": "HTTP 200, 1,555 KB in 262 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
@@ -123,10 +129,10 @@
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001041657.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001377630.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002012706.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001680378.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -134,10 +140,11 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1377630_000119312526455440_index.json",
-    "www.sec.gov_Archives_edgar_data_1377630_000119312526455440_ncmi-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_2012706_000162828026072851_0001628280-26-072851-index.htm",
-    "www.sec.gov_Archives_edgar_data_2012706_000162828026072851_index.json",
-    "www.sec.gov_Archives_edgar_data_2012706_000162828026072851_sunsearningsreleaseq32026e.htm"
+    "www.sec.gov_Archives_edgar_data_1041657_000162828026072780_0001628280-26-072780-index.htm",
+    "www.sec.gov_Archives_edgar_data_1041657_000162828026072780_index.json",
+    "www.sec.gov_Archives_edgar_data_1041657_000162828026072780_uone-20261110xexx991.htm",
+    "www.sec.gov_Archives_edgar_data_1680378_000162828026072725_0001628280-26-072725-index.htm",
+    "www.sec.gov_Archives_edgar_data_1680378_000162828026072725_index.json",
+    "www.sec.gov_Archives_edgar_data_1680378_000162828026072725_snes-20261110xexx991.htm"
   ]
 }
