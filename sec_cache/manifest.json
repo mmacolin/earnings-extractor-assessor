@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T09:47:57+08:00",
+  "fetched_at": "2026-11-13T10:07:14+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,110 +9,98 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 20,
-  "answered": 19,
+  "requests": 18,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 156 ms"
+      "detail": "HTTP 200, 60 KB in 397 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 39 ms"
+      "detail": "HTTP 200, 59 KB in 615 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 56 KB in 38 ms"
+      "detail": "HTTP 200, 56 KB in 354 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 100 ms"
+      "detail": "HTTP 200, 149 KB in 31 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 42 ms"
+      "detail": "HTTP 200, 156 KB in 23 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 54 ms"
+      "detail": "HTTP 200, 154 KB in 21 ms"
     },
     {
-      "name": "Digimarc Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/index.json",
+      "name": "Yesway, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1859836/000110465926125848/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 151 ms"
+      "detail": "HTTP 200, 1 KB in 41 ms"
     },
     {
-      "name": "Digimarc Corp filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/0001437749-26-036556-index.htm",
+      "name": "Yesway, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1859836/000110465926125848/tm2629585d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 87 ms"
+      "detail": "HTTP 200, 266 KB in 31 ms"
     },
     {
-      "name": "Digimarc Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926036556/ex_1037346.htm",
+      "name": "MultiSensor AI Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1863990/000110465926126250/index.json",
       "ok": true,
-      "detail": "HTTP 200, 323 KB in 70 ms"
+      "detail": "HTTP 200, 1 KB in 108 ms"
     },
     {
-      "name": "Aebi Schmidt Holding AG filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/index.json",
+      "name": "MultiSensor AI Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1863990/000110465926126250/msai-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 144 ms"
-    },
-    {
-      "name": "Aebi Schmidt Holding AG filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/0001171843-26-007367-index.htm",
-      "ok": true,
-      "detail": "HTTP 200, 9 KB in 56 ms"
-    },
-    {
-      "name": "Aebi Schmidt Holding AG press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2048519/000117184326007367/exh_991.htm",
-      "ok": true,
-      "detail": "HTTP 200, 162 KB in 120 ms"
+      "detail": "HTTP 200, 265 KB in 32 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 125 ms"
+      "detail": "HTTP 200, 3,174 KB in 32 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 64 ms"
+      "detail": "HTTP 200, 4,447 KB in 27 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 72 ms"
+      "detail": "HTTP 200, 2,745 KB in 24 ms"
     },
     {
-      "name": "Digimarc Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002119322.json",
+      "name": "Yesway, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001859836.json",
       "ok": true,
-      "detail": "HTTP 200, 108 KB in 118 ms"
+      "detail": "HTTP 200, 190 KB in 143 ms"
     },
     {
-      "name": "Aebi Schmidt Holding AG company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002048519.json",
+      "name": "MultiSensor AI Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001863990.json",
       "ok": true,
-      "detail": "HTTP 200, 497 KB in 198 ms"
+      "detail": "HTTP 200, 612 KB in 176 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
@@ -124,13 +112,13 @@
       "name": "URBAN ONE, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041657.json",
       "ok": true,
-      "detail": "HTTP 200, 3,409 KB in 231 ms"
+      "detail": "HTTP 200, 3,409 KB in 309 ms"
     },
     {
       "name": "SILICON LABORATORIES INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001038074.json",
       "ok": true,
-      "detail": "HTTP 200, 2,819 KB in 116 ms"
+      "detail": "HTTP 200, 2,819 KB in 45 ms"
     }
   ],
   "files": [
@@ -139,19 +127,17 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001041657.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002048519.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002119322.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001859836.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001863990.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_0001171843-26-007367-index.htm",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_exh_991.htm",
-    "www.sec.gov_Archives_edgar_data_2048519_000117184326007367_index.json",
-    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_0001437749-26-036556-index.htm",
-    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_ex_1037346.htm",
-    "www.sec.gov_Archives_edgar_data_2119322_000143774926036556_index.json"
+    "www.sec.gov_Archives_edgar_data_1859836_000110465926125848_index.json",
+    "www.sec.gov_Archives_edgar_data_1859836_000110465926125848_tm2629585d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1863990_000110465926126250_index.json",
+    "www.sec.gov_Archives_edgar_data_1863990_000110465926126250_msai-ex99d1.htm"
   ]
 }
