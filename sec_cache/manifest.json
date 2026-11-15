@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-14T09:43:41+08:00",
+  "fetched_at": "2026-11-15T08:59:59+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-13",
+    "end": "2026-11-14",
     "first_run": false,
     "note": null
   },
@@ -14,99 +14,99 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 124 ms"
+      "detail": "HTTP 200, 60 KB in 102 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 81 ms"
+      "detail": "HTTP 200, 60 KB in 51 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 71 ms"
+      "detail": "HTTP 200, 60 KB in 70 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 82 ms"
+      "detail": "HTTP 200, 55 KB in 47 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 98 ms"
+      "detail": "HTTP 200, 148 KB in 56 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 17 ms"
     },
     {
-      "name": "TuHURA Biosciences, Inc./NV filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526459311/index.json",
+      "name": "Annovis Bio, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926127094/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 96 ms"
+      "detail": "HTTP 200, 1 KB in 68 ms"
     },
     {
-      "name": "TuHURA Biosciences, Inc./NV press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526459311/hura-ex99_1.htm",
+      "name": "Annovis Bio, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926127094/tm2629728d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 49 KB in 36 ms"
+      "detail": "HTTP 200, 73 KB in 60 ms"
     },
     {
-      "name": "BTCS Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226051205/index.json",
+      "name": "Health In Tech, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/index.json",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 210 ms"
+      "detail": "HTTP 200, 1 KB in 59 ms"
     },
     {
-      "name": "BTCS Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226051205/ex99-1.htm",
+      "name": "Health In Tech, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/ea031199101ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 121 KB in 121 ms"
+      "detail": "HTTP 200, 162 KB in 72 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 77 ms"
+      "detail": "HTTP 200, 3,174 KB in 56 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 83 ms"
+      "detail": "HTTP 200, 4,447 KB in 45 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 74 ms"
+      "detail": "HTTP 200, 2,745 KB in 65 ms"
     },
     {
-      "name": "TuHURA Biosciences, Inc./NV company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001498382.json",
+      "name": "Annovis Bio, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001477845.json",
       "ok": true,
-      "detail": "HTTP 200, 1,485 KB in 554 ms"
+      "detail": "HTTP 200, 646 KB in 166 ms"
     },
     {
-      "name": "BTCS Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001436229.json",
+      "name": "Health In Tech, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002019505.json",
       "ok": true,
-      "detail": "HTTP 200, 1,980 KB in 317 ms"
+      "detail": "HTTP 200, 347 KB in 147 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
@@ -118,13 +118,13 @@
       "name": "URBAN ONE, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041657.json",
       "ok": true,
-      "detail": "HTTP 200, 3,454 KB in 257 ms"
+      "detail": "HTTP 200, 3,454 KB in 241 ms"
     },
     {
       "name": "SILICON LABORATORIES INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001038074.json",
       "ok": true,
-      "detail": "HTTP 200, 2,819 KB in 86 ms"
+      "detail": "HTTP 200, 2,819 KB in 208 ms"
     }
   ],
   "files": [
@@ -132,9 +132,9 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001038074.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001041657.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001436229.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001498382.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001477845.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002019505.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -142,9 +142,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1436229_000149315226051205_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1436229_000149315226051205_index.json",
-    "www.sec.gov_Archives_edgar_data_1498382_000119312526459311_hura-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1498382_000119312526459311_index.json"
+    "www.sec.gov_Archives_edgar_data_1477845_000110465926127094_index.json",
+    "www.sec.gov_Archives_edgar_data_1477845_000110465926127094_tm2629728d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2019505_000121390026119857_ea031199101ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2019505_000121390026119857_index.json"
   ]
 }
