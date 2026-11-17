@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T11:46:54+08:00",
+  "fetched_at": "2026-11-17T12:10:13+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 43 ms"
+      "detail": "HTTP 200, 60 KB in 185 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 19 ms"
+      "detail": "HTTP 200, 60 KB in 804 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 25 ms"
+      "detail": "HTTP 200, 59 KB in 355 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 20 ms"
+      "detail": "HTTP 200, 60 KB in 275 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 19 ms"
+      "detail": "HTTP 200, 60 KB in 473 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 34 ms"
+      "detail": "HTTP 200, 15 KB in 530 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 32 ms"
+      "detail": "HTTP 200, 148 KB in 140 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 20 ms"
+      "detail": "HTTP 200, 156 KB in 59 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 22 ms"
+      "detail": "HTTP 200, 154 KB in 39 ms"
     },
     {
-      "name": "Longeveron Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1721484/000121390026119052/index.json",
+      "name": "BROADWAY FINANCIAL CORP \\DE\\ filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 349 ms"
+      "detail": "HTTP 200, 3 KB in 300 ms"
     },
     {
-      "name": "Longeveron Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1721484/000121390026119052/ea031194401ex99-1.htm",
+      "name": "BROADWAY FINANCIAL CORP \\DE\\ press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/ef20085511_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 80 KB in 196 ms"
+      "detail": "HTTP 200, 1,106 KB in 171 ms"
     },
     {
       "name": "Bally's Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 288 ms"
+      "detail": "HTTP 200, 1 KB in 134 ms"
     },
     {
       "name": "Bally's Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 181 KB in 147 ms"
+      "detail": "HTTP 200, 181 KB in 140 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 39 ms"
+      "detail": "HTTP 200, 3,174 KB in 71 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 27 ms"
+      "detail": "HTTP 200, 4,447 KB in 64 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 357 ms"
+      "detail": "HTTP 200, 2,745 KB in 47 ms"
     },
     {
-      "name": "Longeveron Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001721484.json",
+      "name": "BROADWAY FINANCIAL CORP \\DE\\ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001171.json",
       "ok": true,
-      "detail": "HTTP 200, 894 KB in 403 ms"
+      "detail": "HTTP 200, 3,602 KB in 358 ms"
     },
     {
       "name": "Bally's Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001747079.json",
       "ok": true,
-      "detail": "HTTP 200, 2,543 KB in 61 ms"
+      "detail": "HTTP 200, 2,543 KB in 148 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
@@ -130,22 +130,22 @@
       "name": "URBAN ONE, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001041657.json",
       "ok": true,
-      "detail": "HTTP 200, 3,454 KB in 275 ms"
+      "detail": "HTTP 200, 3,454 KB in 621 ms"
     },
     {
       "name": "SILICON LABORATORIES INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001038074.json",
       "ok": true,
-      "detail": "HTTP 200, 2,819 KB in 21 ms"
+      "detail": "HTTP 200, 2,819 KB in 374 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001001171.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001038074.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001041657.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001721484.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001747079.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -156,8 +156,8 @@
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
     "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_1721484_000121390026119052_ea031194401ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1721484_000121390026119052_index.json",
+    "www.sec.gov_Archives_edgar_data_1001171_000114036126043754_ef20085511_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1001171_000114036126043754_index.json",
     "www.sec.gov_Archives_edgar_data_1747079_000174707926000106_ex991q32026earningsrelease.htm",
     "www.sec.gov_Archives_edgar_data_1747079_000174707926000106_index.json"
   ]
