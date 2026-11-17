@@ -1,0 +1,143 @@
+Company: Bally's Corp (CIK 1747079)
+Accession: 0001747079-26-000106
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/0001747079-26-000106-index.htm
+Saved: 2026-11-18T06:07:56+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex991q32026earningsrelease.htm EX-99.1
+Exhibit 99.1
+BALLY’S CORPORATION REPORTS THIRD QUARTER 2026 RESULTS
+PROVIDENCE, R.I., - November 16, 2026 - Bally’s Corporation (NYSE: BALY) (“Bally’s” or the “Company”) today reported financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 and Recent Highlights
+•Consolidated revenue of $807.6 million increased 21.7% year-over-year
+•Casinos & Resorts revenue of $408.6 million, up 3.2% year-over-year, benefitting from landside move of Bally’s Baton Rouge and Bally’s Marquette and the inclusion of Sam’s Town Shreveport which was acquired during the third quarter, as well as strong growth at Bally’s temporary Chicago facility
+•Bally's Intralot B2C revenue of $257.5 million, up 22.8% year-over-year, driven by strong revenue growth in the UK, as well as the addition of Intralot's B2C business
+•North America Interactive revenue of $62.7 million, up 25.6% year-over-year, reflecting healthy wagering revenue growth across all verticals
+•On October 1st, closed on previously announced financing of Bally’s Bronx project, receiving $400 million in proceeds with additional $160 million available for future draws
+Summary of Financial Results
+Successor | Predecessor
+(in thousands) | Three Months Ended September 30, 2026 | Three Months Ended September 30, 2025 | Nine Months Ended September 30, 2026 | Period from February 8, 2025 to September 30, 2025 | Period from January 1, 2025 to February 7, 2025
+Revenue:
+Casinos & Resorts | $ | 408,563 | $ | 396,060 | $ | 1,189,308 | $ | 1,016,244 | $ | 124,299
+Bally’s Intralot B2B | 76,581 | 5,480 | 230,025 | 17,409 | 3,720
+Bally’s Intralot B2C | 257,451 | 209,605 | 740,870 | 516,492 | 75,265
+North America Interactive | 62,658 | 49,906 | 189,178 | 133,965 | 16,941
+Corporate & Other | 2,305 | 2,665 | 6,133 | 5,834 | 273
+Total | $ | 807,558 | $ | 663,716 | $ | 2,355,514 | $ | 1,689,944 | $ | 220,498
+Robeson Reeves, Bally’s Chief Executive Officer, commented, “We delivered another solid quarter, with consolidated revenue up 21.7% year over year. Revenue growth was led by Bally’s Intralot B2C which rose 22.8% and North America Interactive which increased 25.6% while Casinos & Resorts revenue rose 3.2% reflecting strong regional gaming performance. Our development projects remain on track, our execution is improving results across every segment, and market conditions remain stable as we head into the fourth quarter and 2027.
+“Our operating results and development progress underscore our commitment to building a solid foundation for long-term shareholder returns. Construction of Bally’s Chicago continues, with the permanent casino on schedule to open in spring 2027. September marked the three-year anniversary of the opening of Bally’s Chicago temporary casino located at Medinah Temple. Since that time, Bally’s has worked diligently and in good faith with the City of Chicago, organized labor, regulators and the broader Chicago community to deliver a world-class integrated casino and resort. Bally’s will meet and likely exceed the $1.34 billion minimum capital commitment required under our agreement with the City of Chicago, we have the capital resources necessary to do so and are very excited to bring Chicago its first and only full service gaming and entertainment resort.
+“In Las Vegas, the Athletics’ stadium is progressing and remains on track for completion before the 2028 season. As we advance the retail, entertainment and dining components of the adjacent Bally’s project, we are in advanced negotiations with potential partners and look forward to updating the market as our plans develop.
+“Our $4.0 billion Bally’s Bronx integrated casino project is on track to open by 2030, with 3 million square feet of an integrated resort and gaming facilities, a 500-room hotel, a 2,000-person event center and an 18-hole world-class golf course. On October 1, we closed a $400 million term loan led by WhiteHawk Capital Partners, with an additional $160 million in delayed-draw commitments, fully funding pre-construction. As we raise the remaining development and construction capital, we are fielding substantial interest from potential equity and debt financing partners.
+“Our North America Interactive segment continues to deliver impressive growth as we pace toward positive Adjusted EBITDAR. Segment revenue grew 25.6% year over year to $62.7 million, and Adjusted EBITDAR improved to negative $3.2 million. We continue to see success from the customer-focused and automation initiatives we implemented over the past year. In addition, we are starting to observe benefits from technology investments, and expect to realize economies of scale near-term. On a third quarter run-rate, this is a digital business generating approximately $251 million of annualized revenue and contributing positively at the segment level.
+“Internationally, Bally’s Intralot’s B2C and B2B segments delivered more than $334.0 million of revenue in the third quarter. UK online revenue grew 12.2% year over year in constant currency, accelerating from 11.6% in Q2 despite lower marketing investment. The increase in UK gaming duty had a gross negative impact of approximately $39 million on B2C Segment Adjusted EBITDAR in the quarter, in line with Q2. Measured year over year, approximately 55% of this impact was offset through top-line growth, marketing efficiency and disciplined cost management. We remain on track against the margin commitments previously disclosed to investors.
+“Bally’s Intralot’s proposed acquisition of evoke plc, announced in June, continues to progress on schedule. The combination of Bally’s Intralot’s execution and cost discipline with evoke’s scale is expected to unlock significant cost synergies and growth opportunities. Shareholders of both companies have approved the transaction, and a number of competition and regulatory conditions have already been satisfied. The remaining gaming regulatory approvals and the Gibraltar court sanction hearing are expected to conclude by the first quarter of 2027.
+“In Australia, The Star returned to positive EBITDA in September. Combined Sydney and Gold Coast revenue grew year over year for the first time since quarterly reporting began, driven by stronger slot performance, targeted marketing initiatives and cost savings. The managed Brisbane resort also delivered record earnings. The Star expects fiscal year 2027 to mark its first year of positive operating cash flow, before one-off items, in more than two years.
+“In summary, our strategic initiatives are building a global, omni-channel leader in retail and online gaming, with the scale to capture significant growth opportunities. We are executing against those opportunities with urgency and discipline and a focus on enhancing shareholder value.”
+Third Quarter Financial Review
+Third quarter 2026 Casinos & Resorts revenue of $408.6 million rose 3.2% year-over-year, with growth most notably at Bally’s Baton Rouge (formerly the Belle of Baton Rouge) which opened landside in December 2025, our Chicago temporary facility and Marquette that moved landside in February 2026, in addition to the inclusion of Sam’s Town which was acquired during the third quarter. The Casinos & Resorts Segment Adjusted EBITDAR remained relatively flat year-over-year at $107.8 million.
+Third quarter 2026 Bally’s Intralot B2C revenue reflects continued strength in our U.K. operations. U.K. online revenue rose 12.2% in constant currency versus the third quarter of 2025, driven by organic growth and our strong player base. During the quarter, we mitigated the impact of the UK gaming tax increase through top-line growth and disciplined cost reductions. Revenues in Spain delivered robust 18.9% year-over-year growth in constant currency, driven by a larger active player base. Year-over-year growth in the Bally’s Intralot B2C segment was further supported by the inclusion of Intralot’s B2C business (sports betting in Turkey) starting in the fourth quarter of 2025. Bally’s presentation of Bally’s Intralot B2C Segment Adjusted EBITDAR under US GAAP includes approximately $2 million of negative IFRS to US GAAP adjustments due primarily to different accounting treatment of leases.
+The Bally’s Intralot B2B segment includes Intralot’s B2B and B2G operations following the completion of the Intralot transaction in the fourth quarter of 2025. Prior year third quarter revenue and Segment Adjusted EBITDAR represent a royalty cash flow stream related to a divested business. Bally’s presentation of Bally’s Intralot B2B Segment Adjusted EBITDAR under US GAAP includes approximately $11 million of negative IFRS to US GAAP adjustments due primarily to different accounting treatment of software development costs and leases.
+Revenue for our North America Interactive segment of $62.7 million rose 25.6% year-over-year in the third quarter with negative Segment Adjusted EBITDAR of $3.2 million, a $2.8 million improvement over prior year. The business continues to demonstrate healthy, sustainable growth, with strong momentum across the U.S. and Canada.
+Reconciliation of GAAP Measures to Non-GAAP Measures
+To supplement the financial information presented on a generally accepted accounting principles (“GAAP”) basis, Bally’s has included in this earnings release the non-GAAP financial measure for Segment Adjusted EBITDAR, which excludes certain items described below. The reconciliation of this non-GAAP financial measure to its comparable GAAP financial measures is presented in the tables appearing below.
+“Adjusted EBITDA” is earnings, or loss, for Bally’s, or where noted Bally’s reportable segments, before, in each case, interest expense, net of interest income, provision (benefit) for income taxes, depreciation and amortization, non-operating (income) expense, acquisition and other transaction related costs, share-based compensation, and certain other gains or losses as well as, when presented for Bally’s reportable segments, an adjustment related to the allocation of corporate costs among segments.
+“Segment Adjusted EBITDAR” is earnings, or loss, for Bally’s reportable segments before interest expense, net of interest income, provision (benefit) for income taxes, depreciation and amortization, non-operating (income) expense, acquisition and other transaction related costs, share-based compensation, and certain other gains or losses as well as an adjustment related to the allocation of corporate costs among segments, plus rent expense associated with triple net operating leases for the real estate assets used in the operation of the Bally’s casinos. For the Bally's Intralot B2B, Bally's Intralot B2C, North America Interactive, and Other segments, Segment Adjusted EBITDAR is equivalent due to a lack of triple net operating lease for real estate assets used in those segments.
+Management has historically used consolidated Segment Adjusted EBITDAR when evaluating operating performance because Bally’s believes that this metric is necessary to provide a full understanding of Bally’s core operating results and as a means to evaluate period-to-period performance. Management also believes that Segment Adjusted EBITDAR is a measure that is widely used for evaluating operating performance of companies in Bally’s industry and a principal basis for valuing such companies as well. Adjusted EBITDAR is used outside of our financial statements solely as a valuation metric. Management believes Adjusted EBITDAR is an additional metric traditionally used by analysts in valuing gaming companies subject to triple net leases since it eliminates the effects of variability in leasing methods and capital structures. Segment Adjusted EBITDAR should not be construed as alternatives to GAAP net income as an indicator of Bally’s performance. In addition, Segment Adjusted EBITDAR as used by Bally’s may not be defined in the same manner as other companies in Bally’s industry, and, as a result, may not be comparable to similarly titled non-GAAP financial measures of other companies.
+About Bally’s Corporation
+Bally’s (NYSE: BALY) is a fast-growing global entertainment brand with 21 casinos across 11 U.S. states and one casino in Newcastle, UK, along with a golf course in New York and horse racetracks in Colorado and forthcoming in Wyoming. Bally’s also owns Bally Bet, a first-in-class sports betting and iGaming platform licensed in 16 jurisdictions in North America. Bally’s holds a majority interest in Bally’s Intralot S.A. (ATSE: BYLOT), a leading lottery solutions supplier and gaming operator active in 39 jurisdictions worldwide. Bally’s casino operations include approximately 17,700 slot machines, 630 table games, and 3,950 hotel rooms. Bally’s also has rights to developable land in Las Vegas at the site of the former Tropicana Las Vegas, has been awarded a license to build a full-scale casino and resort in The Bronx, New York, and an integrated destination resort in Chicago, Illinois. Bally’s is the first publicly traded gaming company to achieve Minority Business Enterprise (MBE) certification through the National Minority Supplier Development Council (NMSDC). Bally’s has over 12,000 employees across the world, recognized for their innovation, energy, and dedication to creating thrilling gaming experiences.
+Cautionary Note Regarding Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of the federal securities laws. Forward-looking statements may generally be identified by the use of words such as “anticipate,” “believe,” “expect,” “intend,” “plan” and “will” or, in each case, their negative, or other variations or comparable terminology. These forward-looking statements include all matters that are not historical facts. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. As a result, these statements are not guarantees of future performance and actual events may differ materially from those expressed in or suggested by the forward-looking statements. Any forward-looking statement made by Bally’s in this press release, its reports filed with the Securities and Exchange Commission (“SEC”) and other public statements made from time-to-time speak only as of the date made. New risks and uncertainties come up from time to time, and it is impossible for Bally’s to predict or identify all such events or how they may affect it. Bally’s has no obligation, and does not intend, to update any forward-looking statements after the date hereof, except as required by federal securities laws. Factors that could cause these differences include those included in Bally’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and other reports filed by Bally’s with the SEC. These statements constitute Bally’s cautionary statements under the Private Securities Litigation Reform Act of 1995.
+Investor Contact | Media Contact
+Lauren Westerfield | Joseph Jaffoni, Christin Armacost
+Global Vice President Public Relations | JCIR
+401-475-8564 | 212-835-8500
+ir@ballys.com | baly@jcir.com
+Revenue and Segment Adjusted EBITDAR (unaudited)
+Successor | Predecessor
+(in thousands) | Three Months Ended September 30, 2026 | Three Months Ended September 30, 2025 | Nine Months Ended September 30, 2026 | Period from February 8, 2025 to September 30, 2025 | Period from January 1, 2025 to February 7, 2025
+Revenue:
+Casinos & Resorts | $ | 408,563 | $ | 396,060 | $ | 1,189,308 | $ | 1,016,244 | $ | 124,299
+Bally’s Intralot B2B | 76,581 | 5,480 | 230,025 | 17,409 | 3,720
+Bally’s Intralot B2C | 257,451 | 209,605 | 740,870 | 516,492 | 75,265
+North America Interactive | 62,658 | 49,906 | 189,178 | 133,965 | 16,941
+Corporate & Other | 2,305 | 2,665 | 6,133 | 5,834 | 273
+Total | $ | 807,558 | $ | 663,716 | $ | 2,355,514 | $ | 1,689,944 | $ | 220,498
+Adjusted EBITDAR(2)
+Casinos & Resorts | $ | 107,752 | $ | 107,920 | $ | 313,559 | $ | 285,427 | $ | 23,554
+Bally’s Intralot B2B | 12,194 | 5,480 | 49,241 | 17,409 | 3,720
+Bally’s Intralot B2C | 76,995 | 86,381 | 228,826 | 204,852 | 25,220
+North America Interactive | (3,177) | (5,990) | (7,320) | (5,851) | (5,661)
+Corporate & Other | (14,133) | (17,953) | (38,229) | (45,162) | (6,774)
+Successor | Pro Forma Combined(1)
+(in thousands) | Nine Months Ended September 30, 2026 | Nine Months Ended September 30, 2025
+Revenue:
+Casinos & Resorts | $ | 1,189,308 | $ | 1,160,381
+Bally’s Intralot B2B | 230,025 | 21,129
+Bally’s Intralot B2C | 740,870 | 591,757
+North America Interactive | 189,178 | 152,944
+Corporate & Other | 6,133 | 6,107
+Total | $ | 2,355,514 | $ | 1,932,318
+Adjusted EBITDAR(2)
+Casinos & Resorts | $ | 313,559 | $ | 314,456
+Bally’s Intralot B2B | 49,241 | 21,129
+Bally’s Intralot B2C | 228,826 | 230,072
+North America Interactive | (7,320) | (10,093)
+Corporate & Other | (38,229) | (53,247)
+________________________________
+(1) Proforma combined financial information represents combined Bally’s and Queen results for the periods presented. The Company believes proforma combined information will be beneficial to investors as it provides a baseline for comparative future results of the combined company. Refer to tables in this press release for a reconciliation of this non-GAAP financial measure to the most directly comparable measure calculated in accordance with GAAP.
+(2) Segment Adjusted EBITDAR is Bally’s reportable segment GAAP measure and its primary measure for profit or loss for its reportable segments. “Segment Adjusted EBITDAR” is earnings, or loss, for Bally’s reportable segments before interest expense, net of interest income, provision (benefit) for income taxes, depreciation and amortization, non-operating (income) expense, acquisition and other transaction related costs, share-based compensation, and certain other gains or losses as well as an adjustment related to the allocation of corporate costs among segments, plus rent expense associated with triple net operating leases for the real estate assets used in the operation of the Bally’s casinos. For the Bally's Intralot B2B, Bally's Intralot B2C, North America Interactive, and Other segments, Segment Adjusted EBITDAR is equivalent due to a lack of triple net operating lease for real estate assets used in those segments.
+Supplemental Unaudited Condensed Combined Financial Information
+The supplemental unaudited financial information below combines the historical results of operations of Bally’s and Queen for the periods presented and has been prepared to reflect the merger as if they had occurred on January 1, 2025.
+2025 CONDENSED COMBINED INCOME STATEMENT INFORMATION
+Bally’s | Queen
+Successor | Predecessor
+(in thousands) | Three Months Ended September 30, 2025 | Period from February 8, 2025 to September 30, 2025 | Period from January 1, 2025 to February 7, 2025 | Period from January 1, 2025 to February 7, 2025 | Combined Nine Months Ended September 30, 2025
+Revenue:
+Casinos & Resorts | $ | 396,060 | $ | 1,016,244 | $ | 124,299 | $ | 19,838 | $ | 1,160,381
+Bally’s Intralot B2B | 5,480 | 17,409 | 3,720 | — | 21,129
+Bally’s Intralot B2C | 209,605 | 516,492 | 75,265 | — | 591,757
+North America Interactive | 49,906 | 133,965 | 16,941 | 2,038 | 152,944
+Corporate & Other | 2,665 | 5,834 | 273 | — | 6,107
+$ | 663,716 | $ | 1,689,944 | $ | 220,498 | $ | 21,876 | $ | 1,932,318
+Adjusted EBITDAR
+Casinos & Resorts | $ | 107,920 | $ | 285,427 | $ | 23,554 | $ | 5,475 | $ | 314,456
+Bally’s Intralot B2B | 5,480 | 17,409 | 3,720 | — | 21,129
+Bally’s Intralot B2C | 86,381 | 204,852 | 25,220 | — | 230,072
+North America Interactive | (5,990) | (5,851) | (5,661) | 1,419 | (10,093)
+Corporate & Other | (17,953) | (45,162) | (6,774) | (1,311) | (53,247)
+Selected Financial Information (unaudited)
+Balance Sheet Data
+Outstanding Balance
+(in thousands) | September 30, 2026 (Successor) | December 31, 2025 (Successor)
+2026 Term Loans | $ | 1,119,442 | $ | —
+Term Loan Facility | — | 1,472,594
+2025 Intralot British Term Loan | 529,282 | 538,720
+2026 Intralot British Term Loan | 207,833 | —
+Intralot Greek Term Loan | 226,835 | 234,962
+Revolving Credit Facility | 498,250 | —
+Intralot 6.00% Greek Retail Bond due 2029 | 147,442 | 152,726
+Fixed Rate Senior Notes:
+5.625% Senior Notes due 2029 | 750,000 | 750,000
+5.875% Senior Notes due 2031 | 735,000 | 735,000
+Intralot 6.75% Senior Secured Notes due 2031 | 680,504 | 704,886
+Intralot Floating Rate Senior Notes due 2031 | 340,252 | 352,443
+Intralot Supplemental Indenture | 2,351 | 2,436
+Less: Unamortized original issue discount | (59,742) | —
+Less: Unamortized fair value adjustment | (334,480) | (443,110)
+Long-term debt, including current portion | 4,842,969 | 4,500,657
+Less: Current portion of 2026 Term Loans, Term Loan Facility, Intralot Greek Term Loan and Revolving Credit Facility(1) | (537,947) | (37,344)
+Long-term debt, net of discount and deferred financing fees; excluding current portion | $ | 4,305,022 | $ | 4,463,313
+__________________________________
+(1) In accordance with ASC 470-10-55, the Company has reclassified its Revolving Credit Facility, without consideration of contractual maturity, as a current liability within its condensed consolidated balance sheets as of September 30, 2026 (Successor).
+Cash Flow Data
+Successor | Predecessor
+(in thousands) | Nine Months Ended September 30, 2026 | Period from February 8, 2025 to September 30, 2025 | Period from January 1, 2025 to February 7, 2025
+Capital Expenditures | $ | 130,735 | $ | 130,155 | $ | 16,424
+Cash paid for capitalized software | 25,489 | 26,087 | 2,315
+Acquisition of gaming licenses | 503,080 | 2,000 | —
+Cash payments associated with triple net operating leases(2) | 203,994 | 113,255 | 14,877
+________________________________
+(1) The Company has entered certain currency swaps to synthetically convert $500 million of its Term Loan Facility to €461.6 million fixed-rate Euro-denominated instrument due October 2028 paying a weighted-average fixed-rate coupon of approximately 6.69% per annum. The Company also entered certain currency swaps to synthetically convert $200 million notional amount of its floating rate Term Loan Facility to an equivalent £159.2 million GBP-denominated floating rate instrument with tenor of the swap instrument due October 2026. Additionally, as part of the Company’s risk management program, to further manage the Company’s exposure to interest rate movements, the Company entered into an additional $1.0 billion notional in interest rate swap contract arrangements to fix interest rates until 2028.
+(2) Consists of payments made in connection with Bally’s triple net operating leases, as defined above.

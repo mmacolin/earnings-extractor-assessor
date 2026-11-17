@@ -1,0 +1,311 @@
+Company: BROADWAY FINANCIAL CORP \DE\ (CIK 1001171)
+Accession: 0001140361-26-043754
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/ef20085511_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/0001140361-26-043754-index.htm
+Saved: 2026-11-18T06:07:56+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ef20085511_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+News Release
+FOR IMMEDIATE RELEASE
+Broadway Financial Corporation Reports Third Quarter 2026 Results Highlighted by Improved Earnings, Strong Deposit Growth and Stable Credit Quality
+LOS ANGELES, CA – (BUSINESS WIRE) – November 13, 2026 – Broadway Financial Corporation (“Broadway”, “we”, or the “Company”) (NASDAQ: BYFC), parent company of City First Bank, National Association (the “Bank”, and collectively, with the Company, “City First Broadway”), reported net income attributable to common stockholders of $392 thousand during the third quarter of 2026, compared to net income attributable to common stockholders of $218 thousand for the second quarter of 2026, and net loss attributable to common stockholders of $24.6 million for the third quarter of 2025. Diluted earnings (loss) per common share was $0.04 for the third quarter of 2026, compared to $0.02 for the second quarter of 2026 and ($2.86) for the third quarter of 2025.
+The Company reported consolidated net income before preferred dividends1 of $1.1 million, or $0.13 per diluted common share, for the third quarter of 2026, compared to $968 thousand, or $0.11 per diluted common share, for the second quarter of 2026, and consolidated net income before preferred dividends and goodwill impairment1 of $2.0 million, or $0.23 per diluted common share, for the third quarter of 2025.
+For the first nine months of 2026, the Company reported consolidated net income of $1.0 million, or $0.11 per diluted common share, compared to consolidated net loss of $28.1 million, or ($3.27) per diluted common share, for the first nine months of 2025. For the first nine months of 2026, the Company reported consolidated net income before preferred dividends of $3.3 million, or $0.37 per diluted common share, compared to consolidated net income before preferred dividends and goodwill impairment1 of $38 thousand, or $0.00 per diluted common share, for the first nine months of 2025. This increase reflects stronger operating performance driven by loan growth, deposit growth, and continued balance sheet expansion.
+Net income attributable to common stockholders was $1.0 million during the first nine months of 2026 after deducting preferred dividends of $2.3 million, compared to net loss attributable to common stockholders of $28.1 million for the first nine months of 2025 after deducting goodwill impairment of $25.9 million and preferred dividends of $2.3 million. Diluted earnings per common share was $0.11 for the first nine months of 2026, compared to ($3.27) of diluted loss per common share for the first nine months of 2025. Diluted earnings (loss) per common share for the first nine months of 2026 reflects preferred dividends of $0.25 per diluted common share, compared to ($0.26) of diluted loss per common share for the first nine months of 2025.
+Third Quarter Highlights
+• | Net income totaled $392 thousand, or $0.04 per diluted common share, and net income before preferred dividends totaled $1.1 million, or $0.13 per diluted common share.
+• | Net loans increased $116.2 million, or 11.4%, during the first nine months of 2026.
+• | Total deposits increased $192.4 million, or 21.0%, during the first nine months of 2026.
+• | Credit quality remained stable with non-accrual loans to gross loans at 1.20% and non-performing assets to total assets at 0.88%.
+• | Capital levels remained strong, with a Community Bank Leverage Ratio of 12.83%.
+Chief Executive Officer, Brian Argrett, commented, “Our third-quarter results reflect disciplined execution of our strategic priorities, resulting in strong growth in both loans and deposits while maintaining solid capital levels. We continue to operate with a disciplined approach to risk management and underwriting as we navigate an evolving economic environment. Looking ahead, we remain focused on optimizing the balance sheet, enhancing profitability, and delivering long-term value for our stockholders.”
+Quarterly Results of Operations
+• | Net Interest Income totaled $9.9 million, representing an increase of $406 thousand, or 4.3%, from net interest income of $9.5 million for the second quarter of 2026. The increase resulted from a $1.0 million increase in interest income, primarily due to a $767 thousand increase in interest income on loans receivable as a result of an increase in the average balance of loans receivable and a $170 thousand increase in interest income on available-for-sale securities due to an increase in the average balance of available-for-sale securities. These increases in net interest income were partially offset by a $589 thousand increase in interest expense due to an increase in interest expense on borrowings, as a result of an increase in the average balance of borrowings. The net interest margin remained stable at 2.64% for the third quarter of 2026 compared to 2.65% for the second quarter of 2026. The net interest margin declined slightly to 2.64% for the third quarter of 2026 from 2.72% for the third quarter of 2025. Despite elevated funding costs associated with the higher interest rate environment, net interest margin remained relatively stable during the quarter. Management continues to focus on loan repricing opportunities, optimizing deposit mix, and disciplined balance sheet management to help offset funding cost pressures and support margin stability.
+1 “Net income before preferred dividends”, “net income before preferred dividends and goodwill impairment”, “pre-provision net revenue”, “efficiency ratio,” and “tangible book value” are non-GAAP financial measures. A reconciliation of these non-GAAP financial measures and the nearest GAAP measures is provided in the GAAP Reconciliation to Non-GAAP Financial Measures tables that accompany this document.
+• | Provision for Credit Losses was $668 thousand for the third quarter of 2026, compared to $1.5 million for the second quarter of 2026. This decrease was primarily due to partial charge-offs taken in the three months ended September 30, 2026 that were previously reserved, partially offset by a specific reserve on a non-accrual loan. At September 30, 2026, non-performing assets represented 0.88% of total assets and non-accrual loans represented 1.20% of gross loans.
+The allowance for credit losses (“ACL”) increased to $10.0 million as of September 30, 2026, compared to $9.4 million as of December 31, 2025.
+• | Non-interest Income was $496 thousand for the third quarter of 2026, compared to $950 thousand for the second quarter of 2026, representing a decrease of $454 thousand, or 47.8%. The decrease was due to a $450 thousand fee recognized on a New Markets Tax Credit financing transaction earned in the second quarter of 2026.
+• | Non-interest Expense was $8.3 million for the third quarter of 2026, compared to $7.5 million for the second quarter of 2026, representing an increase of $855 thousand, or 11.4%. The increase was primarily due to a $431 thousand increase in compensation and benefits expense, a $247 thousand increase in information services expense and a $113 thousand increase in supervisory costs. The increase in noninterest expense primarily reflects continued investments in personnel, technology, and operational infrastructure to support business growth, enhance client service capabilities, and strengthen the Company’s long-term operating platform.
+• | Income Tax Expense was $279 thousand for the third quarter of 2026 compared to $330 thousand for the second quarter of 2026. The decrease in tax expense reflected a decrease of $90 thousand in pre-tax income between the two periods. The effective tax rate was 20.03% for the third quarter of 2026, compared to 22.25% for the second quarter of 2026.
+Year-to-Date Results of Operations
+• | Net Interest Income totaled $28.4 million for the first nine months of 2026, representing an increase of $4.0 million, or 16.5%, from net interest income of $24.4 million for the first nine months of 2025. The increase resulted from a $7.8 million increase in interest income, primarily due to a $5.1 million increase in interest income on available-for-sale securities, due to increases in the average rate and balance of available-for-sale securities, and a $3.4 million increase in interest income on loans receivable as a result of an increase in the average balance of loans receivable. Further, interest on borrowings decreased $1.7 million due to decreases in the average rate and balance of borrowings. The increases in net interest income were partially offset by a $5.5 million increase in interest expense on deposits due to increases in the average deposit rate and balance.
+The net interest margin increased to 2.68% for the first nine months of 2026 from 2.65% for the first nine months of 2025, due to an increase in the average rate earned on interest-earning assets, which increased to 4.97% for the first nine months of 2026 from 4.88% for the first nine months of 2025, and a decrease in the cost of funds, which decreased to 3.00% for the first nine months of 2026 from 3.08% for the first nine months of 2025.
+• | Provision for Credit Losses was $2.3 million for the first nine months of 2026, compared to $2.1 million for the first nine months of 2025.
+• | Non-interest Income was $2.0 million for the first nine months of 2026, compared to $1.1 million for the first nine months of 2025, representing an increase of $970 thousand, or 91.1%. The increase was primarily due to $697 thousand of additional earnings on bank owned life insurance and a $450 thousand fee recognized on a New Markets Tax Credit financing transaction earned in the first nine months of 2026.
+• | Non-interest Expense was $23.8 million for the first nine months of 2026, compared to $49.2 million for the first nine months of 2025, representing a decrease of $25.4 million, or 51.6%. The decrease was primarily due to a $25.9 million goodwill impairment charge recorded in the first nine months of 2025.
+• | Income Tax Expense/Benefit was income tax expense of $891 thousand for the first nine months of 2026 compared to income tax benefit of $54 thousand for the first nine months of 2025. The increase in tax expense reflected an increase of $30.2 million in pre-tax income between the two periods.
+Financial Condition Review
+• | Total Assets increased by $211.4 million at September 30, 2026, compared to December 31, 2025, reflecting increases in net loans of $116.2 million, securities available-for-sale of $48.6 million and cash and cash equivalents of $38.8 million. The increase in net loans was due to organic loan growth and purchases of government guaranteed loans, and the increase in securities available-for-sale was due to purchases of securities available-for-sale.
+• | Loans Held for Investment, Net of the ACL increased by $116.2 million to $1.1 billion at September 30, 2026, compared to $1.0 billion at December 31, 2025. The increase was due to organic growth and loan purchases.
+• | Deposits increased by $192.4 million, or 21.0%, to $1.1 billion at September 30, 2026, compared to $917.6 million at December 31, 2025. The increase in deposits was attributable to increases of $157.9 million in savings deposits, $33.4 million in certificates of deposit accounts, and $8.5 million in liquid deposits (demand, interest checking, and money market accounts), partially offset by decreases of $4.4 million in Certificate of Deposit Registry Service (“CDARS”) deposits (CDARS deposits are similar to Insured Cash Sweep (“ICS”) deposits, but involve certificates of deposit, instead of money market accounts) and $3.0 million in ICS deposits (ICS deposits are the Bank’s money market deposit accounts in excess of FDIC insured limits whereby the Bank makes reciprocal arrangements for insurance with other banks). As of September 30, 2026, our uninsured deposits represented 34% of our total deposits, consistent with December 31, 2025. We leverage our long-standing partnership with IntraFi Deposit Solutions to offer deposit insurance for accounts exceeding the FDIC deposit insurance limit of $250,000.
+• | Total Borrowings increased $27.0 million to $99.0 million at September 30, 2026, compared to $72.0 million at December 31, 2025, due to additional FHLB advances. The increase in borrowings reflects proactive liquidity management and support for continued loan growth opportunities. The Bank maintains sufficient liquidity and borrowing capacity to support customer needs while preserving financial flexibility.
+Asset Quality
+• | Allowance for Credit Losses was 0.87% of total loans held for investment at September 30, 2026, compared to 0.92% at December 31, 2025. Allowance for credit losses was 1.03% of total loans held for investment less purchased loans1 at September 30, 2026, compared to 0.91% at December 31, 2025.
+• | Nonperforming Assets increased to $13.8 million at September 30, 2026, compared to $11.2 million at December 31, 2025.
+Capital
+• | Stockholders’ equity was $255.5 million, or 16.4% of the Company’s total assets, at September 30, 2026, compared to $262.8 million, or 19.6% of the Company’s total assets, at December 31, 2025.
+• | Book Value per Share was $11.37 at September 30, 2026, compared to $12.28 at December 31, 2025. The decline in book value per share was primarily attributable to unrealized losses within the securities portfolio resulting from interest rate movements. These adjustments do not affect regulatory capital, liquidity, or the Company’s ability to hold the securities to maturity. Capital ratios remain strong with a Community Bank Leverage Ratio of 12.83% at September 30, 2026 compared to 14.09% at December 31, 2025. While capital ratios moderated from prior-year levels, they remain above regulatory well-capitalized thresholds. The decline primarily reflects strong asset growth and deployment of capital into earning assets. Tangible book value per share was $11.24 at September 30, 2026, compared to $12.12 at December 31, 2025.
+About Broadway Financial Corporation
+Broadway Financial Corporation operates through its wholly-owned banking subsidiary, City First Bank, National Association, which is a leading mission-driven bank that serves low-to-moderate income communities within urban areas in Southern California and the Washington, D.C. market.
+City First Bank offers a variety of commercial loan products, services, and depository accounts that support investments in affordable housing, small businesses, and nonprofit community facilities located within low-to-moderate income neighborhoods. City First Bank is a Community Development Financial Institution, Minority Depository Institution, Certified B Corp, and a member of the Global Alliance of Banking on Values. The Bank and the City First network of nonprofits, City First Enterprises, Homes By CFE, and City First Foundation, represent the City First branded family of community development financial institutions, which offer a robust lending and deposit platform.
+Contacts
+Investor Relations
+Zack Ibrahim, Chief Financial Officer, (202) 243-7100
+Investor.relations@cityfirstbroadway.com
+Cautionary Statement Regarding Forward-Looking Information
+This press release includes “forward-looking statements” within the meaning of the safe harbor provisions of the United States Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts contained in this press release, including statements regarding our future results of operations or financial condition, business strategy and plans and objectives of management for future operations and capital allocation and structure, are forward-looking statements. Forward‑looking statements typically include the words “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,” “will,” “could,” “should,” “believes,” “predicts,” “potential,” “continue,” “poised,” “optimistic,” “prospects,” “ability,” “looking,” “forward,” “invest,” “grow,” “improve,” “deliver” and similar expressions, but the absence of such words or expressions does not mean a statement is not forward-looking. These forward‑looking statements are subject to risks and uncertainties, including those identified below, which could cause actual future results to differ materially from historical results or from those anticipated or implied by such statements. The following factors, among others, could cause future results to differ materially from historical results or from those indicated by forward‑looking statements included in this press release: (1) the level of demand for mortgage and commercial loans, which is affected by such external factors as general economic conditions, market interest rate levels, tax laws, and the demographics of our lending markets; (2) the direction and magnitude of changes in interest rates and the relationship between market interest rates and the yield on our interest‑earning assets and the cost of our interest‑bearing liabilities; (3) the rate and amount of credit losses incurred and projected to be incurred by us, increases in the amounts of our nonperforming assets, the level of our loss reserves and management’s judgments regarding the collectability of loans; (4) changes in the regulation of lending and deposit operations or other regulatory actions, whether industry-wide or focused on our operations, including increases in capital requirements or directives to increase allowances for credit losses or make other changes in our business operations; (5) legislative or regulatory changes, including those that may be implemented by the current administration in Washington, D.C. and the Federal Reserve Board; (6) possible adverse rulings, judgments, settlements and other outcomes of litigation; (7) actions undertaken by both current and potential new competitors; (8) the possibility of adverse trends in property values or economic trends in the residential and commercial real estate markets in which we compete; (9) the effect of changes in general economic conditions; (10) the effect of geopolitical uncertainties; (11) the impact of health crises on our future financial condition and operations; (12) the impact of any volatility in the banking sector due to the failure of certain banks due to high levels of exposure to liquidity risk, interest rate risk, uninsured deposits and cryptocurrency risk; (13) the loss of our CDFI certification could potentially limit our grant income awards; and (14) other risks and uncertainties. All such factors are difficult to predict and are beyond our control. Additional factors that could cause results to differ materially from those described above can be found in our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K or other filings made with the SEC and are available on our website at http://www.cityfirstbank.com and on the SEC’s website at http://www.sec.gov.
+Forward-looking statements in this press release speak only as of the date they are made, and we undertake no obligation, and do not intend, to update these forward-looking statements to reflect events or circumstances occurring after the date of this press release, except to the extent required by law. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this press release.
+BROADWAY FINANCIAL CORPORATION Consolidated Statements of Financial Condition (In thousands, except share and per share amounts)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+Assets:
+Cash and due from banks | $ | 1,824 | $ | 1,676
+Interest-bearing deposits in other banks | 47,486 | 8,831
+Cash and cash equivalents | 49,310 | 10,507
+Securities available-for-sale, at fair value (amortized cost of $326,554 and $265,371) | 305,410 | 256,835
+Loans receivable held for investment, net of allowance of $9,964 and $9,424 | 1,132,690 | 1,016,540
+Accrued interest receivable | 7,518 | 5,999
+Federal Home Loan Bank (FHLB) stock | 5,752 | 4,417
+Federal Reserve Bank (FRB) stock | 3,543 | 3,543
+Office properties and equipment, net | 8,730 | 8,732
+Bank owned life insurance | 24,443 | 23,663
+Deferred tax assets, net | 10,379 | 6,711
+Core deposit intangible, net | 1,232 | 1,460
+Other assets | 7,916 | 7,162
+Total assets | $ | 1,556,923 | $ | 1,345,569
+Liabilities and equity
+Liabilities:
+Deposits | $ | 1,109,962 | $ | 917,603
+Securities sold under agreements to repurchase | 79,999 | 80,773
+Borrowings | 99,000 | 72,000
+Accrued expenses and other liabilities | 12,345 | 12,236
+Total liabilities | 1,301,306 | 1,082,612
+Equity:
+Non-Cumulative Redeemable Perpetual Preferred stock, Series C; authorized 150,000 shares at September 30, 2026 and December 31, 2025; issued and outstanding 150,000 shares at September 30, 2026 and December 31, 2025; liquidation value $1,000 per share | 150,000 | 150,000
+Common stock, Class A, $0.01 par value, voting; authorized 75,000,000 shares at September 30, 2026 and December 31, 2025; issued 6,505,579 shares at September 30, 2026 and 6,409,760 shares at December 31, 2025; outstanding 6,178,351 shares at September 30, 2026 and 6,082,532 shares at December 31, 2025 | 65 | 64
+Common stock, Class B, $0.01 par value, non-voting; authorized 15,000,000 shares at September 30, 2026 and December 31, 2025; issued and outstanding 1,425,404 shares at September 30, 2026 and December 31, 2025 | 14 | 14
+Common stock, Class C, $0.01 par value, non-voting; authorized 25,000,000 shares at September 30, 2026 and December 31, 2025; issued and outstanding 1,672,562 at September 30, 2026 and December 31, 2025 | 17 | 17
+Additional paid-in capital | 143,653 | 143,194
+Accumulated deficit | (14,219 | ) | (15,238 | )
+Unearned Employee Stock Ownership Plan (ESOP) shares | (3,680 | ) | (3,869 | )
+Accumulated other comprehensive loss, net of tax | (15,056 | ) | (6,105 | )
+Treasury stock-at cost, 327,228 shares at September 30, 2026 and at December 31, 2025 | (5,326 | ) | (5,326 | )
+Total Broadway Financial Corporation and Subsidiary equity | 255,468 | 262,751
+Non-controlling interest | 149 | 206
+Total liabilities and equity | $ | 1,556,923 | $ | 1,345,569
+The following table sets forth the consolidated statements of operations for the three and nine months ended September 30, 2026 and 2025.
+BROADWAY FINANCIAL CORPORATION Consolidated Statements of Operations (In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Interest income:
+Interest and fees on loans receivable | $ | 15,120 | $ | 14,353 | $ | 13,418 | $ | 42,760 | $ | 39,360
+Interest on available-for-sale securities | 3,380 | 3,210 | 1,690 | 9,203 | 4,069
+Other interest income | 298 | 240 | 683 | 847 | 1,560
+Total interest income | 18,798 | 17,803 | 15,791 | 52,810 | 44,989
+Interest expense:
+Interest on deposits | 6,973 | 6,985 | 5,363 | 19,948 | 14,441
+Interest on borrowings | 1,929 | 1,328 | 1,811 | 4,423 | 6,131
+Total interest expense | 8,902 | 8,313 | 7,174 | 24,371 | 20,572
+Net interest income | 9,896 | 9,490 | 8,617 | 28,439 | 24,417
+Provision for credit losses | 668 | 1,481 | 679 | 2,349 | 2,139
+Net interest income after provision for credit losses | 9,228 | 8,009 | 7,938 | 26,090 | 22,278
+Non-interest income:
+Service charges | 36 | 44 | 47 | 124 | 131
+Grants | 55 | 23 | 145 | 185 | 275
+Earnings on bank owned life insurance | 264 | 261 | 61 | 780 | 83
+Management fees | 8 | 475 | 19 | 497 | 106
+Other | 133 | 147 | 150 | 449 | 470
+Total non-interest income | 496 | 950 | 422 | 2,035 | 1,065
+Non-interest expense:
+Compensation and benefits | 4,684 | 4,253 | 4,340 | 13,823 | 14,036
+Occupancy expense | 530 | 458 | 505 | 1,496 | 1,530
+Information services | 1,051 | 804 | 768 | 2,795 | 2,248
+Professional services | 629 | 571 | 624 | 1,786 | 2,112
+Advertising and promotional expense | 73 | 56 | 76 | 253 | 183
+Supervisory costs | 292 | 179 | 161 | 656 | 510
+Corporate insurance | 72 | 56 | 86 | 183 | 219
+Amortization of core deposit intangible | 76 | 76 | 78 | 228 | 236
+Operational loss | - | - | (1,603 | ) | - | 340
+Goodwill impairment | - | - | 25,858 | - | 25,858
+Other | 924 | 1,023 | 625 | 2,602 | 1,965
+Total non-interest expense | 8,331 | 7,476 | 31,518 | 23,822 | 49,237
+Income (loss) before income taxes | 1,393 | 1,483 | (23,158 | ) | 4,303 | (25,894 | )
+Income tax expense (benefit) | 279 | 330 | 736 | 891 | (54 | )
+Net income (loss) | 1,114 | 1,153 | (23,894 | ) | 3,412 | (25,840 | )
+Less: Net (loss) income attributable to non-controlling interest | (28 | ) | 185 | (11 | ) | 143 | (20 | )
+Net income (loss) attributable to Broadway Financial Corporation | 1,142 | 968 | (23,883 | ) | 3,269 | (25,820 | )
+Less: Preferred stock dividends | 750 | 750 | 750 | 2,250 | 2,250
+Net income (loss) attributable to common stockholders | $ | 392 | $ | 218 | $ | (24,633 | ) | $ | 1,019 | $ | (28,070 | )
+Earnings (loss) per common share-basic | $ | 0.04 | $ | 0.02 | $ | (2.86 | ) | $ | 0.12 | $ | (3.27 | )
+Earnings (loss) per common share-diluted | $ | 0.04 | $ | 0.02 | $ | (2.86 | ) | $ | 0.11 | $ | (3.27 | )
+The following tables set forth the average balances, average yields and costs for the periods indicated. All average balances are daily average balances. The yields set forth below include the effect of deferred loan fees, and discounts and premiums that are amortized or accreted to interest income or expense.
+BROADWAY FINANCIAL CORPORATION Consolidated Averages, Interest Yields and Rates (Unaudited) (In thousands, except share and per share amounts)
+Three Months Ended | Three Months Ended | Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+Assets
+Interest-earning assets:
+Interest-bearing deposits | $ | 16,416 | $ | 150 | 3.63 | % | $ | 13,380 | $ | 120 | 3.60 | % | $ | 49,348 | $ | 556 | 4.47 | %
+Securities | 320,693 | 3,380 | 4.18 | % | 312,186 | 3,210 | 4.12 | % | 206,224 | 1,690 | 3.25 | %
+Loans receivable (1) | 1,140,585 | 15,120 | 5.26 | % | 1,101,866 | 14,353 | 5.22 | % | 993,090 | 13,418 | 5.36 | %
+FRB and FHLB stock (2) | 10,117 | 148 | 5.80 | % | 7,530 | 120 | 6.39 | % | 7,461 | 127 | 6.75 | %
+Total interest-earning assets | 1,487,811 | $ | 18,798 | 5.01 | % | 1,434,962 | $ | 17,803 | 4.98 | % | 1,256,123 | $ | 15,791 | 4.99 | %
+Non-interest-earning assets | 42,971 | 42,246 | 50,659
+Total assets | $ | 1,530,782 | $ | 1,477,208 | $ | 1,306,782
+Liabilities and Stockholders’ Equity
+Interest-bearing liabilities:
+Money market deposits | $ | 184,743 | $ | 1,049 | 2.25 | % | $ | 175,103 | $ | 942 | 2.16 | % | $ | 155,121 | $ | 422 | 1.08 | %
+Savings deposits | 197,914 | 1,743 | 3.49 | % | 244,794 | 2,213 | 3.63 | % | 44,095 | 50 | 0.45 | %
+Interest checking and other demand deposits | 256,432 | 1,448 | 2.24 | % | 262,783 | 1,447 | 2.21 | % | 263,972 | 2,105 | 3.16 | %
+Certificate accounts | 318,644 | 2,733 | 3.40 | % | 281,036 | 2,383 | 3.40 | % | 282,955 | 2,786 | 3.91 | %
+Total deposits | 957,733 | 6,973 | 2.89 | % | 963,716 | 6,985 | 2.91 | % | 746,143 | 5,363 | 2.85 | %
+FHLB Borrowings | 117,213 | 1,166 | 3.95 | % | 62,884 | 614 | 3.92 | % | 63,016 | 711 | 4.48 | %
+Securities sold under agreements to repurchase | 82,126 | 763 | 3.69 | % | 77,553 | 714 | 3.69 | % | 76,906 | 710 | 3.66 | %
+Secured borrowings | - | - | - | - | - | - | 30,253 | 390 | 5.11 | %
+Total borrowings | 199,339 | 1,929 | 3.84 | % | 140,437 | 1,328 | 3.79 | % | 170,175 | 1,811 | 4.22 | %
+Total interest-bearing liabilities | 1,157,072 | $ | 8,902 | 3.05 | % | 1,104,153 | $ | 8,313 | 3.02 | % | 916,318 | $ | 7,174 | 3.11 | %
+Non-interest-bearing liabilities | 111,468 | 109,709 | 104,006
+Stockholders’ equity | 262,242 | 263,346 | 286,458
+Total liabilities and stockholders’ equity | $ | 1,530,782 | $ | 1,477,208 | $ | 1,306,782
+Net interest rate spread (3) | $ | 9,896 | 1.96 | % | $ | 9,490 | 1.96 | % | $ | 8,617 | 1.88 | %
+Net interest rate margin (4) | 2.64 | % | 2.65 | % | 2.72 | %
+Ratio of interest-earning assets to interest-bearing liabilities | 128.58 | % | 129.96 | % | 137.08 | %
+(1) Amount includes non-accrual loans. (2) FHLB is Federal Home Loan Bank.
+(3) Net interest rate spread represents the difference between the yield on average interest-earning assets and the cost of average interest-bearing liabilities.
+(4) Net interest rate margin represents net interest income as a percentage of average interest-earning assets.
+For the Nine Months Ended
+September 30, 2026 | September 30, 2025
+(Dollars in thousands) (Unaudited)
+Average Balance | Interest | Average Yield | Average Balance | Interest | Average Yield
+Assets
+Interest-earning assets:
+Interest-earning deposits | $ | 17,430 | $ | 470 | 3.61 | % | $ | 34,221 | $ | 1,134 | 4.43 | %
+Securities | 299,634 | 9,203 | 4.11 | % | 195,049 | 4,069 | 2.79 | %
+Loans receivable (1) | 1,094,214 | 42,760 | 5.22 | % | 995,521 | 39,360 | 5.29 | %
+FRB and FHLB stock (2) | 8,109 | 377 | 6.22 | % | 8,694 | 426 | 6.55 | %
+Total interest-earning assets | 1,419,387 | $ | 52,810 | 4.97 | % | 1,233,485 | $ | 44,989 | 4.88 | %
+Non-interest-earning assets | 42,533 | 49,799
+Total assets | $ | 1,461,920 | $ | 1,283,284
+Liabilities and Equity
+Interest-bearing liabilities:
+Money market deposits | $ | 183,674 | $ | 3,037 | 2.21 | % | $ | 136,183 | $ | 1,015 | 1.00 | %
+Savings deposits | 182,073 | 4,586 | 3.37 | % | 46,506 | 179 | 0.51 | %
+Interest checking and other demand deposits | 261,191 | 4,515 | 2.31 | % | 256,952 | 5,991 | 3.12 | %
+Certificate accounts | 304,356 | 7,810 | 3.43 | % | 259,447 | 7,256 | 3.74 | %
+Total deposits | 931,294 | 19,948 | 2.86 | % | 699,088 | 14,441 | 2.76 | %
+Borrowings | 74,991 | 2,201 | 3.92 | % | 91,585 | 2,950 | 4.31 | %
+Securities sold under agreements to repurchase | 80,678 | 2,222 | 3.68 | % | 71,302 | 1,948 | 3.65 | %
+Secured borrowings | - | - | - | % | 30,946 | 1,233 | 5.33 | %
+Total borrowings | 155,669 | 4,423 | 3.80 | % | 193,833 | 6,131 | 4.23 | %
+Total interest-bearing liabilities | 1,086,963 | $ | 24,371 | 3.00 | % | 892,921 | $ | 20,572 | 3.08 | %
+Non-interest-bearing liabilities | 111,614 | 104,684
+Equity | 263,343 | 285,679
+Total liabilities and equity | $ | 1,461,920 | $ | 1,283,284
+Net interest rate spread (3) | $ | 28,439 | 1.98 | % | $ | 24,417 | 1.80 | %
+Net interest rate margin (4) | 2.68 | % | 2.65 | %
+Ratio of interest-earning assets to interest-bearing liabilities | 130.58 | % | 138.14 | %
+(1) Amount includes non-accrual loans. (2) FHLB is Federal Home Loan Bank.
+(3) Net interest rate spread represents the difference between the yield on average interest-earning assets and the cost of average interest-bearing liabilities.
+(4) Net interest rate margin represents net interest income as a percentage of average interest-earning assets.
+The following table sets forth selected financial data and ratios for the quarters and nine months noted below.
+BROADWAY FINANCIAL CORPORATION Selected Financial Data and Ratios (Unaudited) (Dollars in thousands, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Balance Sheets at Period Ended:
+Total gross loans | $ | 1,142,654 | $ | 1,137,338 | $ | 1,068,771 | $ | 1,025,964 | $ | 1,023,483 | $ | 1,142,654 | $ | 1,023,483
+Allowance for credit losses | 9,964 | 10,799 | 9,509 | 9,424 | 10,339 | 9,964 | 10,339
+Investment securities | 305,410 | 327,030 | 284,103 | 256,835 | 244,005 | 305,410 | 244,005
+Total assets | 1,556,923 | 1,563,699 | 1,426,065 | 1,345,569 | 1,335,565 | 1,556,923 | 1,335,565
+Total deposits | 1,109,962 | 1,114,651 | 1,073,056 | 917,603 | 849,205 | 1,109,962 | 849,205
+Total stockholders’ equity | 255,468 | 262,304 | 262,480 | 262,751 | 261,687 | 255,468 | 261,687
+Profitability for Period Ended:
+Interest income | $ | 18,798 | $ | 17,803 | $ | 16,209 | $ | 16,293 | $ | 15,791 | $ | 52,810 | $ | 44,989
+Interest expense | 8,902 | 8,313 | 7,156 | 7,563 | 7,174 | 24,371 | 20,572
+Net interest income | 9,896 | 9,490 | 9,053 | 8,730 | 8,617 | 28,439 | 24,417
+Provision for credit losses | 668 | 1,481 | 200 | 47 | 679 | 2,349 | 2,139
+Non-interest income | 496 | 950 | 589 | 687 | 422 | 2,035 | 1,065
+Non-interest expenses | 8,331 | 7,476 | 8,015 | 7,946 | 31,518 | 23,822 | 49,237
+Income (loss) before income taxes | 1,393 | 1,483 | 1,427 | 1,424 | (23,158 | ) | 4,303 | (25,894 | )
+Income tax expense (benefit) | 279 | 330 | 282 | 392 | 736 | 891 | (54 | )
+Net income (loss) | 1,114 | 1,153 | 1,145 | 1,032 | (23,894 | ) | 3,412 | (25,840 | )
+Less: Net (loss) income attributable to non-controlling interest | (28 | ) | 185 | (14 | ) | 7 | (11 | ) | 143 | (20 | )
+Net income (loss) attributable to Broadway Financial Corporation | 1,142 | 968 | 1,159 | 1,025 | (23,883 | ) | 3,269 | (25,820 | )
+Less: Preferred stock dividends | 750 | 750 | 750 | 750 | 750 | 2,250 | 2,250
+Net income (loss) attributable to common stockholders | $ | 392 | $ | 218 | $ | 409 | $ | 275 | $ | (24,633 | ) | $ | 1,019 | $ | (28,070 | )
+Financial Performance:
+Return (loss) on average assets (annualized) | 0.10 | % | 0.06 | % | 0.12 | % | 0.08 | % | (7.48 | )% | 0.09 | % | (2.92 | )%
+Return (loss) on average equity (annualized) | 0.59 | % | 0.34 | % | 0.63 | % | 0.41 | % | (34.12 | )% | 0.52 | % | (13.14 | )%
+Net interest margin | 2.64 | % | 2.65 | % | 2.75 | % | 2.62 | % | 2.72 | % | 2.68 | % | 2.65 | %
+Efficiency ratio | 80.17 | % | 71.61 | % | 83.13 | % | 84.38 | % | 348.69 | % | 78.17 | % | 193.22 | %
+Per Share Data:
+Book value per share | $ | 11.37 | $ | 12.11 | $ | 12.10 | $ | 12.28 | $ | 12.17 | $ | 11.37 | $ | 12.17
+Weighted average common shares (basic) | 8,682,092 | 8,679,800 | 8,597,291 | 8,639,459 | 8,617,707 | 7,324,696 | 8,581,883
+Weighted average common shares (diluted) | 8,871,913 | 8,874,673 | 8,816,188 | 8,639,459 | 8,617,707 | 8,854,549 | 8,581,883
+Common shares outstanding at end of period | 9,276,317 | 9,273,624 | 9,298,949 | 9,180,498 | 9,180,760 | 9,276,317 | 9,180,760
+Financial Measures:
+Gross loans to assets | 73.39 | % | 72.73 | % | 74.95 | % | 76.25 | % | 76.63 | % | 73.39 | % | 76.63 | %
+Gross loans to deposits | 102.95 | % | 102.04 | % | 99.60 | % | 111.81 | % | 120.52 | % | 102.95 | % | 120.52 | %
+Allowance for credit losses to gross loans | 0.87 | % | 0.95 | % | 0.89 | % | 0.92 | % | 1.01 | % | 0.87 | % | 1.01 | %
+Allowance for credit losses to total non-accrual loans | 72.59 | % | 96.74 | % | 82.97 | % | 84.38 | % | 76.36 | % | 72.59 | % | 76.36 | %
+Non-accrual loans to gross loans | 1.20 | % | 0.98 | % | 1.07 | % | 1.09 | % | 1.32 | % | 1.20 | % | 1.32 | %
+Non-performing assets to total assets | 0.88 | % | 0.71 | % | 0.80 | % | 0.83 | % | 1.01 | % | 0.88 | % | 1.01 | %
+Net charge-offs (recoveries) to average total loans | 0.13 | % | 0.03 | % | - | 0.11 | % | - | 0.16 | % | -
+Average Balance Sheets:
+Total loans | $ | 1,140,585 | $ | 1,101,866 | $ | 1,039,076 | $ | 1,050,757 | $ | 993,090 | $ | 1,094,214 | $ | 995,521
+Investment securities | 320,693 | 312,186 | 265,415 | 246,662 | 206,224 | 299,634 | 195,049
+Total assets | 1,530,782 | 1,477,208 | 1,376,070 | 1,361,026 | 1,306,782 | 1,461,920 | 1,283,284
+Total deposits | 957,733 | 963,716 | 871,487 | 775,913 | 746,143 | 931,294 | 699,088
+Total stockholders’ equity | 262,242 | 263,346 | 264,464 | 263,266 | 286,458 | 263,343 | 285,679
+In addition to results presented in accordance with U.S. generally accepted accounting principles (“GAAP”), management considers various non-GAAP measures when evaluating the performance of the business, including net income and diluted earnings per common share before preferred dividends, net income and diluted earnings per common share before preferred dividends and goodwill impairment, pre-provision net revenue, efficiency ratio, and tangible book value (collectively, the “non-GAAP measures”). These non-GAAP measures are measurements of performance that are not prepared in accordance with U.S. generally accepted accounting principles and computational methods may differ from those used by other companies. Management believes these non-GAAP measures provide useful supplemental information to investors because they assist investors in understanding how management evaluates operating performance and makes day-to-day operating decisions. However, these non-GAAP measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures and should be read only in conjunction with the Company’s financial statements prepared in accordance with GAAP.
+The following table sets forth a GAAP to Non-GAAP reconciliation of financial measures for the quarters and nine months noted below.
+BROADWAY FINANCIAL CORPORATION AND SUBSIDIARY GAAP Reconciliation to Non-GAAP Financial Measures (Unaudited) (Dollars in thousands, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Net income before preferred dividends and Earnings per common share - diluted before preferred dividends:
+Net income (loss) attributable to common stockholders | $ | 392 | $ | 218 | $ | (24,633 | ) | $ | 1,019 | $ | (28,070 | )
+Net (income) loss attributable to participating securities | 8 | 5 | - | 24 | -
+Add: Preferred stock dividends | 750 | 750 | 750 | 2,250 | 2,250
+Net income before preferred dividends | 1,150 | 973 | (23,883 | ) | 3,293 | (25,820 | )
+Add: Goodwill impairment | - | - | 25,858 | - | 25,858
+Net income before preferred dividends and goodwill impairment | $ | 1,150 | $ | 973 | $ | 1,975 | $ | 3,293 | $ | 38
+Weighted average common shares outstanding for diluted earnings per common share | 8,871,913 | 8,874,673 | 8,617,707 | 8,854,549 | 8,581,883
+Earnings per common share - diluted before preferred dividends | $ | 0.13 | $ | 0.11 | $ | 0.23 | $ | 0.37 | $ | 0.00
+Pre-provision net revenue:
+Net interest income | $ | 9,896 | $ | 9,490 | $ | 8,617 | $ | 28,439 | $ | 24,417
+Non-interest income | 496 | 950 | 422 | 2,035 | 1,065
+Less: Non-interest expense | 8,331 | 7,476 | 31,518 | 23,822 | 49,237
+Pre-provision net revenue | $ | 2,061 | $ | 2,964 | $ | (22,479 | ) | $ | 6,652 | $ | (23,755 | )
+Three Months Ended | Nine Months Ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Efficiency ratio:
+Net interest income | $ | 9,896 | $ | 9,490 | $ | 9,053 | $ | 8,730 | $ | 8,617 | $ | 28,439 | $ | 24,417
+Non-interest income | 496 | 950 | 589 | 687 | 422 | 2,035 | 1,065
+Operating revenue | 10,392 | 10,440 | 9,642 | 9,417 | 9,039 | 30,474 | 25,482
+Non-interest expense | $ | 8,331 | $ | 7,476 | $ | 8,015 | $ | 7,946 | $ | 31,518 | $ | 23,822 | $ | 49,237
+Efficiency ratio | 80.17 | % | 71.61 | % | 83.13 | % | 84.38 | % | 348.69 | % | 78.17 | % | 193.22 | %
+September 30, 2026 | December 31, 2025
+ACL as a percentage of total loans less purchased loans:
+Gross loans | $ | 1,142,654 | $ | 1,026,143
+Less: Purchased loans | 170,827 | 75,321
+Gross loans less purchased loans | 971,827 | 950,822
+ACL | 9,964 | 8,695
+ACL as a percentage of total loans less purchased loans | 1.03 | % | 0.91 | %
+Common Equity | Shares | Per Share
+Capital | Outstanding | Amount
+September 30, 2026
+Common book value | $ | 105,468 | 9,276,317 | $ | 11.37
+Less:
+Net unamortized core deposit intangible | 1,232
+Tangible book value | $ | 104,236 | 9,276,317 | $ | 11.24
+December 31, 2025
+Common book value | $ | 112,751 | 9,180,498 | $ | 12.28
+Less:
+Net unamortized core deposit intangible | 1,460
+Tangible book value | $ | 111,291 | 9,180,498 | $ | 12.12
+Net income and diluted earnings per common share before preferred dividends and goodwill impairment represent net income and diluted earnings per share adjusted to exclude the impact of preferred stock dividends and goodwill impairment. Net income and diluted earnings per common share before preferred dividends represent net income and diluted earnings per share adjusted to exclude the impact of preferred stock dividends. Management considers this information useful to investors because it provides additional perspective on the earnings available from the Company’s operating activities and facilitates comparisons across reporting periods.
+Pre-provision net revenue is calculated by subtracting noninterest expenses from the sum of net interest income and noninterest income. Management considers this information useful to investors because it provides supplemental information regarding the Company’s ability to generate earnings through its business activities before consideration of the provision for credit losses, which can vary significantly from period to period.
+Efficiency ratio represents noninterest expense divided by the sum of net interest income and noninterest income, excluding certain non-core items, as applicable. Management considers this information useful to investors as it provides supplemental information regarding the relationship between operating expenses and revenue generation.
+The Company calculates tangible book value per common share by dividing tangible common equity by common shares outstanding. Tangible common equity is calculated as common stockholders’ equity less goodwill and other intangible assets.
+Management believes this measure is useful to investors as tangible equity is a measure that is consistent with the calculation of capital for bank regulatory purposes, which excludes intangible assets from the calculation of risk based ratios, and provides a meaningful assessment of capital adequacy and facilitates comparisons with other financial institutions.

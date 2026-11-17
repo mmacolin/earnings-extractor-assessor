@@ -934,5 +934,117 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1038074/000103807426000033/slab-2026113earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1038074/000103807426000033/0001038074-26-000033-index.htm",
     "saved_at": "2026-11-13T06:08:42+08:00"
+  },
+  {
+    "cik": "1001171",
+    "company": "BROADWAY FINANCIAL CORP \\DE\\",
+    "accession": "0001140361-26-043754",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 1.142,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Broadway Financial Corporation | 1,142"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Earnings (loss) per common share-diluted | $ | 0.04"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter showed strong growth in both loans and deposits while capital stayed solid.",
+        "quote": "Our third-quarter results reflect disciplined execution of our strategic priorities, resulting in strong growth in both loans and deposits while maintaining solid capital levels."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says the net interest margin stayed relatively stable despite higher funding costs.",
+        "quote": "Despite elevated funding costs associated with the higher interest rate environment, net interest margin remained relatively stable during the quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Higher non-interest expense reflects investment in staff, technology and operations to support growth.",
+        "quote": "The increase in noninterest expense primarily reflects continued investments in personnel, technology, and operational infrastructure to support business growth"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the bank will focus on optimising the balance sheet and improving profitability.",
+        "quote": "Looking ahead, we remain focused on optimizing the balance sheet, enhancing profitability, and delivering long-term value for our stockholders."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO points to strong loan and deposit growth, but also stresses disciplined risk management in an evolving economic environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1001171-0001140361-26-043754.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/ef20085511_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1001171/000114036126043754/0001140361-26-043754-index.htm",
+    "saved_at": "2026-11-18T06:07:56+08:00"
+  },
+  {
+    "cik": "1747079",
+    "company": "Bally's Corp",
+    "accession": "0001747079-26-000106",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 807.558,
+        "unit": "USD millions",
+        "quote": "Total | $ | 807,558"
+      },
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO calls the quarter solid, with consolidated revenue up 21.7% year over year.",
+        "quote": "We delivered another solid quarter, with consolidated revenue up 21.7% year over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "North America Interactive revenue grew 25.6% to $62.7 million and its Adjusted EBITDAR improved to negative $3.2 million.",
+        "quote": "Segment revenue grew 25.6% year over year to $62.7 million, and Adjusted EBITDAR improved to negative $3.2 million."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The higher UK gaming duty cut B2C Segment Adjusted EBITDAR by about $39 million gross in the quarter.",
+        "quote": "The increase in UK gaming duty had a gross negative impact of approximately $39 million on B2C Segment Adjusted EBITDAR in the quarter, in line with Q2."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says development projects are on track and market conditions remain stable heading into the fourth quarter and 2027.",
+        "quote": "Our development projects remain on track, our execution is improving results across every segment, and market conditions remain stable as we head into the fourth quarter and 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid, says execution is improving results in every segment and that projects remain on track."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1747079-0001747079-26-000106.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/0001747079-26-000106-index.htm",
+    "saved_at": "2026-11-18T06:07:56+08:00"
   }
 ]
