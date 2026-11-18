@@ -1,0 +1,240 @@
+Company: FITLIFE BRANDS, INC. (CIK 1374328)
+Accession: 0001437749-26-037424
+Results released: 2026-11-17
+Press release: https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/ex_1047272.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/0001437749-26-037424-index.htm
+Saved: 2026-11-19T06:08:05+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1047272.htm EXHIBIT 99.1
+Exhibit 99.1
+FitLife Brands Announces Third Quarter 2026 Results
+OMAHA, NE – November 16, 2026 – FitLife Brands, Inc. (“FitLife” or the “Company”) (NASDAQ: FTLF), a provider of innovative and proprietary nutritional supplements and wellness products, today announced financial results for the third quarter ended September 30, 2026.
+Highlights for the third quarter ended September 30, 2026 include:
+● | Total revenue was $25.6 million, an increase of 9% compared to the third quarter of 2025, driven by the acquisition of Irwin Naturals, partially offset by lower revenue from Legacy FitLife.
+● | Wholesale revenue was $13.8 million, representing 54% of total revenue and an increase of 5% compared to the third quarter of 2025.
+● | Net income for the third quarter of 2026 was $1.6 million compared to $0.9 million during the same period last year, an increase of 71%, driven by the non-recurrence of merger and acquisition related expense associated with the acquisition of Irwin Naturals during the third quarter of 2025 as well as a lower effective tax rate during the third quarter of 2026, partially offset by a restructuring charge during the third quarter of 2026.
+● | Basic earnings per share and diluted earnings per share were $0.17 and $0.16, respectively, compared to $0.10 and $0.09 for the third quarter of 2025.
+● | Adjusted EBITDA was $3.3 million, a 13% decrease compared to the third quarter of 2025.
+● | The Company ended the quarter with $39.3 million of debt outstanding, and cash of $0.7 million, or total net debt of $38.6 million.
+For the third quarter ended September 30, 2026, total revenue increased 9% to $25.6 million compared to $23.5 million during the same period last year, primarily due to the acquisition of Irwin Naturals (“Irwin”), partially offset by lower revenue from Legacy FitLife. Irwin was acquired on August 8, 2025, so the third quarter of 2025 includes the impact of the Irwin acquisition only for the period from August 8 through September 30, 2025.
+Wholesale revenue for the quarter ended September 30, 2026 was $13.8 million, a 5% increase from the same period last year. The Company’s acquisition of Irwin contributed $9.4 million of wholesale revenue for the quarter ended September 30, 2026, while Legacy FitLife wholesale revenue declined $2.3 million, or 34%, compared to the same period last year. The decline in Legacy FitLife wholesale revenue is attributable to lower revenue from certain retail partners, primarily GNC.
+1
+Online revenue for the quarter was $11.8 million, a 15% increase compared to the quarter ended September 30, 2025. Online revenue accounted for 46% and 44% of the Company’s total revenue during the quarters ended September 30, 2026 and 2025, respectively. Legacy FitLife online revenue declined 18%, primarily attributable to MRC, while Irwin contributed $3.6 million of online revenue.
+Gross margin for the quarter ended September 30, 2026 was 37.7% compared to 37.2% during the same period in the prior year. Gross margin in the prior-year period was adversely affected by $0.4 million of amortization of inventory step-up. Excluding the step-up amortization, gross margin was 38.9% in the third quarter of 2025.
+Net income for the third quarter of 2026 was $1.6 million compared to $0.9 million during the quarter ended September 30, 2025. Basic earnings per share and diluted earnings per share were $0.17 and $0.16, respectively, compared to $0.10 and $0.09 for the third quarter of 2025. Net income for the third quarter of 2025 was adversely impacted by merger and acquisition related costs as well as by amortization of the inventory step-up.
+Adjusted EBITDA for the quarter ended September 30, 2026 was $3.3 million, a decrease of 13% compared to $3.8 million in the same period in 2025. Adjusted EBITDA for the third quarter of 2026 excludes $0.3 million of restructuring costs.
+The Company ended the third quarter of 2026 with $34.5 million outstanding on its term loan and $4.8 million outstanding on its revolving line of credit. Cash was $0.7 million, resulting in total net debt of $38.6 million, compared to $37.0 million at June 30, 2026.
+Since completing the acquisition of Irwin on August 8, 2025, through the end of the third quarter of 2026, the Company has paid off approximately $7.3 million of indebtedness in addition to paying approximately $2.0 million of transaction-related expenses.
+During the third quarter of 2026, the Company implemented and substantially completed a restructuring initiative designed to improve operating efficiency and reduce its cost structure. The Company incurred restructuring expense of approximately $0.3 million, primarily severance costs, and expects the initiative to reduce annual operating expense by approximately $1.2 million, with savings beginning in the fourth quarter of 2026.
+2
+Performance of Acquired Brands
+One of the primary metrics used by management to evaluate the performance of the Company’s brands is contribution, a non-GAAP financial measure which management defines as gross profit less advertising and marketing expenditures. Other companies may also report contribution as a performance metric, but their definition or calculation of contribution may differ from the Company’s. Management believes that contribution, as defined by the Company, is a particularly relevant performance metric since it incorporates the gross profit associated with a specific brand or collection of brands as well as the advertising and marketing expenditures associated with the same brand or brands. With limited exceptions, other operating expense incurred by the Company is generally not allocable to a specific brand or collection of brands.
+Management intends to provide this level of disclosure for acquired brands for approximately two years following a transaction, after which the performance of acquired brands will be reported as part of Legacy FitLife results. Legacy FitLife consists of thirteen brands, including MRC and MusclePharm, and Irwin consists of three brands. These collections of brands do not meet the definition of operating segments and are not managed as such.
+Legacy FitLife
+(Unaudited)
+2025 | 2026
+Q3 | Q4 | Q1 | Q2 | Q3
+Wholesale revenue | $ | 6,686 | $ | 4,238 | $ | 3,798 | $ | 3,913 | $ | 4,417
+Online revenue | 9,978 | 9,028 | 8,678 | 8,501 | 8,187
+Total revenue | $ | 16,664 | $ | 13,266 | $ | 12,476 | $ | 12,414 | $ | 12,604
+Gross profit | 6,542 | 5,395 | 5,143 | 5,177 | 5,247
+Gross margin | 39.3 | % | 40.7 | % | 41.2 | % | 41.7 | % | 41.6 | %
+Advertising and marketing | 1,285 | 1,077 | 887 | 941 | 1,017
+Contribution | $ | 5,257 | $ | 4,318 | $ | 4,256 | $ | 4,236 | $ | 4,230
+Contribution as a % of revenue | 31.5 | % | 32.5 | % | 34.1 | % | 34.1 | % | 33.6 | %
+3
+For the third quarter of 2026, Legacy FitLife revenue decreased 24% to $12.6 million compared to the same period last year, driven by a 34% decline in wholesale revenue attributable to lower sales to certain retail partners, primarily GNC, and an 18% decline in online revenue, primarily attributable to MRC.
+Gross margin for Legacy FitLife increased to 41.6% during the third quarter of 2026 compared to 39.3% during the third quarter of 2025. Contribution as a percentage of revenue increased to 33.6% compared to 31.5% during the same period last year.
+Irwin
+(Unaudited)
+2025 | 2026
+Q3 | Q4 | Q1 | Q2 | Q3
+Wholesale revenue | $ | 6,510 | $ | 11,216 | $ | 10,295 | $ | 10,695 | $ | 9,390
+Online revenue | 311 | 1,428 | 2,554 | 3,440 | 3,626
+Total revenue | $ | 6,821 | $ | 12,644 | $ | 12,849 | $ | 14,135 | $ | 13,016
+Gross profit | 2,194 | 3,544 | 4,374 | 4,634 | 4,420
+Gross margin | 32.2 | % | 28.0 | % | 34.0 | % | 32.8 | % | 34.0 | %
+Advertising and marketing | 72 | 182 | 358 | 508 | 568
+Contribution | $ | 2,122 | $ | 3,362 | $ | 4,016 | $ | 4,126 | $ | 3,852
+Contribution as a % of revenue | 31.1 | % | 26.6 | % | 31.3 | % | 29.2 | % | 29.6 | %
+Irwin was acquired on August 8, 2025; the reported performance for the third quarter of 2025 reflects only the period from August 8, 2025 through September 30, 2025.
+For the third quarter of 2026, Irwin generated total revenue of $13.0 million, an increase of 91% compared to the period from August 8 through September 30, 2025, primarily due to the inclusion of a full quarter of Irwin’s operations.
+Online revenue during the third quarter of 2026 represents transactions through Irwin’s websites as well as through Amazon and other e-commerce platforms. The Company began selling Irwin products on Amazon in mid-October 2025, and sales have continued to increase to an annual revenue run rate of over $12 million by the end of the third quarter of 2026. Online revenue for Irwin as a percentage of total revenue was 28% during the third quarter of 2026 compared to 5% during the third quarter of 2025.
+Irwin generated gross margin of 34.0% and contribution as a percentage of revenue of 29.6% during the third quarter of 2026.
+4
+FitLife Consolidated
+(Unaudited)
+2025 | 2026
+Q3 | Q4 | Q1 | Q2 | Q3
+Wholesale revenue | $ | 13,196 | $ | 15,454 | $ | 14,093 | $ | 14,608 | $ | 13,807
+Online revenue | 10,289 | 10,456 | 11,232 | 11,941 | 11,813
+Total revenue | $ | 23,485 | $ | 25,910 | $ | 25,325 | $ | 26,549 | $ | 25,620
+Gross profit | 8,736 | 8,939 | 9,517 | 9,811 | 9,667
+Gross margin | 37.2 | % | 34.5 | % | 37.6 | % | 37.0 | % | 37.7 | %
+Advertising and marketing | 1,357 | 1,259 | 1,245 | 1,449 | 1,585
+Contribution | $ | 7,379 | $ | 7,680 | $ | 8,272 | $ | 8,362 | $ | 8,082
+Contribution as a % of revenue | 31.4 | % | 29.6 | % | 32.7 | % | 31.5 | % | 31.5 | %
+For the Company overall, revenue increased 9%, gross profit increased 11%, and contribution increased 10% compared to the third quarter of 2025. Gross margin was 37.7% compared to 37.2% during the third quarter of 2025 (or 38.9% excluding the impact of the inventory step-up amortization). Contribution as a percentage of revenue was 31.5% compared to 31.4% during the same period last year (or 33.1% excluding the impact of the inventory step-up amortization).
+Management Commentary
+Dayton Judd, Chairman and CEO of the Company commented, “Our business continues to be challenged by a weak consumer environment. In addition, we continue to experience challenges unique to some of the categories and channels in which we operate. That said, we have now owned Irwin Naturals for four complete quarters, and we are encouraged that revenue for the Company overall is roughly flat despite the headwinds. In each of the previous four quarters, the Company generated revenue between $25.3 million and $26.5 million and Adjusted EBITDA between $3.3 million and $3.7 million. For the trailing 12 months, revenue is $103.4 million and Adjusted EBITDA is $13.7 million.
+“It is important to note that not all brands are declining. Although a weak consumer environment affects all brands, the only areas where we are seeing notable declines are (1) with MRC on Amazon, and (2) in the specialty retail channel, primarily due to GNC for some of our Legacy FitLife brands and the health food channel for Irwin.
+“Aside from these challenges, we are encouraged by the performance of the rest of the business. Online revenue continues to grow, with the Irwin and MusclePharm brands delivering particularly strong performance and reaching all-time highs during the third quarter of 2026. MusclePharm continues to improve in the wholesale channel as well, achieving its second highest quarter of wholesale revenue during the third quarter of 2026 at substantially improved gross margins.
+5
+“In an effort to operate more efficiently in the current environment, the Company undertook a restructuring initiative during the third quarter. The initiative, which was substantially completed by the end of the third quarter, is anticipated to decrease the Company’s annual operating expense by approximately $1.2 million annually beginning in the fourth quarter of 2026. The Company has also completed other initiatives that are anticipated to result in reduced cost of goods sold.
+“With regard to the balance sheet, our debt increased slightly during the quarter, driven entirely by temporary fluctuations in working capital. More specifically, compared to the end of the second quarter of 2026, accounts receivable increased by $1.1 million, inventory increased by $1.7 million, and prepaids increased by $0.7 million, while accounts payable increased only $0.3 million. We expect working capital to normalize in the future and debt reduction to continue.
+“A substantial portion of the increase in working capital relates to opportunistic, forward purchases or commitment payments for whey protein and fish oil, two commodities that are experiencing dramatic cost increases driven by supply shortages. With payments made during the third quarter (and early in the fourth quarter), the Company has locked in fixed-price supply of fish oil to meet the majority of its needs over approximately the next 12 months.
+“To summarize, we continue to experience headwinds in certain parts of our business, but fortunately not in all. And we believe the cost reduction actions we have recently taken will allow the Company to compete more efficiently going forward.”
+Earnings Conference Call
+The Company will hold an investor conference call on Monday, November 16, 2026 at 4:30 pm ET. Investors interested in participating in the live call can dial (833) 492-0064 from the U.S. and provide the conference identification code of 647543. International participants can dial (973) 528-0163 and provide the same code.
+6
+About FitLife Brands
+FitLife Brands is a developer and marketer of innovative and proprietary nutritional supplements and wellness products for health-conscious consumers. FitLife markets more than 500 different products online and through various retail locations. FitLife is headquartered in Omaha, Nebraska. For more information, please visit our website at www.fitlifebrands.com.
+Forward-Looking Statements
+Statements in this release that are forward-looking involve known and unknown risks and uncertainties, which may cause the Company's actual results in future periods to be materially different from any future performance that may be suggested in this news release. Such factors may include, but are not limited to, the ability of the Company to continue to grow revenue, the Company's ability to continue to achieve positive cash flow given the Company's existing and anticipated operating and other costs, and the Company’s ability to comply with its financial covenants, and the Company’s ability to service its debt. Many of these risks and uncertainties are beyond the Company's control. Reference is made to the discussion of risk factors detailed in the Company's filings with the Securities and Exchange Commission including its reports on Form 10-K and Form 10-Q. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the dates on which they are made.
+7
+FITLIFE BRANDS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except per share data)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+ASSETS:
+CURRENT ASSETS
+Cash and cash equivalents | $ | 689 | $ | 1,646
+Accounts receivable, net | 8,047 | 8,765
+Inventories, net | 22,740 | 21,324
+Prepaid expense and other current assets | 2,140 | 1,334
+Total current assets | 33,616 | 33,069
+Property and equipment, net | 52 | 128
+Right of use asset | 379 | 682
+Intangibles, net | 50,727 | 51,440
+Goodwill | 19,333 | 19,393
+Deferred tax asset | 697 | 1,525
+Derivative asset | 486 | -
+Other assets | 88 | 83
+TOTAL ASSETS | $ | 105,378 | $ | 106,320
+LIABILITIES AND STOCKHOLDERS' EQUITY:
+CURRENT LIABILITIES:
+Accounts payable | $ | 6,908 | $ | 6,911
+Accrued expense | 4,602 | 5,429
+Income taxes payable | 1,801 | 1,704
+Product returns | 989 | 1,039
+Term loan – current portion | 6,094 | 6,094
+Lease liability - current portion | 158 | 433
+Total current liabilities | 20,552 | 21,610
+Revolving line of credit | 4,800 | 5,600
+Term loan, net of current portion and unamortized deferred finance costs | 28,304 | 32,849
+Long-term lease liability, net of current portion | 227 | 272
+Derivative liability | - | 26
+Deferred tax liability | 2,242 | 2,324
+TOTAL LIABILITIES | 56,125 | 62,681
+STOCKHOLDERS’ EQUITY:
+Preferred stock, $0.01 par value, 10,000 shares authorized, none outstanding as of September 30, 2026 and December 31, 2025 | - | -
+Common stock, $0.01 par value, 120,000 shares authorized; 9,391 issued and outstanding as of September 30, 2026 and December 31, 2025 | 94 | 94
+Additional paid-in capital | 32,384 | 32,213
+Retained earnings | 17,134 | 11,893
+Accumulated other comprehensive loss | (359 | ) | (561 | )
+TOTAL STOCKHOLDERS' EQUITY | 49,253 | 43,639
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY | $ | 105,378 | $ | 106,320
+8
+FITLIFE BRANDS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2026 AND 2025
+(In thousands, except per share data)
+(Unaudited)
+Three months ended September 30 | Nine months ended September 30
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 25,620 | $ | 23,485 | $ | 77,494 | $ | 55,548
+Cost of goods sold | 15,953 | 14,749 | 48,499 | 33,034
+Gross profit | 9,667 | 8,736 | 28,995 | 22,514
+OPERATING EXPENSE:
+Advertising and marketing | 1,585 | 1,357 | 4,279 | 3,601
+Selling, general and administrative | 5,177 | 4,105 | 14,895 | 9,102
+Merger and acquisition related | - | 820 | - | 1,848
+Depreciation and amortization | 250 | 136 | 750 | 169
+Total operating expense | 7,012 | 6,418 | 19,924 | 14,720
+OPERATING INCOME | 2,655 | 2,318 | 9,071 | 7,794
+OTHER EXPENSE (INCOME)
+Interest expense, net | 654 | 562 | 2,068 | 955
+Other expense | - | 49 | - | 49
+Foreign exchange gain | (35 | ) | (43 | ) | (64 | ) | (57 | )
+Total other expense, net | 619 | 568 | 2,004 | 947
+INCOME BEFORE INCOME TAX PROVISION | 2,036 | 1,750 | 7,067 | 6,847
+PROVISION FOR INCOME TAXES | 465 | 829 | 1,826 | 2,161
+NET INCOME | $ | 1,571 | $ | 921 | $ | 5,241 | $ | 4,686
+NET INCOME PER SHARE
+Basic | $ | 0.17 | $ | 0.10 | $ | 0.56 | $ | 0.50
+Diluted | $ | 0.16 | $ | 0.09 | $ | 0.53 | $ | 0.47
+Basic weighted average common shares | 9,391 | 9,391 | 9,391 | 9,332
+Diluted weighted average common shares | 9,907 | 9,997 | 9,935 | 9,962
+9
+FITLIFE BRANDS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2026 AND 2025
+(In thousands)
+(Unaudited)
+Nine months ended September 30
+2026 | 2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income | $ | 5,241 | $ | 4,686
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization | 750 | 169
+Allowance for credit losses | 57 | (19 | )
+Allowance for inventory obsolescence | (151 | ) | 154
+Stock-based compensation | 171 | 332
+Amortization of deferred financing costs | 26 | 31
+Write-off of deferred financing costs | - | 49
+Amortization of inventory step-up | - | 392
+Changes in operating assets and liabilities:
+Accounts receivable - trade | 642 | (680 | )
+Inventories | (1,177 | ) | (860 | )
+Deferred tax asset | 828 | 77
+Prepaid expense and other assets | (919 | ) | (811 | )
+Right-of-use asset | 303 | 139
+Accounts payable | (93 | ) | 2,980
+Income taxes payable | (161 | ) | 274
+Lease liability | (319 | ) | (114 | )
+Accrued expense and other current liabilities | (702 | ) | 605
+Product returns | (51 | ) | (209 | )
+Net cash provided by operating activities | 4,445 | 7,195
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Cash paid for Irwin acquisition | - | (42,500 | )
+Purchase of property and equipment | - | (37 | )
+Net cash used in investing activities | - | (42,537 | )
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from exercise of stock options | - | 682
+Payments on 2025 term loan | (4,571 | ) | -
+Payoff of 2023 term loan | - | (10,875 | )
+Borrowings on term loans | - | 40,452
+Payments on term loans | - | (2,250 | )
+Borrowings on line of credit | 11,800 | 6,000
+Payments on line of credit | (12,600 | ) | -
+Net cash provided by (used in) financing activities | (5,371 | ) | 34,009
+Foreign currency impact on cash | (31 | ) | 325
+CHANGE IN CASH AND CASH EQUIVALENTS | (957 | ) | (1,008 | )
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD | 1,646 | 4,520
+CASH AND CASH EQUIVALENTS, END OF PERIOD | $ | 689 | $ | 3,512
+Supplemental cash flow disclosure
+Cash paid for income taxes | $ | 1,777 | $ | 2,278
+Cash paid for interest, net of amounts capitalized | $ | 2,045 | $ | 1,087
+10
+Non-GAAP Measures
+The financial presentation below contains certain financial measures not in accordance with GAAP, defined by the SEC as “non-GAAP financial measures”, including EBITDA and adjusted EBITDA. These measures may be different from non-GAAP financial measures used by other companies. The presentation of this financial information, which is not prepared under any comprehensive set of accounting rules or principles, is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+As presented below, EBITDA excludes interest, foreign exchange gains and losses, income taxes, and depreciation and amortization. Adjusted EBITDA excludes—in addition to interest, foreign exchange gains and losses, taxes, depreciation and amortization—stock-based compensation, merger and acquisition related expense, and other non-recurring items, which in the periods presented include amortization of inventory step-up, write-off of deferred financing costs, and restructuring costs. The Company believes the non-GAAP measures provide useful information to both management and investors by excluding certain expense and other items that may not be indicative of its core operating results and business outlook. The Company believes that the inclusion of non-GAAP measures in the financial presentation below allows investors to compare the Company’s financial results with the Company’s historical financial results and is an important measure of the Company’s comparative financial performance.
+For the three months ended September 30 | For the nine months ended September 30
+2026 | 2025 | 2026 | 2025
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Net income | $ | 1,571 | $ | 921 | $ | 5,241 | $ | 4,686
+Interest expense, net | 654 | 562 | 2,068 | 955
+Foreign exchange gain | (35 | ) | (43 | ) | (64 | ) | (57 | )
+Provision for income taxes | 465 | 829 | 1,826 | 2,161
+Depreciation and amortization | 250 | 136 | 750 | 169
+EBITDA | 2,905 | 2,405 | 9,821 | 7,914
+Non-cash and non-recurring adjustments
+Stock-based compensation | 96 | 126 | 171 | 332
+Merger and acquisition related | - | 820 | - | 1,848
+Amortization of inventory step-up | - | 392 | - | 392
+Write-off of deferred financing costs | - | 49 | - | 49
+Restructuring costs | 280 | - | 280 | -
+Adjusted EBITDA | $ | 3,281 | $ | 3,792 | $ | 10,272 | $ | 10,535
+11
