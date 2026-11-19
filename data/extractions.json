@@ -1156,5 +1156,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/ex_1047272.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/0001437749-26-037424-index.htm",
     "saved_at": "2026-11-19T06:08:05+08:00"
+  },
+  {
+    "cik": "1261654",
+    "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+    "accession": "0001261654-26-000021",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 235.883,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 235,883"
+      },
+      "operating_income": {
+        "value": 26.265,
+        "unit": "USD millions",
+        "quote": "Income from operations | 26,265"
+      },
+      "net_income": {
+        "value": 18.037,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,037"
+      },
+      "diluted_eps": {
+        "value": 0.32,
+        "unit": "USD per share",
+        "quote": "Net income per share - diluted | $ | 0.32"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027 the company expects revenue of $925 million to $945 million, with new student starts growing 9% at the midpoint.",
+      "quote": "Looking ahead to fiscal 2027, we expect revenue between $925 million and $945 million, while new student starts are expected to grow 9% at the midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says fourth-quarter revenue rose 6.0% to $235.9 million and adjusted EBITDA rose 15.5% to $42.5 million.",
+        "quote": "Revenue increased 6.0% to $235.9 million, average full-time active students grew 6.3% and adjusted EBITDA increased 15.5% to $42.5 million."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says new student starts, average full-time active students and revenue each grew 7% in fiscal 2026, with revenue reaching $897 million.",
+        "quote": "We grew new student starts, average full-time active students and revenue by 7% year-over-year each, with revenue reaching $897 million."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CFO says growth investments in new campuses and programs will temporarily pressure margins.",
+        "quote": "We view these as disciplined, high-return investments that will temporarily pressure margins while building meaningful earnings power for the years ahead."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects revenue above $1.2 billion and adjusted EBITDA approaching $220 million in fiscal 2029.",
+        "quote": "Together, these initiatives give us even greater confidence in our ability to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO stress continued growth and confidence in long-term targets, while noting that growth investments will temporarily pressure margins."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1261654-0001261654-26-000021.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/exhibit991-q42026earningsp.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/0001261654-26-000021-index.htm",
+    "saved_at": "2026-11-20T06:07:51+08:00"
+  },
+  {
+    "cik": "109198",
+    "company": "TJX COMPANIES INC /DE/",
+    "accession": "0000109198-26-000058",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 15952,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 15,952"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1543,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 1,543"
+      },
+      "diluted_eps": {
+        "value": 1.39,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.39"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of Fiscal 2027 the company plans consolidated comparable sales to rise 2% to 3%.",
+      "quote": "For the fourth quarter of Fiscal 2027, the Company is planning consolidated comparable sales to be up 2% to 3%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says sales, profitability and earnings per share all exceeded expectations in the third quarter.",
+        "quote": "Overall sales, profitability, and earnings per share all exceeded our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says consolidated comparable sales grew 4%, led by HomeGoods, TJX Canada and TJX International.",
+        "quote": "Consolidated comparable sales grew 4%, driven by continued strength at HomeGoods, TJX Canada, and TJX International, and we saw improved sales at Marmaxx."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says warm weather has held back some demand but expects sales momentum to accelerate through the holiday season.",
+        "quote": "while we believe the unseasonably warm weather in the U.S. and Canada has been holding back consumer demand in some categories, we are expecting sales momentum to accelerate throughout the holiday season."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is very pleased with above-plan results and confident about the holidays, while noting warm weather held back some demand."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/109198-0000109198-26-000058.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/tjxq3fy27earningspressrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
+    "saved_at": "2026-11-20T06:07:51+08:00"
   }
 ]
