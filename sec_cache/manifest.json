@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-18T11:07:08+08:00",
+  "fetched_at": "2026-11-19T10:30:46+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-16",
-    "end": "2026-11-17",
+    "start": "2026-11-17",
+    "end": "2026-11-18",
     "first_run": false,
     "note": null
   },
@@ -14,116 +14,116 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 158 ms"
-    },
-    {
-      "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
-      "ok": true,
-      "detail": "HTTP 200, 44 KB in 54 ms"
+      "detail": "HTTP 200, 43 KB in 139 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 183 ms"
+      "detail": "HTTP 200, 148 KB in 122 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 79 ms"
+      "detail": "HTTP 200, 156 KB in 125 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 73 ms"
+      "detail": "HTTP 200, 153 KB in 74 ms"
     },
     {
-      "name": "CENTURY CASINOS INC /CO/ filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/index.json",
+      "name": "UNIVERSAL TECHNICAL INSTITUTE INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 148 ms"
+      "detail": "HTTP 200, 7 KB in 110 ms"
     },
     {
-      "name": "CENTURY CASINOS INC /CO/ press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/cnty-20261117xex99_1.htm",
+      "name": "UNIVERSAL TECHNICAL INSTITUTE INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/exhibit991-q42026earningsp.htm",
       "ok": true,
-      "detail": "HTTP 200, 48 KB in 108 ms"
+      "detail": "HTTP 200, 465 KB in 311 ms"
     },
     {
-      "name": "FITLIFE BRANDS, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/index.json",
+      "name": "TJX COMPANIES INC /DE/ filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 95 ms"
+      "detail": "HTTP 200, 1 KB in 86 ms"
     },
     {
-      "name": "FITLIFE BRANDS, INC. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/0001437749-26-037424-index.htm",
+      "name": "TJX COMPANIES INC /DE/ filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 213 ms"
+      "detail": "HTTP 200, 9 KB in 348 ms"
     },
     {
-      "name": "FITLIFE BRANDS, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1374328/000143774926037424/ex_1047272.htm",
+      "name": "TJX COMPANIES INC /DE/ press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/tjxq3fy27earningspressrele.htm",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 186 ms"
+      "detail": "HTTP 200, 252 KB in 222 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 78 ms"
+      "detail": "HTTP 200, 3,174 KB in 184 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 76 ms"
+      "detail": "HTTP 200, 4,447 KB in 287 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 163 ms"
+      "detail": "HTTP 200, 2,745 KB in 235 ms"
     },
     {
-      "name": "CENTURY CASINOS INC /CO/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
+      "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 103 ms"
+      "detail": "HTTP 200, 3,027 KB in 123 ms"
     },
     {
-      "name": "FITLIFE BRANDS, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001374328.json",
+      "name": "TJX COMPANIES INC /DE/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 2,254 KB in 178 ms"
+      "detail": "HTTP 200, 3,568 KB in 555 ms"
     },
     {
       "name": "VOC Energy Trust company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001505413.json",
       "ok": false,
       "detail": "HTTP 404 from data.sec.gov: the address was not found"
+    },
+    {
+      "name": "CENTURY CASINOS INC /CO/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,079 KB in 269 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000109198.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000911147.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001374328.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "efts.sec.gov_search-index_from100.json",
-    "www.sec.gov_Archives_edgar_data_1374328_000143774926037424_0001437749-26-037424-index.htm",
-    "www.sec.gov_Archives_edgar_data_1374328_000143774926037424_ex_1047272.htm",
-    "www.sec.gov_Archives_edgar_data_1374328_000143774926037424_index.json",
-    "www.sec.gov_Archives_edgar_data_911147_000091114726000057_cnty-20261117xex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_911147_000091114726000057_index.json"
+    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_0000109198-26-000058-index.htm",
+    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_index.json",
+    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_tjxq3fy27earningspressrele.htm",
+    "www.sec.gov_Archives_edgar_data_1261654_000126165426000021_exhibit991-q42026earningsp.htm",
+    "www.sec.gov_Archives_edgar_data_1261654_000126165426000021_index.json"
   ]
 }
