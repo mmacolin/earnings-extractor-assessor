@@ -1284,5 +1284,127 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/tjxq3fy27earningspressrele.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
     "saved_at": "2026-11-20T06:07:51+08:00"
+  },
+  {
+    "cik": "884614",
+    "company": "UGI CORP /PA/",
+    "accession": "0000884614-26-000064",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1157,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 1,157"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 8,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to UGI Corporation | $ | 8"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.04"
+      }
+    },
+    "guidance": {
+      "text": "UGI expects adjusted diluted EPS of $2.90 to $3.20 for the fiscal year ending 30 September 2027, assuming normal weather and the current tax regime.",
+      "quote": "UGI provides an adjusted EPS guidance range of $2.90 - $3.202 per diluted share for the fiscal year ending September 30, 2027. This guidance range assumes normal weather and the current tax regime."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says UGI grew EBIT year on year, simplified its portfolio and strengthened its balance sheet in fiscal 2026.",
+        "quote": "We delivered year-over-year growth in EBIT, simplified our portfolio and strengthened our balance sheet, all while continuing to invest in the safety and reliability of the systems our customers depend on."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the transformation of AmeriGas continues, with more focus on profitable volume growth.",
+        "quote": "At AmeriGas, the hard work of transforming the business continues with the team now increasing their focus on profitable volumetric growth."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The company says adjusted diluted EPS beat its revised guidance range issued on 6 May 2026.",
+        "quote": "Delivered adjusted diluted EPS that exceeded our revised guidance range issued on May 6, 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls fiscal 2026 a year of disciplined execution and meaningful progress, while noting that work at AmeriGas continues."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/884614-0000884614-26-000064.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm",
+    "saved_at": "2026-11-21T06:08:16+08:00"
+  },
+  {
+    "cik": "1601046",
+    "company": "Keysight Technologies, Inc.",
+    "accession": "0001601046-26-000040",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1994,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 1,994 | $ | 1,419"
+      },
+      "operating_income": {
+        "value": 586,
+        "unit": "USD millions",
+        "quote": "Income from operations | 586 | 217"
+      },
+      "net_income": {
+        "value": 486,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 486 | $ | 233"
+      },
+      "diluted_eps": {
+        "value": 2.82,
+        "unit": "USD per share",
+        "quote": "Net income per share | $ | 2.82 | $ | 1.35"
+      }
+    },
+    "guidance": {
+      "text": "Keysight expects revenue of $2.040 billion to $2.060 billion for the first fiscal quarter of 2027.",
+      "quote": "Keysight’s first fiscal quarter of 2027 revenue is expected to be in the range of $2.040 billion to $2.060 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 was the strongest year in Keysight's history, with strong order and revenue growth and much higher EPS.",
+        "quote": "Keysight delivered the strongest year in the company’s history, with robust order and revenue growth and significant earnings per share expansion"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says past investments position Keysight to grow and outperform its markets in fiscal 2027.",
+        "quote": "As we look ahead, the investments we have made to differentiate our portfolio position us to deliver growth and outperform our markets in fiscal 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The company says record fourth-quarter and full-year results came from strong growth across all end markets.",
+        "quote": "Delivers record fourth quarter and fiscal year results driven by strong growth across all end markets"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it the strongest year in the company's history and expects growth and outperformance in fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1601046-0001601046-26-000040.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/exhibit991-q426pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/0001601046-26-000040-index.htm",
+    "saved_at": "2026-11-21T06:08:16+08:00"
   }
 ]
