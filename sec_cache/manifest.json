@@ -1,129 +1,130 @@
 {
-  "fetched_at": "2026-11-19T10:47:44+08:00",
+  "fetched_at": "2026-11-20T10:16:22+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-17",
-    "end": "2026-11-18",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
   "requests": 16,
-  "answered": 15,
+  "answered": 16,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 1266 ms"
+      "detail": "HTTP 200, 41 KB in 218 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 146 ms"
+      "detail": "HTTP 200, 148 KB in 123 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 146 ms"
+      "detail": "HTTP 200, 156 KB in 49 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 135 ms"
+      "detail": "HTTP 200, 153 KB in 55 ms"
     },
     {
-      "name": "UNIVERSAL TECHNICAL INSTITUTE INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/index.json",
+      "name": "UGI CORP /PA/ filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/index.json",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 71 ms"
+      "detail": "HTTP 200, 5 KB in 73 ms"
     },
     {
-      "name": "UNIVERSAL TECHNICAL INSTITUTE INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/exhibit991-q42026earningsp.htm",
+      "name": "UGI CORP /PA/ press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 465 KB in 81 ms"
+      "detail": "HTTP 200, 213 KB in 55 ms"
     },
     {
-      "name": "TJX COMPANIES INC /DE/ filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/index.json",
+      "name": "Keysight Technologies, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 61 ms"
+      "detail": "HTTP 200, 1 KB in 85 ms"
     },
     {
-      "name": "TJX COMPANIES INC /DE/ filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
+      "name": "Keysight Technologies, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/exhibit991-q426pressrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 200 ms"
-    },
-    {
-      "name": "TJX COMPANIES INC /DE/ press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/tjxq3fy27earningspressrele.htm",
-      "ok": true,
-      "detail": "HTTP 200, 252 KB in 64 ms"
+      "detail": "HTTP 200, 297 KB in 123 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 265 ms"
+      "detail": "HTTP 200, 3,174 KB in 121 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 248 ms"
+      "detail": "HTTP 200, 4,447 KB in 152 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 195 ms"
+      "detail": "HTTP 200, 2,745 KB in 123 ms"
     },
     {
-      "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
+      "name": "UGI CORP /PA/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000884614.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 467 ms"
+      "detail": "HTTP 200, 4,035 KB in 163 ms"
     },
     {
-      "name": "TJX COMPANIES INC /DE/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
+      "name": "Keysight Technologies, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601046.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 254 ms"
-    },
-    {
-      "name": "VOC Energy Trust company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001505413.json",
-      "ok": false,
-      "detail": "HTTP 404 from data.sec.gov: the address was not found"
+      "detail": "HTTP 200, 3,434 KB in 206 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 405 ms"
+      "detail": "HTTP 200, 3,079 KB in 558 ms"
+    },
+    {
+      "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,027 KB in 170 ms"
+    },
+    {
+      "name": "TJX COMPANIES INC /DE/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,568 KB in 169 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000109198.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000884614.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000911147.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001601046.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_0000109198-26-000058-index.htm",
-    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_index.json",
-    "www.sec.gov_Archives_edgar_data_109198_000010919826000058_tjxq3fy27earningspressrele.htm",
-    "www.sec.gov_Archives_edgar_data_1261654_000126165426000021_exhibit991-q42026earningsp.htm",
-    "www.sec.gov_Archives_edgar_data_1261654_000126165426000021_index.json"
+    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_exhibit991-q426pressrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_index.json",
+    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_index.json",
+    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_ugisept2026ex991.htm"
   ]
 }
