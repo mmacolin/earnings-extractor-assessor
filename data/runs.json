@@ -5083,5 +5083,141 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-21T06:37:45+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-21-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 5,
+      "failures": [
+        {
+          "name": "CENTURY CASINOS INC /CO/ company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "TJX COMPANIES INC /DE/ company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "UGI CORP /PA/ company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Keysight Technologies, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 20
+    },
+    "companies": [
+      {
+        "cik": "911147",
+        "company": "CENTURY CASINOS INC /CO/",
+        "accession": "0000911147-26-000057",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1261654",
+        "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+        "accession": "0001261654-26-000021",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "109198",
+        "company": "TJX COMPANIES INC /DE/",
+        "accession": "0000109198-26-000058",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "884614",
+        "company": "UGI CORP /PA/",
+        "accession": "0000884614-26-000064",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1601046",
+        "company": "Keysight Technologies, Inc.",
+        "accession": "0001601046-26-000040",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 0 figures confirmed, 0 mismatches, 20 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-21T06:08:16+08:00",
+      "watch_brief": "briefs/2026-11-21-watch.md",
+      "brief_says": 38,
+      "saved_for_run": 38,
+      "match": true
+    },
+    "offline": false
   }
 ]
