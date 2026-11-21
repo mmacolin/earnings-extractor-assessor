@@ -1406,5 +1406,102 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/exhibit991-q426pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/0001601046-26-000040-index.htm",
     "saved_at": "2026-11-21T06:08:16+08:00"
+  },
+  {
+    "cik": "41719",
+    "company": "Magnera Corp",
+    "accession": "0001140361-26-044950",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 851,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 851 | $ | 839 | $ | 3,296 | $ | 3,204"
+      },
+      "operating_income": {
+        "value": -90,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | (90 | ) | 10 | (37 | ) | 5"
+      },
+      "net_income": {
+        "value": -141,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (141 | ) | $ | (40 | )"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "For fiscal 2027 Magnera expects Adjusted EBITDA of $390 million to $410 million.",
+      "quote": "Adjusted EBITDA of $390 - $410 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says Adjusted EBITDA in the fourth quarter improved by 8% on last year.",
+        "quote": "We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says Project CORE and synergies are optimising the cost structure, enhancing profitability and generating cash.",
+        "quote": "Through the successful implementation of Project CORE, ongoing realization of synergies, and a relentless focus on operational excellence, we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO is confident of sustainable earnings growth and strong cash generation, while mindful of the macroeconomic environment.",
+        "quote": "we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results impressive and strong and is confident of growth, with only brief mention of inflation and the macroeconomic environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/41719-0001140361-26-044950.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+    "saved_at": "2026-11-22T06:08:27+08:00"
+  },
+  {
+    "cik": "885245",
+    "company": "BUCKLE INC",
+    "accession": "0000885245-26-000041",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 329.202,
+        "unit": "USD millions",
+        "quote": "SALES, Net of returns and allowances | $ | 329,202 | $ | 320,837"
+      },
+      "operating_income": {
+        "value": 59.387,
+        "unit": "USD millions",
+        "quote": "INCOME FROM OPERATIONS | 59,387 | 60,914"
+      },
+      "net_income": {
+        "value": 48.037,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 48,037 | $ | 48,700"
+      },
+      "diluted_eps": {
+        "value": 0.94,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.94 | $ | 0.96"
+      }
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/885245-0000885245-26-000041.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/bke20261120-8kexhibit.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
+    "saved_at": "2026-11-22T06:08:27+08:00"
   }
 ]
