@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T10:10:09+08:00",
+  "fetched_at": "2026-11-21T10:48:28+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 787 ms"
+      "detail": "HTTP 200, 31 KB in 196 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 95 ms"
+      "detail": "HTTP 200, 149 KB in 62 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 58 ms"
+      "detail": "HTTP 200, 156 KB in 21 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 128 ms"
+      "detail": "HTTP 200, 153 KB in 20 ms"
     },
     {
       "name": "Magnera Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 153 ms"
+      "detail": "HTTP 200, 1 KB in 217 ms"
     },
     {
       "name": "Magnera Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 372 KB in 118 ms"
+      "detail": "HTTP 200, 372 KB in 46 ms"
     },
     {
       "name": "BUCKLE INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 41 ms"
+      "detail": "HTTP 200, 1 KB in 122 ms"
     },
     {
       "name": "BUCKLE INC filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 58 ms"
+      "detail": "HTTP 200, 10 KB in 61 ms"
     },
     {
       "name": "BUCKLE INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/bke20261120-8kexhibit.htm",
       "ok": true,
-      "detail": "HTTP 200, 114 KB in 91 ms"
+      "detail": "HTTP 200, 114 KB in 36 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 116 ms"
+      "detail": "HTTP 200, 3,174 KB in 31 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 763 ms"
+      "detail": "HTTP 200, 4,447 KB in 28 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 84 ms"
+      "detail": "HTTP 200, 2,745 KB in 24 ms"
     },
     {
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 586 ms"
+      "detail": "HTTP 200, 2,904 KB in 28 ms"
     },
     {
       "name": "BUCKLE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
       "ok": true,
-      "detail": "HTTP 200, 2,249 KB in 857 ms"
+      "detail": "HTTP 200, 2,249 KB in 79 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 686 ms"
+      "detail": "HTTP 200, 3,079 KB in 301 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 87 ms"
+      "detail": "HTTP 200, 3,027 KB in 35 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 499 ms"
+      "detail": "HTTP 200, 3,568 KB in 46 ms"
     },
     {
       "name": "UGI CORP /PA/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000884614.json",
       "ok": true,
-      "detail": "HTTP 200, 4,035 KB in 196 ms"
+      "detail": "HTTP 200, 4,035 KB in 101 ms"
     },
     {
       "name": "Keysight Technologies, Inc. company facts",
