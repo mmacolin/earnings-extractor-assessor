@@ -1,117 +1,137 @@
 {
-  "fetched_at": "2026-11-20T10:34:35+08:00",
+  "fetched_at": "2026-11-21T10:10:09+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-18",
-    "end": "2026-11-19",
+    "start": "2026-11-19",
+    "end": "2026-11-20",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 19,
+  "answered": 19,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 447 ms"
+      "detail": "HTTP 200, 31 KB in 787 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 144 ms"
+      "detail": "HTTP 200, 149 KB in 95 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 80 ms"
+      "detail": "HTTP 200, 156 KB in 58 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 116 ms"
+      "detail": "HTTP 200, 153 KB in 128 ms"
     },
     {
-      "name": "UGI CORP /PA/ filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/index.json",
+      "name": "Magnera Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 159 ms"
+      "detail": "HTTP 200, 1 KB in 153 ms"
     },
     {
-      "name": "UGI CORP /PA/ press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
+      "name": "Magnera Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 213 KB in 83 ms"
+      "detail": "HTTP 200, 372 KB in 118 ms"
     },
     {
-      "name": "Keysight Technologies, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/index.json",
+      "name": "BUCKLE INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 86 ms"
+      "detail": "HTTP 200, 1 KB in 41 ms"
     },
     {
-      "name": "Keysight Technologies, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/exhibit991-q426pressrelease.htm",
+      "name": "BUCKLE INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 297 KB in 83 ms"
+      "detail": "HTTP 200, 10 KB in 58 ms"
+    },
+    {
+      "name": "BUCKLE INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/bke20261120-8kexhibit.htm",
+      "ok": true,
+      "detail": "HTTP 200, 114 KB in 91 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 87 ms"
+      "detail": "HTTP 200, 3,174 KB in 116 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 106 ms"
+      "detail": "HTTP 200, 4,447 KB in 763 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 106 ms"
+      "detail": "HTTP 200, 2,745 KB in 84 ms"
     },
     {
-      "name": "UGI CORP /PA/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000884614.json",
+      "name": "Magnera Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 4,035 KB in 397 ms"
+      "detail": "HTTP 200, 2,904 KB in 586 ms"
     },
     {
-      "name": "Keysight Technologies, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601046.json",
+      "name": "BUCKLE INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
       "ok": true,
-      "detail": "HTTP 200, 3,434 KB in 691 ms"
+      "detail": "HTTP 200, 2,249 KB in 857 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 257 ms"
+      "detail": "HTTP 200, 3,079 KB in 686 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 196 ms"
+      "detail": "HTTP 200, 3,027 KB in 87 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 229 ms"
+      "detail": "HTTP 200, 3,568 KB in 499 ms"
+    },
+    {
+      "name": "UGI CORP /PA/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000884614.json",
+      "ok": true,
+      "detail": "HTTP 200, 4,035 KB in 196 ms"
+    },
+    {
+      "name": "Keysight Technologies, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601046.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,434 KB in 631 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000041719.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000109198.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000884614.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000885245.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000911147.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
@@ -122,9 +142,10 @@
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_exhibit991-q426pressrelease.htm",
-    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_index.json",
-    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_index.json",
-    "www.sec.gov_Archives_edgar_data_884614_000088461426000064_ugisept2026ex991.htm"
+    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_ef20086010_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_index.json",
+    "www.sec.gov_Archives_edgar_data_885245_000088524526000041_0000885245-26-000041-index.htm",
+    "www.sec.gov_Archives_edgar_data_885245_000088524526000041_bke20261120-8kexhibit.htm",
+    "www.sec.gov_Archives_edgar_data_885245_000088524526000041_index.json"
   ]
 }
