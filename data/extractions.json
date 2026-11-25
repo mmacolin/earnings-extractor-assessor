@@ -1503,5 +1503,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/bke20261120-8kexhibit.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
     "saved_at": "2026-11-22T06:08:27+08:00"
+  },
+  {
+    "cik": "1327811",
+    "company": "Workday, Inc.",
+    "accession": "0001327811-26-000057",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 2705,
+        "unit": "USD millions",
+        "quote": "Total revenues | 2,705"
+      },
+      "operating_income": {
+        "value": 329,
+        "unit": "USD millions",
+        "quote": "Operating income | 329"
+      },
+      "net_income": {
+        "value": 237,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 237"
+      },
+      "diluted_eps": {
+        "value": 0.96,
+        "unit": "USD per share",
+        "quote": "Net income per share, diluted | $ | 0.96"
+      }
+    },
+    "guidance": {
+      "text": "Workday expects fourth-quarter fiscal 2027 subscription revenues of $2.600 billion, growth of 10%.",
+      "quote": "Subscription revenues of $2.600 billion, representing growth of 10%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says AI products drove nearly $150 million in new ACV in Q3, more than three times a year earlier.",
+        "quote": "in Q3, our AI products drove nearly $150 million in new ACV, more than three times what we delivered a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says Workday is raising fiscal 2027 subscription revenue guidance to $9.958 billion and non-GAAP operating margin guidance to 31.5%.",
+        "quote": "We are raising our fiscal 2027 subscription revenue guidance to $9.958 billion, growth of 13%, and increasing our fiscal 2027 non-GAAP operating margin guidance to 31.5%."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO says the Q3 results reflect ongoing adoption across the AI portfolio.",
+        "quote": "Our Q3 results reflect ongoing adoption across our AI portfolio, reinforcing our conviction in the compelling opportunity ahead"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls recent quarters the strongest for innovation and the CFO raises full-year guidance; neither names a headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1327811-0001327811-26-000057.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/wday-10312026x991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm",
+    "saved_at": "2026-11-26T06:07:55+08:00"
+  },
+  {
+    "cik": "1809519",
+    "company": "GoodRx Holdings, Inc.",
+    "accession": "0001809519-26-000231",
+    "release_date": "2026-11-24",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 218.398,
+        "unit": "USD millions",
+        "quote": "Revenue | $218,398"
+      },
+      "operating_income": {
+        "value": 35.947,
+        "unit": "USD millions",
+        "quote": "Operating income | 35,947"
+      },
+      "net_income": {
+        "value": 16.416,
+        "unit": "USD millions",
+        "quote": "Net income | $16,416"
+      },
+      "diluted_eps": {
+        "value": 0.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $0.05"
+      }
+    },
+    "guidance": {
+      "text": "GoodRx raised its full-year 2026 revenue guidance to $844 million to $850 million, growth of 6% to 7%.",
+      "quote": "Revenue | $844 - $850 | $796.9 | 6% - 7%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Pharma Direct and subscriptions now account for more than half of total revenue.",
+        "quote": "Pharma Direct and subscriptions are helping us serve more of consumers’ healthcare needs and now account for more than half of our total revenue."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says GoodRx is raising full-year revenue and Adjusted EBITDA guidance and expects 2026 to be a record year for both.",
+        "quote": "We are raising our full-year revenue and Adjusted EBITDA2 guidance, which incorporates the restatement of our first and second quarter results, and expect 2026 to be a record year for both measures."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the third-quarter results show that the strategy set this year is working.",
+        "quote": "Our third quarter results show that the strategy we set in motion this year is working"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the strategy is working and the CFO raises full-year guidance and expects a record year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1809519-0001809519-26-000231.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrxq326-exx991pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/0001809519-26-000231-index.htm",
+    "saved_at": "2026-11-26T06:07:55+08:00"
   }
 ]
